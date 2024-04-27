@@ -1,381 +1,381 @@
-team,opponent,venue,result,win_before_team1,lose_before_team1,draw_before_team1,win_before_team2,lose_before_team2,draw_before_team2,formation_team1,formation_team2,round,attendance,referee,date_time,history_team1_win_team2,history_team1_draw_team2
-Manchester United,Swansea City,Away,W,0.0,0.0,0.0,0.0,0.0,0.0,4-2-3-1,4-2-3-1,Matchweek 1,20733.0,Phil Dowd,2013-08-17 00:00:00,0.0,0.0
-Chelsea,Manchester United,Away,D,1.0,0.0,0.0,1.0,0.0,0.0,4-2-3-1,4-2-3-1,Matchweek 2,75032.0,Martin Atkinson,2013-08-26 00:00:00,0.0,0.0
-Liverpool,Manchester United,Home,W,1.0,0.0,0.0,0.5,0.0,0.5,4-2-3-1,4-2-3-1,Matchweek 3,44411.0,Andre Marriner,2013-09-01 00:00:00,0.0,0.0
-Crystal Palace,Manchester United,Away,L,0.3333333333333333,0.6666666666666666,0.0,0.3333333333333333,0.3333333333333333,0.3333333333333333,4-3-3,4-2-3-1,Matchweek 4,75170.0,Jon Moss,2013-09-14 00:00:00,0.0,0.0
-Manchester City,Manchester United,Home,W,0.5,0.25,0.25,0.5,0.25,0.25,4-4-1-1,4-2-3-1,Matchweek 5,47156.0,Howard Webb,2013-09-22 00:00:00,0.0,0.0
-Manchester United,West Bromwich Albion,Home,L,0.4,0.4,0.2,0.0,0.3333333333333333,0.6666666666666666,4-2-3-1,4-2-3-1,Matchweek 6,75042.0,Michael Oliver,2013-09-28 00:00:00,0.0,0.0
-Manchester United,Sunderland,Away,W,0.2,0.6,0.2,0.0,0.8,0.2,4-2-3-1,4-2-3-1,Matchweek 7,45426.0,Chris Foy,2013-10-05 00:00:00,0.0,0.0
-Manchester United,Southampton,Home,D,0.4,0.6,0.0,0.6,0.2,0.2,4-2-3-1,4-2-3-1,Matchweek 8,75220.0,Mike Jones,2013-10-19 00:00:00,0.0,0.0
-Manchester United,Stoke City,Home,W,0.4,0.4,0.2,0.4,0.4,0.2,4-2-3-1,4-2-3-1,Matchweek 9,75274.0,Lee Mason,2013-10-26 00:00:00,0.0,0.0
-Fulham,Manchester United,Home,L,0.4,0.6,0.0,0.4,0.4,0.2,4-4-1-1,4-2-3-1,Matchweek 10,25700.0,Lee Probert,2013-11-02 00:00:00,0.0,0.0
-Arsenal,Manchester United,Away,L,0.8,0.0,0.2,0.6,0.2,0.2,4-2-3-1,4-2-3-1,Matchweek 11,75138.0,Michael Oliver,2013-11-10 00:00:00,0.0,0.0
-Manchester United,Cardiff City,Away,D,0.8,0.0,0.2,0.2,0.8,0.0,4-2-3-1,4-2-3-1,Matchweek 12,28016.0,Neil Swarbrick,2013-11-24 00:00:00,0.0,0.0
-Manchester United,Tottenham Hotspur,Away,D,0.6,0.0,0.4,0.4,0.4,0.2,4-2-3-1,4-2-3-1,Matchweek 13,35884.0,Mike Dean,2013-12-01 00:00:00,0.0,0.0
-Everton,Manchester United,Away,W,0.4,0.0,0.6,0.6,0.0,0.4,4-2-3-1,4-2-3-1,Matchweek 14,75210.0,Martin Atkinson,2013-12-04 00:00:00,0.0,0.0
-Manchester United,Newcastle United,Home,L,0.4,0.2,0.4,0.8,0.2,0.0,4-4-2,4-3-3,Matchweek 15,75233.0,Andre Marriner,2013-12-07 00:00:00,0.0,0.0
-Aston Villa,Manchester United,Home,L,0.4,0.2,0.4,0.2,0.4,0.4,4-3-3,4-4-1-1,Matchweek 16,42682.0,Lee Mason,2013-12-15 00:00:00,0.0,0.0
-Manchester United,West Ham United,Home,W,0.2,0.4,0.4,0.2,0.6,0.2,4-2-3-1,4-2-3-1,Matchweek 17,75350.0,Mike Jones,2013-12-21 00:00:00,0.0,0.0
-Manchester United,Hull City,Away,W,0.4,0.4,0.2,0.2,0.8,0.0,4-2-3-1,4-2-3-1,Matchweek 18,24826.0,Michael Oliver,2013-12-26 00:00:00,0.0,0.0
-Manchester United,Norwich City,Away,W,0.6,0.4,0.0,0.4,0.6,0.0,4-2-3-1,4-2-3-1,Matchweek 19,26851.0,Phil Dowd,2013-12-28 00:00:00,0.0,0.0
-Manchester United,Tottenham Hotspur,Home,L,0.8,0.2,0.0,0.6,0.2,0.2,4-2-3-1,4-4-2,Matchweek 20,75265.0,Howard Webb,2014-01-01 00:00:00,0.0,1.0
-Manchester United,Swansea City,Home,W,0.8,0.2,0.0,0.2,0.6,0.2,4-2-3-1,4-2-3-1,Matchweek 21,75035.0,Chris Foy,2014-01-11 00:00:00,1.0,0.0
-Chelsea,Manchester United,Home,W,0.8,0.0,0.2,0.8,0.2,0.0,4-2-3-1,4-2-3-1,Matchweek 22,41615.0,Phil Dowd,2014-01-19 00:00:00,0.0,1.0
-Manchester United,Cardiff City,Home,W,0.6,0.4,0.0,0.0,1.0,0.0,4-4-1-1,4-4-1-1,Matchweek 23,75301.0,Craig Pawson,2014-01-28 00:00:00,0.0,1.0
-Manchester United,Stoke City,Away,L,0.6,0.4,0.0,0.0,0.8,0.2,4-2-3-1,4-2-3-1,Matchweek 24,26547.0,Neil Swarbrick,2014-02-01 00:00:00,1.0,0.0
-Fulham,Manchester United,Away,D,0.2,0.8,0.0,0.4,0.6,0.0,4-4-1-1,4-2-3-1,Matchweek 25,74966.0,Kevin Friend,2014-02-09 00:00:00,0.0,0.0
-Arsenal,Manchester United,Home,D,0.6,0.2,0.2,0.4,0.4,0.2,4-2-3-1,4-2-3-1,Matchweek 26,60021.0,Mark Clattenburg,2014-02-12 00:00:00,0.0,0.0
-Crystal Palace,Manchester United,Home,L,0.6,0.4,0.0,0.2,0.4,0.4,4-4-1-1,4-2-3-1,Matchweek 27,24571.0,Michael Oliver,2014-02-22 00:00:00,0.0,0.0
-Manchester United,West Bromwich Albion,Away,W,0.4,0.2,0.4,0.0,0.4,0.6,4-2-3-1,4-2-3-1,Matchweek 29,26184.0,Jon Moss,2014-03-08 00:00:00,0.0,0.0
-Liverpool,Manchester United,Away,W,0.8,0.0,0.2,0.4,0.2,0.4,4-1-2-1-2,4-2-3-1,Matchweek 30,75225.0,Mark Clattenburg,2014-03-16 00:00:00,1.0,0.0
-Manchester United,West Ham United,Away,W,0.4,0.2,0.4,0.6,0.4,0.0,4-2-3-1,4-2-3-1,Matchweek 31,34237.0,Lee Mason,2014-03-22 00:00:00,1.0,0.0
-Manchester City,Manchester United,Away,W,0.6,0.2,0.2,0.6,0.2,0.2,4-2-3-1,4-3-3,Matchweek 28,75203.0,Michael Oliver,2014-03-25 00:00:00,1.0,0.0
-Aston Villa,Manchester United,Away,L,0.4,0.4,0.2,0.6,0.4,0.0,4-2-3-1,4-2-3-1,Matchweek 32,75368.0,Martin Atkinson,2014-03-29 00:00:00,0.0,0.0
-Manchester United,Newcastle United,Away,W,0.6,0.4,0.0,0.4,0.6,0.0,4-2-3-1,4-2-3-1,Matchweek 33,52081.0,Kevin Friend,2014-04-05 00:00:00,0.0,0.0
-Everton,Manchester United,Home,W,0.8,0.2,0.0,0.6,0.4,0.0,4-2-3-1,4-2-3-1,Matchweek 35,39436.0,Mark Clattenburg,2014-04-20 00:00:00,1.0,0.0
-Manchester United,Norwich City,Home,W,0.6,0.4,0.0,0.2,0.8,0.0,4-4-2,4-4-2,Matchweek 36,75208.0,Lee Probert,2014-04-26 00:00:00,1.0,0.0
-Manchester United,Sunderland,Home,L,0.6,0.4,0.0,0.2,0.6,0.2,4-2-3-1,4-2-3-1,Matchweek 37,75347.0,Howard Webb,2014-05-03 00:00:00,1.0,0.0
-Manchester United,Hull City,Home,W,0.6,0.4,0.0,0.0,0.8,0.2,4-2-3-1,4-2-3-1,Matchweek 34,75341.0,Craig Pawson,2014-05-06 00:00:00,1.0,0.0
-Manchester United,Southampton,Away,D,0.6,0.4,0.0,0.4,0.4,0.2,4-2-3-1,4-3-3,Matchweek 38,31372.0,Mike Dean,2014-05-11 00:00:00,0.0,1.0
-Manchester United,Swansea City,Home,L,0.0,0.0,0.0,0.0,0.0,0.0,3-4-1-2,3-4-1-2,Matchweek 1,75339.0,Mike Dean,2014-08-16 12:45:00,1.0,0.0
-Manchester United,Sunderland,Away,D,0.0,1.0,0.0,0.0,0.0,0.0,3-4-1-2,3-4-1-2,Matchweek 2,43217.0,Martin Atkinson,2014-08-24 16:00:00,0.5,0.0
-Manchester United,Burnley,Away,D,0.0,0.5,0.5,0.0,1.0,0.0,3-4-1-2,3-4-1-2,Matchweek 3,21099.0,Chris Foy,2014-08-30 12:45:00,0.0,0.0
-Manchester United,QPR,Home,W,0.0,0.3333333333333333,0.6666666666666666,0.0,1.0,0.0,4-1-2-1-2,4-1-2-1-2,Matchweek 4,75355.0,Philip Dowd,2014-09-14 16:00:00,0.0,0.0
-Leicester City,Manchester United,Home,W,0.25,0.25,0.5,0.25,0.25,0.5,4-3-3,4-1-2-1-2,Matchweek 5,31784.0,Mark Clattenburg,2014-09-21 13:30:00,0.0,0.0
-Manchester United,West Ham United,Home,W,0.2,0.4,0.4,0.4,0.4,0.2,4-1-2-1-2,4-2-3-1,Matchweek 6,75317.0,Lee Mason,2014-09-27 15:00:00,1.0,0.0
-Everton,Manchester United,Away,L,0.2,0.4,0.4,0.4,0.2,0.4,4-2-3-1,4-1-2-1-2,Matchweek 7,75294.0,Kevin Friend,2014-10-05 12:00:00,1.0,0.0
-Manchester United,West Bromwich Albion,Away,D,0.6,0.2,0.2,0.25,0.5,0.25,4-1-4-1,4-1-4-1,Matchweek 8,25794.0,Mike Dean,2014-10-20 20:00:00,0.5,0.0
-Chelsea,Manchester United,Away,D,0.8,0.0,0.2,0.6,0.2,0.2,4-2-3-1,4-1-4-1,Matchweek 9,75327.0,Philip Dowd,2014-10-26 16:00:00,0.5,0.5
-Manchester City,Manchester United,Home,W,0.6,0.2,0.2,0.4,0.2,0.4,4-4-2,4-1-4-1,Matchweek 10,45358.0,Michael Oliver,2014-11-02 13:30:00,1.0,0.0
-Crystal Palace,Manchester United,Away,L,0.2,0.6,0.2,0.4,0.2,0.4,4-4-1-1,4-1-4-1,Matchweek 11,75325.0,Chris Foy,2014-11-08 15:00:00,0.0,0.0
-Arsenal,Manchester United,Home,L,0.4,0.4,0.2,0.4,0.2,0.4,4-2-3-1,3-4-1-2,Matchweek 12,60074.0,Mike Dean,2014-11-22 17:30:00,0.0,0.5
-Manchester United,Hull City,Home,W,0.4,0.2,0.4,0.2,0.4,0.4,4-3-3,4-3-3,Matchweek 13,75345.0,Anthony Taylor,2014-11-29 15:00:00,1.0,0.0
-Manchester United,Stoke City,Home,W,0.6,0.2,0.2,0.4,0.4,0.2,4-1-2-1-2,4-1-2-1-2,Matchweek 14,75388.0,Jonathan Moss,2014-12-02 19:45:00,0.5,0.0
-Manchester United,Southampton,Away,W,0.8,0.2,0.0,0.4,0.4,0.2,3-1-4-2,4-2-3-1,Matchweek 15,31420.0,Kevin Friend,2014-12-08 20:00:00,0.0,1.0
-Liverpool,Manchester United,Away,L,0.4,0.4,0.2,1.0,0.0,0.0,3-4-3,3-4-1-2,Matchweek 16,75331.0,Martin Atkinson,2014-12-14 13:30:00,1.0,0.0
-Aston Villa,Manchester United,Home,D,0.4,0.2,0.4,1.0,0.0,0.0,5-3-2,3-4-1-2,Matchweek 17,41273.0,Lee Mason,2014-12-20 15:00:00,0.0,0.0
-Manchester United,Newcastle United,Home,W,0.8,0.0,0.2,0.2,0.6,0.2,3-1-4-2,4-1-2-1-2,Matchweek 18,75318.0,Mike Jones,2014-12-26 15:00:00,0.5,0.0
-Manchester United,Tottenham Hotspur,Away,D,0.8,0.0,0.2,0.6,0.2,0.2,3-1-4-2,4-2-3-1,Matchweek 19,35711.0,Jonathan Moss,2014-12-28 12:00:00,0.0,0.5
-Manchester United,Stoke City,Away,D,0.6,0.0,0.4,0.4,0.4,0.2,3-1-4-2,3-1-4-2,Matchweek 20,27203.0,Michael Oliver,2015-01-01 12:45:00,0.6666666666666666,0.0
-Manchester United,Southampton,Home,L,0.4,0.0,0.6,0.6,0.2,0.2,3-1-4-2,4-2-3-1,Matchweek 21,75395.0,Philip Dowd,2015-01-11 16:00:00,0.3333333333333333,0.6666666666666666
-Manchester United,QPR,Away,W,0.2,0.2,0.6,0.2,0.6,0.2,3-1-4-2,3-1-4-2,Matchweek 22,18098.0,Niel Swarbrick,2015-01-17 15:00:00,1.0,0.0
-Leicester City,Manchester United,Away,L,0.4,0.4,0.2,0.4,0.2,0.4,4-4-2,4-1-2-1-2,Matchweek 23,75329.0,Martin Atkinson,2015-01-31 15:00:00,1.0,0.0
-Manchester United,West Ham United,Away,D,0.4,0.2,0.4,0.2,0.4,0.4,4-1-2-1-2,4-1-2-1-2,Matchweek 24,34499.0,Mark Clattenburg,2015-02-08 16:15:00,1.0,0.0
-Manchester United,Burnley,Home,W,0.4,0.2,0.4,0.0,0.6,0.4,4-1-2-1-2,4-1-2-1-2,Matchweek 25,75356.0,Kevin Friend,2015-02-11 19:45:00,0.0,1.0
-Manchester United,Swansea City,Away,L,0.6,0.2,0.2,0.4,0.4,0.2,4-1-2-1-2,4-1-2-1-2,Matchweek 26,20809.0,Niel Swarbrick,2015-02-21 15:00:00,0.6666666666666666,0.0
-Manchester United,Sunderland,Home,W,0.6,0.2,0.2,0.2,0.6,0.2,4-2-3-1,4-2-3-1,Matchweek 27,75344.0,Roger East,2015-02-28 15:00:00,0.3333333333333333,0.3333333333333333
-Manchester United,Newcastle United,Away,W,0.6,0.2,0.2,0.4,0.2,0.4,4-2-3-1,4-4-2,Matchweek 28,49801.0,Anthony Taylor,2015-03-04 19:45:00,0.6666666666666666,0.0
-Manchester United,Tottenham Hotspur,Home,W,0.6,0.2,0.2,0.6,0.2,0.2,4-1-4-1,4-2-3-1,Matchweek 29,75112.0,Mark Clattenburg,2015-03-15 16:00:00,0.0,0.6666666666666666
-Liverpool,Manchester United,Home,L,1.0,0.0,0.0,0.8,0.2,0.0,3-4-3,4-1-4-1,Matchweek 30,44405.0,Martin Atkinson,2015-03-22 13:30:00,0.6666666666666666,0.0
-Aston Villa,Manchester United,Away,L,0.4,0.6,0.0,0.8,0.2,0.0,4-4-2,4-1-4-1,Matchweek 31,75397.0,Roger East,2015-04-04 15:00:00,0.0,0.3333333333333333
-Manchester City,Manchester United,Away,L,0.4,0.6,0.0,1.0,0.0,0.0,4-4-1-1,4-1-4-1,Matchweek 32,75313.0,Mark Clattenburg,2015-04-12 16:00:00,1.0,0.0
-Chelsea,Manchester United,Home,W,0.8,0.0,0.2,1.0,0.0,0.0,4-2-3-1,4-1-4-1,Matchweek 33,41422.0,Mike Dean,2015-04-18 17:30:00,0.3333333333333333,0.6666666666666666
-Everton,Manchester United,Home,W,0.8,0.0,0.2,0.8,0.2,0.0,4-1-4-1,4-1-4-1,Matchweek 34,39497.0,Andre Marriner,2015-04-26 13:30:00,0.6666666666666666,0.0
-Manchester United,West Bromwich Albion,Home,L,0.6,0.4,0.0,0.2,0.6,0.2,4-1-4-1,4-1-4-1,Matchweek 35,75454.0,Anthony Taylor,2015-05-02 17:30:00,0.3333333333333333,0.3333333333333333
-Crystal Palace,Manchester United,Home,L,0.4,0.6,0.0,0.4,0.6,0.0,4-2-3-1,4-1-4-1,Matchweek 36,25009.0,Michael Oliver,2015-05-09 17:30:00,0.0,0.0
-Arsenal,Manchester United,Away,D,0.6,0.2,0.2,0.4,0.6,0.0,4-2-3-1,4-1-4-1,Matchweek 37,75323.0,Mike Dean,2015-05-17 16:00:00,0.0,0.3333333333333333
-Manchester United,Hull City,Away,D,0.2,0.6,0.2,0.4,0.6,0.0,4-1-4-1,4-1-4-1,Matchweek 38,24745.0,Lee Probert,2015-05-24 15:00:00,1.0,0.0
-Manchester United,Tottenham Hotspur,Home,W,0.0,0.0,0.0,0.0,0.0,0.0,4-2-3-1,4-2-3-1,Matchweek 1,75261.0,Jonathan Moss,2015-08-08 12:45:00,0.25,0.5
-Aston Villa,Manchester United,Home,L,1.0,0.0,0.0,1.0,0.0,0.0,4-3-3,4-2-3-1,Matchweek 2,42200.0,Mike Dean,2015-08-14 19:45:00,0.0,0.25
-Manchester United,Newcastle United,Home,D,1.0,0.0,0.0,0.0,0.5,0.5,4-2-3-1,4-2-3-1,Matchweek 3,75354.0,Craig Pawson,2015-08-22 12:45:00,0.75,0.0
-Manchester United,Swansea City,Away,L,0.6666666666666666,0.0,0.3333333333333333,0.5,0.0,0.5,4-2-3-1,4-2-3-1,Matchweek 4,20828.0,Martin Atkinson,2015-08-30 16:00:00,0.5,0.0
-Liverpool,Manchester United,Away,L,0.5,0.25,0.25,0.5,0.25,0.25,4-3-3,4-2-3-1,Matchweek 5,75347.0,Michael Oliver,2015-09-12 17:30:00,0.5,0.0
-Manchester United,Southampton,Away,W,0.6,0.2,0.2,0.2,0.2,0.6,4-2-3-1,4-2-3-1,Matchweek 6,31588.0,Mark Clattenburg,2015-09-20 16:00:00,0.25,0.5
-Manchester United,Sunderland,Home,W,0.6,0.2,0.2,0.0,0.75,0.25,4-2-3-1,4-2-3-1,Matchweek 7,75328.0,Mike Jones,2015-09-26 15:00:00,0.5,0.25
-Arsenal,Manchester United,Home,W,0.6,0.2,0.2,0.6,0.2,0.2,4-2-3-1,4-2-3-1,Matchweek 8,60084.0,Anthony Taylor,2015-10-04 16:00:00,0.0,0.5
-Everton,Manchester United,Home,L,0.4,0.0,0.6,0.6,0.4,0.0,4-2-3-1,4-2-3-1,Matchweek 9,39553.0,Jonathan Moss,2015-10-17 15:00:00,0.75,0.0
-Manchester City,Manchester United,Away,D,0.6,0.4,0.0,0.8,0.2,0.0,4-2-3-1,4-2-3-1,Matchweek 10,75329.0,Mark Clattenburg,2015-10-25 14:05:00,0.75,0.0
-Crystal Palace,Manchester United,Home,D,0.4,0.6,0.0,0.6,0.2,0.2,4-1-4-1,4-2-3-1,Matchweek 11,24854.0,Mike Jones,2015-10-31 15:00:00,0.0,0.0
-Manchester United,West Bromwich Albion,Home,W,0.4,0.2,0.4,0.2,0.6,0.2,4-2-3-1,4-2-3-1,Matchweek 12,75410.0,Mike Dean,2015-11-07 15:00:00,0.25,0.25
-Manchester United,Watford,Away,W,0.4,0.2,0.4,0.2,0.6,0.2,4-2-2-2,4-2-2-2,Matchweek 13,20702.0,Robert Madley,2015-11-21 12:45:00,0.0,0.0
-Leicester City,Manchester United,Home,D,0.8,0.0,0.2,0.6,0.0,0.4,4-4-2,3-4-1-2,Matchweek 14,32115.0,Craig Pawson,2015-11-28 17:30:00,0.5,0.0
-Manchester United,West Ham United,Home,D,0.4,0.0,0.6,0.2,0.4,0.4,4-2-3-1,4-1-4-1,Matchweek 15,75350.0,Mark Clattenburg,2015-12-05 15:00:00,0.75,0.25
-Bournemouth,Manchester United,Home,W,0.2,0.4,0.4,0.4,0.0,0.6,4-1-4-1,4-2-3-1,Matchweek 16,11334.0,Anthony Taylor,2015-12-12 17:30:00,0.0,0.0
-Manchester United,Norwich City,Home,L,0.4,0.2,0.4,0.0,0.6,0.4,4-2-3-1,4-2-3-1,Matchweek 17,75320.0,Michael Oliver,2015-12-19 15:00:00,1.0,0.0
-Manchester United,Stoke City,Away,L,0.2,0.4,0.4,0.6,0.2,0.2,4-2-3-1,4-2-3-1,Matchweek 18,27426.0,Kevin Friend,2015-12-26 12:45:00,0.5,0.25
-Chelsea,Manchester United,Away,D,0.2,0.4,0.4,0.0,0.6,0.4,4-2-3-1,4-2-3-1,Matchweek 19,75275.0,Martin Atkinson,2015-12-28 17:30:00,0.5,0.5
-Manchester United,Swansea City,Home,W,0.0,0.6,0.4,0.0,0.6,0.4,4-2-3-1,4-2-3-1,Matchweek 20,75415.0,Jonathan Moss,2016-01-02 15:00:00,0.4,0.0
-Manchester United,Newcastle United,Away,D,0.2,0.6,0.2,0.2,0.6,0.2,4-2-3-1,4-2-3-1,Matchweek 21,49673.0,Mike Dean,2016-01-12 19:45:00,0.6,0.2
-Liverpool,Manchester United,Home,L,0.4,0.4,0.2,0.2,0.4,0.4,4-3-3,4-2-3-1,Matchweek 22,43865.0,Mark Clattenburg,2016-01-17 14:05:00,0.4,0.0
-Manchester United,Southampton,Home,L,0.4,0.2,0.4,0.6,0.4,0.0,3-4-1-2,3-4-3,Matchweek 23,75408.0,Mike Jones,2016-01-23 15:00:00,0.4,0.4
-Manchester United,Stoke City,Home,W,0.4,0.2,0.4,0.4,0.4,0.2,4-2-3-1,4-2-3-1,Matchweek 24,75234.0,Roger East,2016-02-02 20:00:00,0.4,0.2
-Chelsea,Manchester United,Home,D,0.4,0.0,0.6,0.6,0.2,0.2,4-2-3-1,4-2-3-1,Matchweek 25,41434.0,Michael Oliver,2016-02-07 16:00:00,0.4,0.6
-Manchester United,Sunderland,Away,L,0.4,0.2,0.4,0.2,0.4,0.4,4-2-3-1,4-2-3-1,Matchweek 26,41687.0,Andre Marriner,2016-02-13 12:45:00,0.6,0.2
-Arsenal,Manchester United,Away,L,0.4,0.2,0.4,0.4,0.4,0.2,4-2-3-1,4-1-4-1,Matchweek 27,75329.0,Craig Pawson,2016-02-28 14:05:00,0.2,0.4
-Manchester United,Watford,Home,W,0.4,0.4,0.2,0.4,0.2,0.4,4-2-3-1,4-2-3-1,Matchweek 28,75272.0,Mike Jones,2016-03-02 20:00:00,1.0,0.0
-Manchester United,West Bromwich Albion,Away,L,0.6,0.2,0.2,0.4,0.2,0.4,4-1-4-1,4-1-4-1,Matchweek 29,24878.0,Mike Dean,2016-03-06 16:00:00,0.4,0.2
-Manchester City,Manchester United,Home,L,0.2,0.6,0.2,0.4,0.4,0.2,4-2-3-1,4-1-4-1,Matchweek 31,54557.0,Michael Oliver,2016-03-20 16:00:00,0.6,0.2
-Everton,Manchester United,Away,L,0.4,0.6,0.0,0.6,0.4,0.0,4-4-1-1,4-1-4-1,Matchweek 32,75341.0,Andre Marriner,2016-04-03 16:00:00,0.6,0.0
-Manchester United,Tottenham Hotspur,Away,L,0.8,0.2,0.0,0.4,0.2,0.4,4-2-3-1,4-2-3-1,Matchweek 33,35761.0,Mike Dean,2016-04-10 16:00:00,0.4,0.4
-Aston Villa,Manchester United,Away,L,0.0,1.0,0.0,0.6,0.4,0.0,4-2-3-1,4-1-4-1,Matchweek 34,75411.0,Kevin Friend,2016-04-16 15:00:00,0.0,0.2
-Crystal Palace,Manchester United,Away,L,0.2,0.2,0.6,0.6,0.4,0.0,4-2-3-1,4-1-4-1,Matchweek 30,75277.0,Lee Mason,2016-04-20 20:00:00,0.0,0.2
-Leicester City,Manchester United,Away,D,0.8,0.0,0.2,0.8,0.2,0.0,4-4-2,4-1-4-1,Matchweek 36,75275.0,Michael Oliver,2016-05-01 14:05:00,0.3333333333333333,0.3333333333333333
-Manchester United,Norwich City,Away,W,0.6,0.2,0.2,0.2,0.6,0.2,4-1-4-1,4-1-4-1,Matchweek 37,27132.0,Craig Pawson,2016-05-07 12:45:00,0.6666666666666666,0.0
-Manchester United,West Ham United,Away,L,0.6,0.2,0.2,0.4,0.2,0.4,4-1-4-1,4-1-4-1,Matchweek 35,34602.0,Mike Dean,2016-05-10 20:30:00,0.6,0.4
-Bournemouth,Manchester United,Away,L,0.2,0.6,0.2,0.6,0.2,0.2,4-4-2,4-1-4-1,Matchweek 38,74363.0,Jonathan Moss,2016-05-17 20:00:00,1.0,0.0
-Bournemouth,Manchester United,Home,L,0.0,0.0,0.0,0.0,0.0,0.0,4-3-3,4-2-3-1,Matchweek 1,11355.0,Andre Marriner,2016-08-14 13:30:00,0.5,0.0
-Manchester United,Southampton,Home,W,1.0,0.0,0.0,0.0,0.0,1.0,4-2-3-1,4-1-2-1-2,Matchweek 2,75326.0,Anthony Taylor,2016-08-19 20:00:00,0.3333333333333333,0.3333333333333333
-Manchester United,Hull City,Away,W,1.0,0.0,0.0,1.0,0.0,0.0,4-2-3-1,4-2-3-1,Matchweek 3,24560.0,Jonathan Moss,2016-08-27 17:30:00,0.75,0.25
-Manchester City,Manchester United,Away,W,1.0,0.0,0.0,1.0,0.0,0.0,4-3-3,4-2-3-1,Matchweek 4,75272.0,Mark Clattenburg,2016-09-10 12:30:00,0.5,0.16666666666666666
-Manchester United,Watford,Away,L,0.75,0.25,0.0,0.25,0.5,0.25,4-2-3-1,4-2-3-1,Matchweek 5,21118.0,Michael Oliver,2016-09-18 12:00:00,1.0,0.0
-Leicester City,Manchester United,Away,L,0.4,0.4,0.2,0.6,0.4,0.0,4-4-2,4-2-3-1,Matchweek 6,75256.0,Mike Dean,2016-09-24 12:30:00,0.25,0.5
-Manchester United,Stoke City,Home,D,0.6,0.4,0.0,0.0,1.0,0.0,4-2-3-1,4-2-3-1,Matchweek 7,75251.0,Robert Madley,2016-10-02 12:00:00,0.5,0.16666666666666666
-Liverpool,Manchester United,Home,D,0.8,0.0,0.2,0.4,0.4,0.2,4-3-3,4-2-3-1,Matchweek 8,52769.0,Anthony Taylor,2016-10-17 20:00:00,0.3333333333333333,0.0
-Chelsea,Manchester United,Home,W,0.4,0.4,0.2,0.2,0.4,0.4,3-4-3,4-2-3-1,Matchweek 9,41424.0,Martin Atkinson,2016-10-23 16:00:00,0.3333333333333333,0.6666666666666666
-Manchester United,Burnley,Home,D,0.2,0.4,0.4,0.2,0.8,0.0,4-2-3-1,4-2-3-1,Matchweek 10,75325.0,Mark Clattenburg,2016-10-29 15:00:00,0.5,0.5
-Manchester United,Swansea City,Away,W,0.2,0.2,0.6,0.0,0.8,0.2,4-1-4-1,4-1-4-1,Matchweek 11,20938.0,Niel Swarbrick,2016-11-06 15:00:00,0.5,0.0
-Arsenal,Manchester United,Away,D,0.6,0.0,0.4,0.2,0.2,0.6,4-2-3-1,4-3-3,Matchweek 12,75264.0,Andre Marriner,2016-11-19 12:30:00,0.16666666666666666,0.3333333333333333
-Manchester United,West Ham United,Home,D,0.2,0.2,0.6,0.4,0.4,0.2,4-2-3-1,3-4-3,Matchweek 13,75313.0,Jonathan Moss,2016-11-27 16:30:00,0.5,0.3333333333333333
-Everton,Manchester United,Home,D,0.2,0.6,0.2,0.2,0.2,0.6,4-4-2,4-3-3,Matchweek 14,39550.0,Michael Oliver,2016-12-04 16:00:00,0.5,0.0
-Manchester United,Tottenham Hotspur,Home,W,0.2,0.0,0.8,0.4,0.2,0.4,4-3-3,4-2-3-1,Matchweek 15,75271.0,Robert Madley,2016-12-11 14:15:00,0.3333333333333333,0.3333333333333333
-Crystal Palace,Manchester United,Home,L,0.2,0.6,0.2,0.4,0.0,0.6,4-4-2,4-3-3,Matchweek 16,25547.0,Craig Pawson,2016-12-14 20:00:00,0.0,0.16666666666666666
-Manchester United,West Bromwich Albion,Away,W,0.4,0.0,0.6,0.2,0.6,0.2,4-3-3,4-3-3,Matchweek 17,26308.0,Anthony Taylor,2016-12-17 17:30:00,0.3333333333333333,0.16666666666666666
-Manchester United,Sunderland,Home,W,0.6,0.0,0.4,0.4,0.6,0.0,4-3-3,4-3-3,Matchweek 18,75325.0,Martin Atkinson,2016-12-26 15:00:00,0.5,0.16666666666666666
-Manchester United,Middlesbrough,Home,W,0.8,0.0,0.2,0.0,0.6,0.4,4-3-3,4-3-3,Matchweek 19,75314.0,Lee Mason,2016-12-31 15:00:00,0.0,0.0
-Manchester United,West Ham United,Away,W,1.0,0.0,0.0,0.6,0.2,0.2,4-3-3,4-3-3,Matchweek 20,56996.0,Mike Dean,2017-01-02 17:15:00,0.42857142857142855,0.42857142857142855
-Liverpool,Manchester United,Away,D,0.8,0.0,0.2,1.0,0.0,0.0,4-3-3,4-3-3,Matchweek 21,75276.0,Michael Oliver,2017-01-15 16:00:00,0.2857142857142857,0.14285714285714285
-Manchester United,Stoke City,Away,D,0.8,0.0,0.2,0.0,0.6,0.4,4-3-3,4-3-3,Matchweek 22,27423.0,Mark Clattenburg,2017-01-21 15:00:00,0.42857142857142855,0.2857142857142857
-Manchester United,Hull City,Home,D,0.6,0.0,0.4,0.2,0.6,0.2,4-3-3,4-3-3,Matchweek 23,75297.0,Mike Jones,2017-02-01 20:00:00,0.8,0.2
-Leicester City,Manchester United,Home,L,0.2,0.6,0.2,0.4,0.0,0.6,4-2-3-1,4-4-2,Matchweek 24,32072.0,Anthony Taylor,2017-02-05 16:00:00,0.2,0.4
-Manchester United,Watford,Home,W,0.4,0.0,0.6,0.2,0.4,0.4,4-2-3-1,4-2-3-1,Matchweek 25,75301.0,Robert Madley,2017-02-11 15:00:00,0.6666666666666666,0.0
-Bournemouth,Manchester United,Away,D,0.0,0.8,0.2,0.4,0.0,0.6,4-2-3-1,4-2-3-1,Matchweek 27,75245.0,Kevin Friend,2017-03-04 12:30:00,0.3333333333333333,0.0
-Manchester United,Middlesbrough,Away,W,0.4,0.0,0.6,0.0,0.6,0.4,4-2-3-1,4-2-3-1,Matchweek 29,32689.0,Jonathan Moss,2017-03-19 12:00:00,1.0,0.0
-Manchester United,West Bromwich Albion,Home,D,0.6,0.0,0.4,0.4,0.4,0.2,4-2-3-1,4-2-3-1,Matchweek 30,75397.0,Mike Dean,2017-04-01 15:00:00,0.42857142857142855,0.14285714285714285
-Everton,Manchester United,Away,D,0.6,0.4,0.0,0.6,0.0,0.4,4-2-3-1,4-3-3,Matchweek 31,75272.0,Niel Swarbrick,2017-04-04 20:00:00,0.42857142857142855,0.14285714285714285
-Manchester United,Sunderland,Away,W,0.4,0.0,0.6,0.2,0.8,0.0,4-3-3,4-3-3,Matchweek 32,43779.0,Craig Pawson,2017-04-09 13:30:00,0.5714285714285714,0.14285714285714285
-Chelsea,Manchester United,Away,L,0.8,0.2,0.0,0.4,0.0,0.6,3-4-3,3-5-2,Matchweek 33,75272.0,Robert Madley,2017-04-16 16:00:00,0.42857142857142855,0.5714285714285714
-Manchester United,Burnley,Away,W,0.6,0.0,0.4,0.2,0.6,0.2,4-3-3,4-3-3,Matchweek 34,21870.0,Anthony Taylor,2017-04-23 14:15:00,0.3333333333333333,0.6666666666666666
-Manchester City,Manchester United,Home,D,0.4,0.2,0.4,0.6,0.0,0.4,4-2-3-1,4-3-3,Matchweek 26,54176.0,Martin Atkinson,2017-04-27 20:00:00,0.5714285714285714,0.14285714285714285
-Manchester United,Swansea City,Home,D,0.6,0.0,0.4,0.2,0.8,0.0,4-2-3-1,4-2-3-1,Matchweek 35,75271.0,Niel Swarbrick,2017-04-30 12:00:00,0.5714285714285714,0.0
-Arsenal,Manchester United,Home,W,0.6,0.4,0.0,0.6,0.0,0.4,3-4-3,4-3-3,Matchweek 36,60055.0,Andre Marriner,2017-05-07 16:00:00,0.14285714285714285,0.42857142857142855
-Manchester United,Tottenham Hotspur,Away,L,0.4,0.2,0.4,0.8,0.2,0.0,4-2-3-1,4-2-3-1,Matchweek 37,31848.0,Jonathan Moss,2017-05-14 16:30:00,0.42857142857142855,0.2857142857142857
-Manchester United,Southampton,Away,D,0.2,0.4,0.4,0.2,0.4,0.4,4-2-3-1,4-3-3,Matchweek 28,31425.0,Mike Dean,2017-05-17 19:45:00,0.42857142857142855,0.2857142857142857
-Crystal Palace,Manchester United,Away,L,0.4,0.6,0.0,0.0,0.4,0.6,4-3-3,4-3-3,Matchweek 38,75254.0,Anthony Taylor,2017-05-21 15:00:00,0.0,0.14285714285714285
-Manchester United,West Ham United,Home,W,0.0,0.0,0.0,0.0,0.0,0.0,4-2-3-1,4-2-3-1,Matchweek 1,74928.0,Martin Atkinson,2017-08-13 16:00:00,0.5,0.375
-Manchester United,Swansea City,Away,W,1.0,0.0,0.0,0.0,0.0,1.0,4-2-3-1,4-2-3-1,Matchweek 2,20862.0,Jonathan Moss,2017-08-19 12:30:00,0.5,0.125
-Leicester City,Manchester United,Away,L,0.5,0.5,0.0,1.0,0.0,0.0,4-4-1-1,4-2-3-1,Matchweek 3,75021.0,Michael Oliver,2017-08-26 17:30:00,0.16666666666666666,0.3333333333333333
-Manchester United,Stoke City,Away,D,1.0,0.0,0.0,0.5,0.5,0.0,4-3-3,4-3-3,Matchweek 4,29320.0,Niel Swarbrick,2017-09-09 17:30:00,0.375,0.375
-Everton,Manchester United,Away,L,0.25,0.5,0.25,0.75,0.0,0.25,3-4-3,4-2-3-1,Matchweek 5,75042.0,Andre Marriner,2017-09-17 16:00:00,0.375,0.25
-Manchester United,Southampton,Away,W,0.8,0.0,0.2,0.4,0.2,0.4,4-2-3-1,4-2-3-1,Matchweek 6,31930.0,Craig Pawson,2017-09-23 15:00:00,0.375,0.375
-Crystal Palace,Manchester United,Away,L,0.0,1.0,0.0,0.8,0.0,0.2,4-3-3,4-2-3-1,Matchweek 7,75118.0,Mike Dean,2017-09-30 15:00:00,0.0,0.125
-Liverpool,Manchester United,Home,D,0.4,0.2,0.4,0.8,0.0,0.2,4-3-3,4-2-3-1,Matchweek 8,52912.0,Martin Atkinson,2017-10-14 12:30:00,0.25,0.25
-Manchester United,Huddersfield,Away,L,0.6,0.0,0.4,0.2,0.4,0.4,4-2-3-1,4-2-3-1,Matchweek 9,24426.0,Lee Mason,2017-10-21 15:00:00,0.0,0.0
-Manchester United,Tottenham Hotspur,Home,W,0.6,0.2,0.2,0.8,0.0,0.2,3-4-1-2,3-5-1-1,Matchweek 10,75034.0,Jonathan Moss,2017-10-28 12:30:00,0.375,0.25
-Chelsea,Manchester United,Home,W,0.6,0.4,0.0,0.6,0.2,0.2,3-1-4-2,3-4-1-2,Matchweek 11,41615.0,Anthony Taylor,2017-11-05 16:30:00,0.375,0.5
-Manchester United,Newcastle United,Home,W,0.4,0.4,0.2,0.2,0.4,0.4,4-2-3-1,4-4-2,Matchweek 12,75035.0,Craig Pawson,2017-11-18 17:30:00,0.5,0.3333333333333333
-Brighton and Hove Albion,Manchester United,Away,L,0.4,0.0,0.6,0.4,0.4,0.2,4-5-1,4-2-3-1,Matchweek 13,75018.0,Niel Swarbrick,2017-11-25 15:00:00,0.0,0.0
-Manchester United,Watford,Away,W,0.6,0.4,0.0,0.6,0.4,0.0,3-4-3,3-4-3,Matchweek 14,20552.0,Jonathan Moss,2017-11-28 20:00:00,0.75,0.0
-Arsenal,Manchester United,Home,L,0.8,0.2,0.0,0.8,0.2,0.0,3-4-3,3-4-1-2,Matchweek 15,59547.0,Andre Marriner,2017-12-02 17:30:00,0.25,0.375
-Manchester City,Manchester United,Away,W,1.0,0.0,0.0,0.8,0.2,0.0,4-3-3,4-2-3-1,Matchweek 16,74847.0,Michael Oliver,2017-12-10 16:30:00,0.5,0.25
-Bournemouth,Manchester United,Away,L,0.2,0.2,0.6,0.8,0.2,0.0,4-4-1-1,4-2-3-1,Matchweek 17,74798.0,Graham Scott,2017-12-13 20:00:00,0.25,0.25
-Manchester United,West Bromwich Albion,Away,W,0.8,0.2,0.0,0.0,0.2,0.8,4-2-3-1,4-2-3-1,Matchweek 18,24782.0,Anthony Taylor,2017-12-17 14:15:00,0.375,0.25
-Leicester City,Manchester United,Home,D,0.8,0.2,0.0,0.8,0.2,0.0,4-2-3-1,4-2-3-1,Matchweek 19,32202.0,Jonathan Moss,2017-12-23 19:45:00,0.14285714285714285,0.2857142857142857
-Manchester United,Burnley,Home,D,0.6,0.2,0.2,0.2,0.6,0.2,4-2-3-1,4-2-3-1,Matchweek 20,75046.0,Martin Atkinson,2017-12-26 15:00:00,0.5,0.5
-Manchester United,Southampton,Home,D,0.4,0.2,0.4,0.0,0.6,0.4,4-2-3-1,4-2-3-1,Matchweek 21,75051.0,Craig Pawson,2017-12-30 17:30:00,0.4444444444444444,0.3333333333333333
-Everton,Manchester United,Home,L,0.4,0.2,0.4,0.4,0.0,0.6,4-2-3-1,4-3-3,Matchweek 22,39188.0,Andre Marriner,2018-01-01 17:30:00,0.3333333333333333,0.2222222222222222
-Manchester United,Stoke City,Home,W,0.4,0.0,0.6,0.0,1.0,0.0,4-2-3-1,4-2-3-1,Matchweek 23,74726.0,Anthony Taylor,2018-01-15 20:00:00,0.3333333333333333,0.4444444444444444
-Manchester United,Burnley,Away,W,0.4,0.0,0.6,0.0,0.6,0.4,4-3-3,4-3-3,Matchweek 24,21841.0,Mike Dean,2018-01-20 15:00:00,0.4,0.6
-Manchester United,Tottenham Hotspur,Away,L,0.6,0.0,0.4,0.6,0.0,0.4,4-2-3-1,4-2-3-1,Matchweek 25,81978.0,Andre Marriner,2018-01-31 20:00:00,0.4444444444444444,0.2222222222222222
-Manchester United,Huddersfield,Home,W,0.6,0.2,0.2,0.0,0.8,0.2,4-2-3-1,4-2-3-1,Matchweek 26,74742.0,Stuart Attwell,2018-02-03 15:00:00,0.0,0.0
-Manchester United,Newcastle United,Away,L,0.8,0.2,0.0,0.2,0.2,0.6,4-2-3-1,4-4-1-1,Matchweek 27,52309.0,Craig Pawson,2018-02-11 14:15:00,0.5714285714285714,0.2857142857142857
-Chelsea,Manchester United,Away,L,0.4,0.4,0.2,0.6,0.4,0.0,3-4-3,4-1-2-1-2,Matchweek 28,75060.0,Martin Atkinson,2018-02-25 14:05:00,0.4444444444444444,0.4444444444444444
-Crystal Palace,Manchester United,Home,L,0.0,0.6,0.4,0.6,0.4,0.0,4-4-2,4-3-3,Matchweek 29,25840.0,Niel Swarbrick,2018-03-05 20:00:00,0.0,0.1111111111111111
-Liverpool,Manchester United,Away,L,0.8,0.0,0.2,0.6,0.4,0.0,4-3-3,4-2-3-1,Matchweek 30,74855.0,Craig Pawson,2018-03-10 12:30:00,0.2222222222222222,0.3333333333333333
-Manchester United,Swansea City,Home,W,0.8,0.2,0.0,0.6,0.2,0.2,4-2-3-1,4-2-3-1,Matchweek 32,75038.0,Robert Madley,2018-03-31 15:00:00,0.5555555555555556,0.1111111111111111
-Manchester City,Manchester United,Home,L,1.0,0.0,0.0,0.8,0.2,0.0,4-3-3,4-3-3,Matchweek 33,54259.0,Martin Atkinson,2018-04-07 17:30:00,0.5555555555555556,0.2222222222222222
-Manchester United,West Bromwich Albion,Home,L,1.0,0.0,0.0,0.0,1.0,0.0,4-3-3,4-3-3,Matchweek 34,75095.0,Paul Tierney,2018-04-15 16:00:00,0.4444444444444444,0.2222222222222222
-Bournemouth,Manchester United,Home,L,0.2,0.4,0.4,0.8,0.2,0.0,4-4-1-1,4-3-3,Matchweek 35,10952.0,Graham Scott,2018-04-18 19:45:00,0.2,0.2
-Arsenal,Manchester United,Away,L,0.8,0.2,0.0,0.8,0.2,0.0,4-2-3-1,4-3-3,Matchweek 36,75035.0,Kevin Friend,2018-04-29 16:30:00,0.2222222222222222,0.3333333333333333
-Brighton and Hove Albion,Manchester United,Home,W,0.0,0.4,0.6,0.8,0.2,0.0,4-3-3,4-3-3,Matchweek 37,30611.0,Craig Pawson,2018-05-04 20:00:00,0.0,0.0
-Manchester United,West Ham United,Away,D,0.6,0.4,0.0,0.2,0.4,0.4,5-3-2,3-4-3,Matchweek 31,56902.0,Jonathan Moss,2018-05-10 19:45:00,0.5555555555555556,0.3333333333333333
-Manchester United,Watford,Home,W,0.4,0.4,0.2,0.2,0.4,0.4,4-3-3,4-3-3,Matchweek 38,75049.0,Lee Mason,2018-05-13 15:00:00,0.8,0.0
-Leicester City,Manchester United,Away,L,0.0,0.0,0.0,0.0,0.0,0.0,4-2-3-1,4-3-3,Matchweek 1,74439.0,Andre Marriner,2018-08-10 20:00:00,0.125,0.375
-Brighton and Hove Albion,Manchester United,Home,W,0.0,1.0,0.0,1.0,0.0,0.0,4-4-1-1,4-3-3,Matchweek 2,30592.0,Kevin Friend,2018-08-19 16:00:00,0.5,0.0
-Manchester United,Tottenham Hotspur,Home,L,0.5,0.5,0.0,1.0,0.0,0.0,3-5-1-1,4-1-2-1-2,Matchweek 3,74400.0,Craig Pawson,2018-08-27 20:00:00,0.4,0.2
-Manchester United,Burnley,Away,W,0.3333333333333333,0.6666666666666666,0.0,0.0,0.5,0.5,4-3-3,4-3-3,Matchweek 4,21525.0,Jonathan Moss,2018-09-02 16:00:00,0.5,0.5
-Manchester United,Watford,Away,W,0.5,0.5,0.0,1.0,0.0,0.0,4-3-3,4-3-3,Matchweek 5,20537.0,Mike Dean,2018-09-15 17:30:00,0.8333333333333334,0.0
-Manchester United,Wolverhampton Wanderers,Home,D,0.6,0.4,0.0,0.4,0.2,0.4,4-3-3,3-4-3,Matchweek 6,74489.0,Kevin Friend,2018-09-22 15:00:00,0.0,0.0
-Manchester United,West Ham United,Away,L,0.4,0.4,0.2,0.2,0.6,0.2,5-3-2,4-1-4-1,Matchweek 7,56938.0,Michael Oliver,2018-09-29 12:30:00,0.5,0.4
-Manchester United,Newcastle United,Home,W,0.4,0.4,0.2,0.0,0.8,0.2,4-3-3,4-4-1-1,Matchweek 8,74519.0,Anthony Taylor,2018-10-06 17:30:00,0.5,0.25
-Chelsea,Manchester United,Home,D,0.6,0.0,0.4,0.6,0.2,0.2,4-3-3,4-2-3-1,Matchweek 9,40721.0,Mike Dean,2018-10-20 12:30:00,0.4,0.4
-Everton,Manchester United,Away,L,0.6,0.4,0.0,0.4,0.2,0.4,4-2-3-1,4-3-3,Matchweek 10,74525.0,Jonathan Moss,2018-10-28 16:00:00,0.3,0.2
-Bournemouth,Manchester United,Home,L,0.6,0.2,0.2,0.4,0.2,0.4,4-4-1-1,4-3-3,Matchweek 11,10792.0,Paul Tierney,2018-11-03 12:30:00,0.16666666666666666,0.16666666666666666
-Manchester City,Manchester United,Home,W,0.8,0.0,0.2,0.6,0.2,0.2,4-3-3,4-3-3,Matchweek 12,54316.0,Anthony Taylor,2018-11-11 16:30:00,0.5,0.2
-Crystal Palace,Manchester United,Away,D,0.0,0.8,0.2,0.6,0.2,0.2,4-4-2,4-3-3,Matchweek 13,74516.0,Lee Mason,2018-11-24 15:00:00,0.0,0.1
-Manchester United,Southampton,Away,D,0.4,0.2,0.4,0.0,0.4,0.6,5-3-2,3-4-1-2,Matchweek 14,30187.0,Kevin Friend,2018-12-01 17:30:00,0.4,0.4
-Arsenal,Manchester United,Away,D,0.4,0.0,0.6,0.4,0.2,0.4,3-4-3,3-4-1-2,Matchweek 15,74507.0,Andre Marriner,2018-12-05 20:00:00,0.2,0.3
-Fulham,Manchester United,Away,L,0.2,0.6,0.2,0.2,0.2,0.6,4-2-3-1,4-2-3-1,Matchweek 16,74523.0,Lee Probert,2018-12-08 15:00:00,0.0,0.5
-Liverpool,Manchester United,Home,W,1.0,0.0,0.0,0.2,0.2,0.6,4-4-1-1,4-4-1-1,Matchweek 17,52908.0,Martin Atkinson,2018-12-16 16:00:00,0.2,0.3
-Manchester United,Cardiff City,Away,W,0.2,0.2,0.6,0.6,0.4,0.0,4-3-3,4-3-3,Matchweek 18,33028.0,Michael Oliver,2018-12-22 17:30:00,0.5,0.5
-Manchester United,Huddersfield,Home,W,0.4,0.2,0.4,0.0,1.0,0.0,4-2-3-1,4-2-3-1,Matchweek 19,74523.0,Jonathan Moss,2018-12-26 15:00:00,0.5,0.0
-Bournemouth,Manchester United,Away,L,0.4,0.6,0.0,0.6,0.2,0.2,3-5-2,4-2-3-1,Matchweek 20,74556.0,Lee Mason,2018-12-30 16:30:00,0.14285714285714285,0.14285714285714285
-Manchester United,Newcastle United,Away,W,0.8,0.2,0.0,0.2,0.4,0.4,4-2-3-1,5-4-1,Matchweek 21,52217.0,Andre Marriner,2019-01-02 20:00:00,0.5555555555555556,0.2222222222222222
-Manchester United,Tottenham Hotspur,Away,W,0.8,0.2,0.0,0.8,0.2,0.0,4-1-2-1-2,4-1-2-1-2,Matchweek 22,80062.0,Mike Dean,2019-01-13 16:30:00,0.36363636363636365,0.18181818181818182
-Brighton and Hove Albion,Manchester United,Away,L,0.2,0.4,0.4,1.0,0.0,0.0,4-5-1,4-3-3,Matchweek 23,74532.0,Paul Tierney,2019-01-19 15:00:00,0.6666666666666666,0.0
-Manchester United,Burnley,Home,D,1.0,0.0,0.0,0.4,0.6,0.0,4-1-4-1,4-1-4-1,Matchweek 24,74529.0,Jonathan Moss,2019-01-29 20:00:00,0.5714285714285714,0.42857142857142855
-Leicester City,Manchester United,Home,L,0.2,0.6,0.2,0.8,0.0,0.2,4-2-3-1,4-2-2-2,Matchweek 25,32148.0,Mike Dean,2019-02-03 14:05:00,0.1111111111111111,0.3333333333333333
-Fulham,Manchester United,Home,L,0.2,0.8,0.0,0.8,0.0,0.2,4-2-3-1,4-3-3,Matchweek 26,25001.0,Paul Tierney,2019-02-09 12:30:00,0.0,0.3333333333333333
-Liverpool,Manchester United,Away,D,0.6,0.0,0.4,0.8,0.0,0.2,4-3-3,4-3-1-2,Matchweek 27,74519.0,Michael Oliver,2019-02-24 14:05:00,0.2727272727272727,0.2727272727272727
-Crystal Palace,Manchester United,Home,L,0.4,0.2,0.4,0.6,0.0,0.4,4-3-3,4-3-3,Matchweek 28,25754.0,Martin Atkinson,2019-02-27 20:00:00,0.0,0.18181818181818182
-Manchester United,Southampton,Home,W,0.6,0.0,0.4,0.2,0.4,0.4,4-3-1-2,3-4-3,Matchweek 29,74459.0,Stuart Attwell,2019-03-02 15:00:00,0.36363636363636365,0.45454545454545453
-Arsenal,Manchester United,Home,W,0.6,0.2,0.2,0.8,0.0,0.2,3-4-1-2,4-4-2,Matchweek 30,60000.0,Jonathan Moss,2019-03-10 16:30:00,0.18181818181818182,0.36363636363636365
-Manchester United,Watford,Home,W,0.6,0.2,0.2,0.4,0.4,0.2,4-3-1-2,4-3-1-2,Matchweek 32,74543.0,Stuart Attwell,2019-03-30 15:00:00,0.8571428571428571,0.0
-Manchester United,Wolverhampton Wanderers,Away,L,0.6,0.2,0.2,0.2,0.4,0.4,3-5-1-1,3-5-2,Matchweek 33,31302.0,Mike Dean,2019-04-02 19:45:00,0.0,1.0
-Manchester United,West Ham United,Home,W,0.6,0.4,0.0,0.4,0.6,0.0,4-2-3-1,4-1-4-1,Matchweek 34,74478.0,Graham Scott,2019-04-13 17:30:00,0.45454545454545453,0.36363636363636365
-Everton,Manchester United,Home,W,0.6,0.4,0.0,0.6,0.4,0.0,4-2-3-1,4-3-3,Matchweek 35,39395.0,Paul Tierney,2019-04-21 13:30:00,0.2727272727272727,0.18181818181818182
-Manchester City,Manchester United,Away,W,1.0,0.0,0.0,0.4,0.6,0.0,4-3-3,5-3-2,Matchweek 31,74431.0,Andre Marriner,2019-04-24 20:00:00,0.5454545454545454,0.18181818181818182
-Chelsea,Manchester United,Away,D,0.6,0.2,0.2,0.4,0.6,0.0,4-3-3,4-3-1-2,Matchweek 36,74526.0,Martin Atkinson,2019-04-28 16:30:00,0.36363636363636365,0.45454545454545453
-Manchester United,Huddersfield,Away,D,0.2,0.6,0.2,0.0,1.0,0.0,4-3-1-2,4-3-1-2,Matchweek 37,24263.0,Lee Mason,2019-05-05 14:00:00,0.6666666666666666,0.0
-Manchester United,Cardiff City,Home,L,0.2,0.4,0.4,0.2,0.8,0.0,4-3-1-2,4-3-1-2,Matchweek 38,74457.0,Jonathan Moss,2019-05-12 15:00:00,0.6666666666666666,0.3333333333333333
-Chelsea,Manchester United,Away,L,0.0,0.0,0.0,0.0,0.0,0.0,4-2-3-1,4-2-3-1,Matchweek 1,73620.0,Anthony Taylor,2019-08-11 16:30:00,0.3333333333333333,0.5
-Manchester United,Wolverhampton Wanderers,Away,D,1.0,0.0,0.0,0.0,0.0,1.0,4-2-3-1,3-5-2,Matchweek 2,31314.0,Jonathan Moss,2019-08-19 20:00:00,0.0,0.5
-Crystal Palace,Manchester United,Away,W,0.0,0.5,0.5,0.5,0.0,0.5,4-5-1,4-2-3-1,Matchweek 3,73454.0,Paul Tierney,2019-08-24 15:00:00,0.0,0.16666666666666666
-Manchester United,Southampton,Away,D,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.6666666666666666,0.0,4-2-3-1,4-2-2-2,Matchweek 4,30499.0,Mike Dean,2019-08-31 12:30:00,0.4166666666666667,0.4166666666666667
-Leicester City,Manchester United,Away,L,0.5,0.0,0.5,0.25,0.25,0.5,4-1-4-1,4-2-3-1,Matchweek 5,73689.0,Martin Atkinson,2019-09-14 15:00:00,0.1,0.3
-Manchester United,West Ham United,Away,L,0.4,0.2,0.4,0.4,0.2,0.4,4-2-3-1,4-1-4-1,Matchweek 6,59936.0,Anthony Taylor,2019-09-22 14:00:00,0.5,0.3333333333333333
-Arsenal,Manchester United,Away,D,0.4,0.2,0.4,0.2,0.4,0.4,4-3-3,4-2-3-1,Matchweek 7,73201.0,Kevin Friend,2019-09-30 20:00:00,0.25,0.3333333333333333
-Manchester United,Newcastle United,Away,L,0.2,0.4,0.4,0.2,0.4,0.4,4-2-3-1,5-4-1,Matchweek 8,51198.0,Mike Dean,2019-10-06 16:30:00,0.6,0.2
-Liverpool,Manchester United,Away,D,1.0,0.0,0.0,0.2,0.4,0.4,4-3-3,3-4-1-2,Matchweek 9,73737.0,Martin Atkinson,2019-10-20 16:30:00,0.25,0.3333333333333333
-Manchester United,Norwich City,Away,W,0.2,0.4,0.4,0.2,0.6,0.2,4-2-3-1,4-2-3-1,Matchweek 10,27108.0,Stuart Attwell,2019-10-27 16:30:00,0.75,0.0
-Bournemouth,Manchester United,Home,W,0.2,0.2,0.6,0.2,0.4,0.4,4-4-2,4-2-3-1,Matchweek 11,10669.0,Chris Kavanagh,2019-11-02 12:30:00,0.125,0.125
-Brighton and Hove Albion,Manchester United,Away,L,0.6,0.4,0.0,0.2,0.4,0.4,4-4-2,4-2-3-1,Matchweek 12,73556.0,Jonathan Moss,2019-11-10 14:00:00,0.5,0.0
-Manchester United,Sheffield United,Away,D,0.4,0.4,0.2,0.4,0.2,0.4,3-4-3,3-4-3,Matchweek 13,32024.0,Andre Marriner,2019-11-24 16:30:00,0.0,0.0
-Aston Villa,Manchester United,Away,D,0.4,0.6,0.0,0.4,0.2,0.4,4-3-3,4-2-3-1,Matchweek 14,73381.0,Craig Pawson,2019-12-01 16:30:00,0.0,0.16666666666666666
-Manchester United,Tottenham Hotspur,Home,W,0.4,0.2,0.4,0.4,0.2,0.4,4-2-3-1,4-2-3-1,Matchweek 15,73252.0,Paul Tierney,2019-12-04 19:30:00,0.4166666666666667,0.16666666666666666
-Manchester City,Manchester United,Home,L,0.6,0.2,0.2,0.4,0.2,0.4,4-3-3,4-2-3-1,Matchweek 16,54403.0,Anthony Taylor,2019-12-07 17:30:00,0.5833333333333334,0.16666666666666666
-Everton,Manchester United,Away,D,0.4,0.6,0.0,0.6,0.0,0.4,4-4-2,4-2-3-1,Matchweek 17,63328.0,Michael Oliver,2019-12-15 14:00:00,0.3333333333333333,0.16666666666666666
-Manchester United,Watford,Away,L,0.4,0.0,0.6,0.0,0.8,0.2,4-2-3-1,4-2-3-1,Matchweek 18,21488.0,Lee Mason,2019-12-22 14:00:00,0.875,0.0
-Manchester United,Newcastle United,Home,W,0.4,0.2,0.4,0.6,0.2,0.2,4-2-3-1,3-5-2,Matchweek 19,73206.0,Kevin Friend,2019-12-26 17:30:00,0.5454545454545454,0.18181818181818182
-Manchester United,Burnley,Away,W,0.6,0.2,0.2,0.4,0.6,0.0,4-2-3-1,4-2-3-1,Matchweek 20,21924.0,Mike Dean,2019-12-28 19:45:00,0.5,0.5
-Arsenal,Manchester United,Home,W,0.2,0.4,0.4,0.6,0.2,0.2,4-2-3-1,4-2-3-1,Matchweek 21,60328.0,Chris Kavanagh,2020-01-01 20:00:00,0.23076923076923078,0.38461538461538464
-Manchester United,Norwich City,Home,W,0.4,0.4,0.2,0.0,0.4,0.6,4-2-3-1,4-2-3-1,Matchweek 22,73271.0,Anthony Taylor,2020-01-11 15:00:00,0.8,0.0
-Liverpool,Manchester United,Home,W,1.0,0.0,0.0,0.6,0.4,0.0,4-3-3,3-4-1-2,Matchweek 23,52916.0,Craig Pawson,2020-01-19 16:30:00,0.23076923076923078,0.38461538461538464
-Manchester United,Burnley,Home,L,0.6,0.4,0.0,0.2,0.8,0.0,4-2-3-1,4-2-3-1,Matchweek 24,73198.0,Jonathan Moss,2020-01-22 20:15:00,0.5555555555555556,0.4444444444444444
-Manchester United,Wolverhampton Wanderers,Home,D,0.4,0.6,0.0,0.2,0.6,0.2,4-2-3-1,3-4-3,Matchweek 25,73363.0,Paul Tierney,2020-02-01 17:30:00,0.0,0.6666666666666666
-Chelsea,Manchester United,Home,L,0.2,0.2,0.6,0.2,0.6,0.2,4-3-3,3-4-1-2,Matchweek 26,40504.0,Anthony Taylor,2020-02-17 20:00:00,0.3076923076923077,0.46153846153846156
-Manchester United,Watford,Home,W,0.4,0.4,0.2,0.2,0.4,0.4,4-2-3-1,4-2-3-1,Matchweek 27,73347.0,Martin Atkinson,2020-02-23 14:00:00,0.7777777777777778,0.0
-Everton,Manchester United,Home,D,0.4,0.2,0.4,0.4,0.4,0.2,4-4-2,4-1-2-1-2,Matchweek 28,39374.0,Chris Kavanagh,2020-03-01 14:00:00,0.3076923076923077,0.23076923076923078
-Manchester City,Manchester United,Away,L,0.6,0.2,0.2,0.4,0.2,0.4,4-3-3,3-4-1-2,Matchweek 29,73288.0,Mike Dean,2020-03-08 16:30:00,0.5384615384615384,0.15384615384615385
-Manchester United,Tottenham Hotspur,Away,D,0.6,0.0,0.4,0.4,0.4,0.2,4-2-3-1,4-2-3-1,Matchweek 30,64348.0,Jonathan Moss,2020-06-19 20:15:00,0.46153846153846156,0.15384615384615385
-Manchester United,Sheffield United,Home,W,0.6,0.0,0.4,0.4,0.2,0.4,4-2-3-1,4-2-3-1,Matchweek 31,32024.0,Anthony Taylor,2020-06-24 18:00:00,0.0,1.0
-Brighton and Hove Albion,Manchester United,Home,L,0.2,0.2,0.6,0.6,0.0,0.4,4-4-2,4-2-3-1,Matchweek 32,54916.22222222222,Andre Marriner,2020-06-30 20:15:00,0.4,0.0
-Bournemouth,Manchester United,Away,L,0.0,0.8,0.2,0.6,0.0,0.4,4-4-2,4-2-3-1,Matchweek 33,39784.181818181816,Mike Dean,2020-07-04 15:00:00,0.2222222222222222,0.1111111111111111
-Aston Villa,Manchester United,Home,L,0.0,0.6,0.4,0.8,0.0,0.2,4-4-1-1,4-2-3-1,Matchweek 34,59659.27272727273,Jonathan Moss,2020-07-09 20:15:00,0.0,0.2857142857142857
-Manchester United,Southampton,Home,D,0.8,0.0,0.2,0.6,0.2,0.2,4-2-3-1,4-4-2,Matchweek 35,51705.82352941176,Chris Kavanagh,2020-07-13 20:00:00,0.38461538461538464,0.46153846153846156
-Crystal Palace,Manchester United,Home,L,0.0,1.0,0.0,0.8,0.0,0.2,4-4-2,4-2-3-1,Matchweek 36,51238.705882352944,Graham Scott,2020-07-16 20:15:00,0.07692307692307693,0.15384615384615385
-Manchester United,West Ham United,Home,D,0.8,0.0,0.2,0.6,0.2,0.2,4-2-3-1,4-2-3-1,Matchweek 37,58674.16666666666,Paul Tierney,2020-07-22 18:00:00,0.46153846153846156,0.3076923076923077
-Leicester City,Manchester United,Home,L,0.4,0.4,0.2,0.6,0.0,0.4,3-5-2,4-2-3-1,Matchweek 38,54719.8,Martin Atkinson,2020-07-26 16:00:00,0.09090909090909091,0.2727272727272727
-Crystal Palace,Manchester United,Away,W,1.0,0.0,0.0,0.0,0.0,0.0,4-4-2,4-2-3-1,Matchweek 2,51238.705882352944,Martin Atkinson,2020-09-19 17:30:00,0.07142857142857142,0.14285714285714285
-Brighton and Hove Albion,Manchester United,Home,L,0.5,0.5,0.0,0.0,1.0,0.0,3-4-3,4-2-3-1,Matchweek 3,54916.22222222222,Chris Kavanagh,2020-09-26 12:30:00,0.3333333333333333,0.0
-Manchester United,Tottenham Hotspur,Home,L,0.5,0.5,0.0,0.3333333333333333,0.3333333333333333,0.3333333333333333,4-2-3-1,4-3-3,Matchweek 4,64348.0,Anthony Taylor,2020-10-04 16:30:00,0.42857142857142855,0.21428571428571427
-Manchester United,Newcastle United,Away,W,0.3333333333333333,0.6666666666666666,0.0,0.5,0.25,0.25,4-2-3-1,4-1-4-1,Matchweek 5,62928.0,Craig Pawson,2020-10-17 20:00:00,0.5833333333333334,0.16666666666666666
-Chelsea,Manchester United,Away,D,0.4,0.2,0.4,0.5,0.5,0.0,3-4-3,4-2-3-1,Matchweek 6,57750.88888888889,Martin Atkinson,2020-10-24 17:30:00,0.2857142857142857,0.42857142857142855
-Arsenal,Manchester United,Away,W,0.4,0.6,0.0,0.4,0.4,0.2,3-4-3,4-1-2-1-2,Matchweek 7,67278.22222222222,Mike Dean,2020-11-01 16:30:00,0.2857142857142857,0.35714285714285715
-Everton,Manchester United,Home,L,0.4,0.4,0.2,0.4,0.4,0.2,4-3-3,4-2-3-1,Matchweek 8,56387.77777777778,Paul Tierney,2020-11-07 12:30:00,0.2857142857142857,0.2857142857142857
-Manchester United,West Bromwich Albion,Home,W,0.4,0.4,0.2,0.0,0.6,0.4,4-2-3-1,4-2-3-1,Matchweek 9,50434.4,David Coote,2020-11-21 20:00:00,0.4,0.2
-Manchester United,Southampton,Away,W,0.6,0.2,0.2,0.6,0.0,0.4,4-3-1-2,4-4-2,Matchweek 10,51705.82352941176,Jonathan Moss,2020-11-29 14:00:00,0.35714285714285715,0.5
-Manchester United,West Ham United,Away,W,0.6,0.2,0.2,0.6,0.2,0.2,4-2-3-1,3-4-3,Matchweek 11,2000.0,Andre Marriner,2020-12-05 17:30:00,0.42857142857142855,0.35714285714285715
-Manchester City,Manchester United,Away,D,0.6,0.2,0.2,0.8,0.2,0.0,4-2-3-1,4-2-3-1,Matchweek 12,63510.0,Chris Kavanagh,2020-12-12 17:30:00,0.5,0.14285714285714285
-Manchester United,Sheffield United,Away,W,0.8,0.0,0.2,0.0,1.0,0.0,4-2-3-1,4-2-3-1,Matchweek 13,32024.0,Michael Oliver,2020-12-17 20:00:00,0.5,0.5
-Leeds United,Manchester United,Away,L,0.4,0.4,0.2,0.8,0.0,0.2,4-1-4-1,4-2-3-1,Matchweek 14,54955.5,Anthony Taylor,2020-12-20 16:30:00,0.0,0.0
-Leicester City,Manchester United,Home,D,0.6,0.4,0.0,0.8,0.0,0.2,4-2-3-1,4-2-3-1,Matchweek 15,54719.8,Mike Dean,2020-12-26 12:30:00,0.08333333333333333,0.25
-Manchester United,Wolverhampton Wanderers,Home,W,0.6,0.0,0.4,0.2,0.6,0.2,4-2-3-1,3-4-1-2,Matchweek 16,47095.77777777778,Jonathan Moss,2020-12-29 20:00:00,0.0,0.75
-Aston Villa,Manchester United,Away,L,0.6,0.0,0.4,0.6,0.0,0.4,4-2-3-1,4-2-3-1,Matchweek 17,59659.27272727273,Michael Oliver,2021-01-01 20:00:00,0.0,0.25
-Manchester United,Burnley,Away,W,0.8,0.0,0.2,0.4,0.2,0.4,4-2-3-1,4-2-3-1,Matchweek 1,48005.583333333336,Kevin Friend,2021-01-12 20:15:00,0.5,0.4
-Liverpool,Manchester United,Home,D,0.4,0.2,0.4,0.8,0.0,0.2,4-3-3,4-2-3-1,Matchweek 19,62299.88888888889,Paul Tierney,2021-01-17 16:30:00,0.2857142857142857,0.35714285714285715
-Fulham,Manchester United,Home,L,0.0,0.2,0.8,0.6,0.0,0.4,3-4-3,4-2-3-1,Matchweek 18,43985.857142857145,Martin Atkinson,2021-01-20 20:15:00,0.0,0.25
-Manchester United,Sheffield United,Home,L,0.8,0.0,0.2,0.2,0.6,0.2,4-2-3-1,4-2-3-1,Matchweek 20,32024.0,Peter Bankes,2021-01-27 20:15:00,0.6666666666666666,0.3333333333333333
-Arsenal,Manchester United,Home,D,0.8,0.0,0.2,0.6,0.2,0.2,4-2-3-1,4-2-3-1,Matchweek 21,67278.22222222222,Michael Oliver,2021-01-30 17:30:00,0.3333333333333333,0.3333333333333333
-Manchester United,Southampton,Home,W,0.4,0.2,0.4,0.2,0.6,0.2,4-2-3-1,4-4-2,Matchweek 22,51705.82352941176,Mike Dean,2021-02-02 20:15:00,0.4,0.4666666666666667
-Everton,Manchester United,Away,D,0.4,0.4,0.2,0.4,0.2,0.4,4-3-1-2,4-2-3-1,Matchweek 23,56387.77777777778,Jonathan Moss,2021-02-06 20:00:00,0.26666666666666666,0.26666666666666666
-Manchester United,West Bromwich Albion,Away,D,0.4,0.2,0.4,0.2,0.6,0.2,4-2-3-1,4-2-3-1,Matchweek 24,50434.4,Craig Pawson,2021-02-14 14:00:00,0.45454545454545453,0.18181818181818182
-Manchester United,Newcastle United,Home,W,0.2,0.2,0.6,0.4,0.6,0.0,4-2-3-1,4-3-1-2,Matchweek 25,62928.0,Paul Tierney,2021-02-21 19:00:00,0.6153846153846154,0.15384615384615385
-Chelsea,Manchester United,Home,D,0.8,0.0,0.2,0.4,0.0,0.6,3-4-3,4-2-3-1,Matchweek 26,57750.88888888889,Stuart Attwell,2021-02-28 16:30:00,0.26666666666666666,0.4666666666666667
-Crystal Palace,Manchester United,Home,D,0.4,0.4,0.2,0.4,0.0,0.6,4-4-2,4-2-3-1,Matchweek 29,51238.705882352944,Andre Marriner,2021-03-03 20:15:00,0.13333333333333333,0.13333333333333333
-Manchester City,Manchester United,Home,L,1.0,0.0,0.0,0.2,0.0,0.8,4-2-3-1,4-2-3-1,Matchweek 27,63510.0,Anthony Taylor,2021-03-07 16:30:00,0.4666666666666667,0.2
-Manchester United,West Ham United,Home,W,0.4,0.0,0.6,0.6,0.2,0.2,4-2-3-1,3-1-4-2,Matchweek 28,58674.16666666666,Martin Atkinson,2021-03-14 19:15:00,0.4666666666666667,0.3333333333333333
-Brighton and Hove Albion,Manchester United,Away,L,0.4,0.6,0.0,0.6,0.0,0.4,3-4-1-2,4-2-3-1,Matchweek 30,54916.22222222222,Mike Dean,2021-04-04 19:30:00,0.2857142857142857,0.0
-Manchester United,Tottenham Hotspur,Away,W,0.6,0.0,0.4,0.6,0.2,0.2,4-2-3-1,4-3-3,Matchweek 31,64348.0,Chris Kavanagh,2021-04-11 16:30:00,0.4,0.2
-Manchester United,Burnley,Home,W,0.8,0.0,0.2,0.2,0.4,0.4,4-2-3-1,4-2-3-1,Matchweek 32,48005.583333333336,Jonathan Moss,2021-04-18 16:00:00,0.5454545454545454,0.36363636363636365
-Leeds United,Manchester United,Home,D,0.6,0.0,0.4,1.0,0.0,0.0,4-1-4-1,4-2-3-1,Matchweek 33,54955.5,Craig Pawson,2021-04-25 14:00:00,0.0,0.0
-Aston Villa,Manchester United,Home,L,0.4,0.4,0.2,0.8,0.0,0.2,4-2-3-1,4-2-3-1,Matchweek 35,59659.27272727273,Chris Kavanagh,2021-05-09 14:05:00,0.0,0.2222222222222222
-Leicester City,Manchester United,Away,W,0.4,0.4,0.2,0.8,0.0,0.2,4-4-2,4-2-3-1,Matchweek 36,54719.8,Craig Pawson,2021-05-11 18:00:00,0.07692307692307693,0.3076923076923077
-Liverpool,Manchester United,Away,W,0.6,0.0,0.4,0.6,0.2,0.2,4-3-3,4-2-3-1,Matchweek 34,62299.88888888889,Anthony Taylor,2021-05-13 20:15:00,0.26666666666666666,0.4
-Fulham,Manchester United,Away,D,0.0,0.8,0.2,0.4,0.4,0.2,3-4-3,4-2-3-1,Matchweek 37,10000.0,Lee Mason,2021-05-18 18:00:00,0.0,0.2
-Manchester United,Wolverhampton Wanderers,Away,W,0.2,0.4,0.4,0.2,0.6,0.2,4-2-3-1,3-5-2,Matchweek 38,4500.0,Mike Dean,2021-05-23 16:00:00,0.2,0.6
-Leeds United,Manchester United,Away,L,0.0,0.0,0.0,0.0,0.0,0.0,4-1-4-1,4-2-3-1,Matchweek 1,72732.0,Paul Tierney,2021-08-14 12:30:00,0.0,0.5
-Manchester United,Southampton,Away,D,1.0,0.0,0.0,0.0,1.0,0.0,4-2-3-1,4-4-2,Matchweek 2,32000.0,Craig Pawson,2021-08-22 14:00:00,0.4375,0.4375
-Manchester United,Wolverhampton Wanderers,Away,W,0.5,0.0,0.5,0.0,1.0,0.0,4-2-3-1,3-4-3,Matchweek 3,30621.0,Mike Dean,2021-08-29 16:30:00,0.3333333333333333,0.5
-Manchester United,Newcastle United,Home,W,0.6666666666666666,0.0,0.3333333333333333,0.0,0.6666666666666666,0.3333333333333333,4-2-3-1,5-4-1,Matchweek 4,72732.0,Anthony Taylor,2021-09-11 15:00:00,0.6428571428571429,0.14285714285714285
-Manchester United,West Ham United,Away,W,0.75,0.0,0.25,0.5,0.0,0.5,4-2-3-1,4-4-2,Matchweek 5,60000.0,Martin Atkinson,2021-09-19 14:00:00,0.5,0.3125
-Aston Villa,Manchester United,Away,W,0.4,0.4,0.2,0.8,0.0,0.2,3-5-2,4-2-3-1,Matchweek 6,72922.0,Mike Dean,2021-09-25 12:30:00,0.0,0.2
-Everton,Manchester United,Away,D,0.6,0.2,0.2,0.6,0.2,0.2,4-4-1-1,4-2-3-1,Matchweek 7,73128.0,Michael Oliver,2021-10-02 12:30:00,0.25,0.3125
-Leicester City,Manchester United,Home,W,0.2,0.4,0.4,0.6,0.2,0.2,3-4-1-2,4-2-3-1,Matchweek 8,32219.0,Craig Pawson,2021-10-16 15:00:00,0.14285714285714285,0.2857142857142857
-Liverpool,Manchester United,Away,W,0.6,0.0,0.4,0.4,0.4,0.2,4-3-3,4-2-3-1,Matchweek 9,73088.0,Anthony Taylor,2021-10-24 16:30:00,0.3125,0.375
-Manchester United,Tottenham Hotspur,Away,W,0.2,0.6,0.2,0.4,0.6,0.0,3-5-2,4-2-3-1,Matchweek 10,60356.0,Stuart Attwell,2021-10-30 17:30:00,0.4375,0.1875
-Manchester City,Manchester United,Away,W,0.6,0.2,0.2,0.2,0.6,0.2,4-3-3,3-5-2,Matchweek 11,73086.0,Michael Oliver,2021-11-06 12:30:00,0.4375,0.1875
-Manchester United,Watford,Away,L,0.2,0.6,0.2,0.2,0.8,0.0,4-2-3-1,4-2-3-1,Matchweek 12,21087.0,Jonathan Moss,2021-11-20 15:00:00,0.8,0.0
-Chelsea,Manchester United,Home,D,0.8,0.0,0.2,0.2,0.8,0.0,3-4-3,4-3-1-2,Matchweek 13,40041.0,Anthony Taylor,2021-11-28 16:30:00,0.25,0.5
-Arsenal,Manchester United,Away,L,0.8,0.2,0.0,0.2,0.6,0.2,4-4-1-1,4-2-3-1,Matchweek 14,73123.0,Martin Atkinson,2021-12-02 20:15:00,0.3125,0.375
-Crystal Palace,Manchester United,Away,L,0.4,0.4,0.2,0.4,0.4,0.2,4-3-3,4-2-2-2,Matchweek 15,73172.0,Craig Pawson,2021-12-05 14:00:00,0.125,0.1875
-Manchester United,Norwich City,Away,W,0.4,0.4,0.2,0.4,0.2,0.4,4-2-2-2,4-2-2-2,Matchweek 16,27606.0,Darren England,2021-12-11 17:30:00,0.8333333333333334,0.0
-Manchester United,Newcastle United,Away,D,0.6,0.2,0.2,0.2,0.6,0.2,4-2-2-2,4-5-1,Matchweek 19,52178.0,Craig Pawson,2021-12-27 20:00:00,0.6666666666666666,0.13333333333333333
-Manchester United,Burnley,Home,W,0.6,0.0,0.4,0.0,0.2,0.8,4-2-2-2,4-2-2-2,Matchweek 20,73121.0,Jonathan Moss,2021-12-30 20:15:00,0.5833333333333334,0.3333333333333333
-Manchester United,Wolverhampton Wanderers,Home,L,0.8,0.0,0.2,0.2,0.4,0.4,4-2-2-2,3-4-3,Matchweek 21,73045.0,Mike Dean,2022-01-03 17:30:00,0.42857142857142855,0.42857142857142855
-Aston Villa,Manchester United,Home,D,0.4,0.6,0.0,0.6,0.2,0.2,4-3-3,4-3-3,Matchweek 22,41968.0,David Coote,2022-01-15 17:30:00,0.09090909090909091,0.18181818181818182
-Brentford,Manchester United,Home,L,0.2,0.8,0.0,0.4,0.2,0.4,3-5-2,4-2-3-1,Matchweek 17,17094.0,Andre Marriner,2022-01-19 20:00:00,0.0,0.0
-Manchester United,West Ham United,Home,W,0.4,0.2,0.4,0.6,0.4,0.0,4-2-3-1,4-2-3-1,Matchweek 23,73130.0,Jonathan Moss,2022-01-22 15:00:00,0.5294117647058824,0.29411764705882354
-Manchester United,Burnley,Away,D,0.6,0.2,0.2,0.0,0.6,0.4,4-2-3-1,4-2-3-1,Matchweek 24,21233.0,Mike Dean,2022-02-08 20:00:00,0.6153846153846154,0.3076923076923077
-Manchester United,Southampton,Home,D,0.4,0.2,0.4,0.4,0.2,0.4,4-2-3-1,4-4-2,Matchweek 25,73084.0,Stuart Attwell,2022-02-12 12:30:00,0.4117647058823529,0.47058823529411764
-Brighton and Hove Albion,Manchester United,Away,L,0.4,0.0,0.6,0.4,0.0,0.6,4-1-2-1-2,4-2-3-1,Matchweek 18,73012.0,Peter Bankes,2022-02-15 20:15:00,0.25,0.0
-Leeds United,Manchester United,Home,L,0.4,0.4,0.2,0.6,0.0,0.4,4-2-3-1,4-2-3-1,Matchweek 26,36715.0,Paul Tierney,2022-02-20 14:00:00,0.0,0.3333333333333333
-Manchester United,Watford,Home,D,0.6,0.0,0.4,0.2,0.6,0.2,4-2-3-1,4-2-3-1,Matchweek 27,73152.0,Kevin Friend,2022-02-26 15:00:00,0.7272727272727273,0.0
-Manchester City,Manchester United,Home,W,0.6,0.2,0.2,0.4,0.0,0.6,4-3-3,4-2-3-1,Matchweek 28,53165.0,Michael Oliver,2022-03-06 16:30:00,0.47058823529411764,0.17647058823529413
-Manchester United,Tottenham Hotspur,Home,W,0.4,0.2,0.4,0.6,0.4,0.0,4-2-3-1,3-4-3,Matchweek 29,73458.0,Jonathan Moss,2022-03-12 17:30:00,0.47058823529411764,0.17647058823529413
-Leicester City,Manchester United,Away,D,0.6,0.4,0.0,0.6,0.2,0.2,4-2-3-1,4-2-3-1,Matchweek 31,73444.0,Andre Marriner,2022-04-02 17:30:00,0.2,0.26666666666666666
-Everton,Manchester United,Home,W,0.2,0.8,0.0,0.4,0.2,0.4,4-3-3,4-2-3-1,Matchweek 32,39080.0,Jonathan Moss,2022-04-09 12:30:00,0.23529411764705882,0.35294117647058826
-Manchester United,Norwich City,Home,W,0.2,0.4,0.4,0.0,0.8,0.2,4-3-3,4-3-3,Matchweek 33,73381.0,Andy Madley,2022-04-16 15:00:00,0.8571428571428571,0.0
-Liverpool,Manchester United,Home,W,0.8,0.0,0.2,0.4,0.4,0.2,4-3-3,3-4-3,Matchweek 30,52686.0,Martin Atkinson,2022-04-19 20:00:00,0.35294117647058826,0.35294117647058826
-Arsenal,Manchester United,Home,W,0.4,0.6,0.0,0.4,0.4,0.2,4-2-3-1,4-2-3-1,Matchweek 34,60223.0,Craig Pawson,2022-04-23 12:30:00,0.29411764705882354,0.35294117647058826
-Chelsea,Manchester United,Away,D,0.6,0.4,0.0,0.2,0.6,0.2,3-4-1-2,4-2-3-1,Matchweek 37,73564.0,Mike Dean,2022-04-28 19:45:00,0.23529411764705882,0.5294117647058824
-Brentford,Manchester United,Away,L,0.6,0.2,0.2,0.2,0.6,0.2,5-3-2,4-2-3-1,Matchweek 35,73482.0,Chris Kavanagh,2022-05-02 20:00:00,0.0,0.0
-Brighton and Hove Albion,Manchester United,Home,W,0.6,0.2,0.2,0.4,0.4,0.2,3-4-3,4-2-3-1,Matchweek 36,31637.0,Andy Madley,2022-05-07 17:30:00,0.2222222222222222,0.0
-Crystal Palace,Manchester United,Home,W,0.4,0.2,0.4,0.2,0.6,0.2,4-3-3,4-2-3-1,Matchweek 38,25434.0,Martin Atkinson,2022-05-22 16:00:00,0.11764705882352941,0.17647058823529413
-Brighton and Hove Albion,Manchester United,Away,W,0.0,0.0,0.0,0.0,0.0,0.0,3-3-3-1,4-3-3,Matchweek 1,73711.0,Paul Tierney,2022-08-07 14:00:00,0.3,0.0
-Brentford,Manchester United,Home,W,0.0,0.0,1.0,0.0,1.0,0.0,5-3-2,4-2-3-1,Matchweek 2,17051.0,Stuart Attwell,2022-08-13 17:30:00,0.0,0.0
-Liverpool,Manchester United,Away,L,0.0,0.0,1.0,0.0,1.0,0.0,4-3-3,4-2-3-1,Matchweek 3,74147.0,Michael Oliver,2022-08-22 20:00:00,0.3888888888888889,0.3333333333333333
-Manchester United,Southampton,Away,W,0.3333333333333333,0.6666666666666666,0.0,0.3333333333333333,0.3333333333333333,0.3333333333333333,4-2-3-1,4-2-3-1,Matchweek 4,31196.0,Andy Madley,2022-08-27 12:30:00,0.3888888888888889,0.5
-Leicester City,Manchester United,Home,L,0.0,0.75,0.25,0.5,0.5,0.0,4-1-4-1,4-2-3-1,Matchweek 5,32226.0,Craig Pawson,2022-09-01 20:00:00,0.1875,0.3125
-Arsenal,Manchester United,Away,L,1.0,0.0,0.0,0.6,0.4,0.0,4-3-3,4-2-3-1,Matchweek 6,73431.0,Paul Tierney,2022-09-04 16:30:00,0.3333333333333333,0.3333333333333333
-Manchester City,Manchester United,Home,W,0.6,0.0,0.4,0.8,0.2,0.0,4-3-3,4-2-3-1,Matchweek 9,53475.0,Michael Oliver,2022-10-02 14:00:00,0.5,0.16666666666666666
-Everton,Manchester United,Home,L,0.4,0.0,0.6,0.8,0.2,0.0,4-3-3,4-2-3-1,Matchweek 10,39258.0,David Coote,2022-10-09 19:00:00,0.2777777777777778,0.3333333333333333
-Manchester United,Newcastle United,Home,D,0.8,0.2,0.0,0.4,0.2,0.4,4-2-3-1,4-3-3,Matchweek 11,73726.0,Craig Pawson,2022-10-16 14:00:00,0.625,0.1875
-Manchester United,Tottenham Hotspur,Home,W,0.6,0.2,0.2,0.8,0.2,0.0,4-2-3-1,3-5-2,Matchweek 12,73677.0,Simon Hooper,2022-10-19 20:15:00,0.5,0.16666666666666666
-Chelsea,Manchester United,Home,D,0.8,0.0,0.2,0.6,0.2,0.2,3-4-3,4-1-4-1,Matchweek 13,39503.0,Stuart Attwell,2022-10-22 17:30:00,0.2222222222222222,0.5555555555555556
-Manchester United,West Ham United,Home,W,0.4,0.2,0.4,0.6,0.2,0.2,4-2-3-1,4-2-3-1,Matchweek 14,73682.0,Chris Kavanagh,2022-10-30 16:15:00,0.5555555555555556,0.2777777777777778
-Aston Villa,Manchester United,Home,W,0.2,0.6,0.2,0.6,0.0,0.4,4-2-2-2,4-2-3-1,Matchweek 15,42058.0,Anthony Taylor,2022-11-06 14:00:00,0.08333333333333333,0.25
-Fulham,Manchester United,Home,L,0.4,0.2,0.4,0.4,0.2,0.4,4-2-3-1,4-2-3-1,Matchweek 16,24246.0,Paul Tierney,2022-11-13 16:30:00,0.0,0.3333333333333333
-Manchester United,Nottingham Forest,Home,W,0.6,0.2,0.2,0.4,0.2,0.4,4-2-3-1,4-3-3,Matchweek 17,73608.0,Anthony Taylor,2022-12-27 20:00:00,0.0,0.0
-Manchester United,Wolverhampton Wanderers,Away,W,0.6,0.2,0.2,0.2,0.6,0.2,4-2-3-1,4-2-3-1,Matchweek 18,31658.0,Robert Jones,2022-12-31 12:30:00,0.375,0.375
-Bournemouth,Manchester United,Away,L,0.2,0.8,0.0,0.8,0.2,0.0,4-4-2,4-2-3-1,Matchweek 19,73322.0,Michael Salisbury,2023-01-03 20:00:00,0.2,0.1
-Manchester City,Manchester United,Away,L,0.6,0.2,0.2,0.8,0.2,0.0,4-3-3,4-2-3-1,Matchweek 20,75546.0,Stuart Attwell,2023-01-14 12:30:00,0.5263157894736842,0.15789473684210525
-Crystal Palace,Manchester United,Home,D,0.2,0.8,0.0,1.0,0.0,0.0,4-2-3-1,4-2-3-1,Matchweek 7,23343.0,Robert Jones,2023-01-18 20:00:00,0.16666666666666666,0.16666666666666666
-Arsenal,Manchester United,Home,W,0.8,0.0,0.2,0.8,0.0,0.2,4-3-3,4-2-3-1,Matchweek 21,60325.0,Anthony Taylor,2023-01-22 16:30:00,0.3157894736842105,0.3157894736842105
-Crystal Palace,Manchester United,Away,L,0.2,0.4,0.4,0.6,0.2,0.2,4-2-3-1,4-2-3-1,Matchweek 22,73420.0,Andre Marriner,2023-02-04 15:00:00,0.15789473684210525,0.21052631578947367
-Leeds United,Manchester United,Away,D,0.0,0.4,0.6,0.6,0.2,0.2,4-2-3-1,4-2-3-1,Matchweek 8,73456.0,Simon Hooper,2023-02-08 20:00:00,0.0,0.25
-Leeds United,Manchester United,Home,L,0.0,0.4,0.6,0.4,0.2,0.4,4-2-3-1,4-2-3-1,Matchweek 23,36919.0,Paul Tierney,2023-02-12 14:00:00,0.0,0.4
-Leicester City,Manchester United,Away,L,0.4,0.4,0.2,0.4,0.2,0.4,4-2-3-1,4-2-3-1,Matchweek 24,73578.0,Stuart Attwell,2023-02-19 14:00:00,0.17647058823529413,0.29411764705882354
-Liverpool,Manchester United,Home,W,0.6,0.2,0.2,0.6,0.2,0.2,4-3-3,4-2-3-1,Matchweek 26,53001.0,Andy Madley,2023-03-05 16:30:00,0.3684210526315789,0.3157894736842105
-Manchester United,Southampton,Home,D,0.6,0.2,0.2,0.4,0.6,0.0,4-1-4-1,4-2-3-1,Matchweek 27,73439.0,Anthony Taylor,2023-03-12 14:00:00,0.42105263157894735,0.47368421052631576
-Manchester United,Newcastle United,Away,L,0.4,0.2,0.4,0.4,0.4,0.2,4-2-3-1,4-3-3,Matchweek 29,52268.0,Stuart Attwell,2023-04-02 16:30:00,0.5882352941176471,0.23529411764705882
-Brentford,Manchester United,Away,L,0.4,0.2,0.4,0.4,0.4,0.2,5-3-2,4-2-3-1,Matchweek 25,73309.0,John Brooks,2023-04-05 20:00:00,0.3333333333333333,0.0
-Everton,Manchester United,Away,L,0.2,0.2,0.6,0.4,0.4,0.2,4-4-2,4-2-3-1,Matchweek 30,73509.0,Michael Oliver,2023-04-08 12:30:00,0.2631578947368421,0.3157894736842105
-Manchester United,Nottingham Forest,Away,W,0.4,0.4,0.2,0.0,0.8,0.2,4-2-3-1,3-4-1-2,Matchweek 31,29435.0,Simon Hooper,2023-04-16 16:30:00,1.0,0.0
-Manchester United,Tottenham Hotspur,Away,D,0.6,0.2,0.2,0.2,0.4,0.4,4-2-3-1,3-4-3,Matchweek 33,61586.0,Anthony Taylor,2023-04-27 20:15:00,0.5263157894736842,0.15789473684210525
-Aston Villa,Manchester United,Away,L,0.8,0.0,0.2,0.6,0.2,0.2,4-2-3-1,4-1-4-1,Matchweek 34,73592.0,Jarred Gillett,2023-04-30 14:00:00,0.15384615384615385,0.23076923076923078
-Brighton and Hove Albion,Manchester United,Home,W,0.6,0.4,0.0,0.8,0.0,0.2,4-2-3-1,4-3-3,Matchweek 28,31577.0,Andre Marriner,2023-05-04 20:00:00,0.36363636363636365,0.0
-Manchester United,West Ham United,Away,L,0.6,0.2,0.2,0.2,0.6,0.2,4-2-3-1,4-2-3-1,Matchweek 35,62477.0,Peter Bankes,2023-05-07 19:00:00,0.5789473684210527,0.2631578947368421
-Manchester United,Wolverhampton Wanderers,Home,W,0.4,0.4,0.2,0.6,0.4,0.0,4-2-3-1,4-4-2,Matchweek 36,73570.0,John Brooks,2023-05-13 15:00:00,0.4444444444444444,0.3333333333333333
-Bournemouth,Manchester United,Home,L,0.4,0.6,0.0,0.4,0.4,0.2,4-2-3-1,4-2-3-1,Matchweek 37,10240.0,Chris Kavanagh,2023-05-20 15:00:00,0.18181818181818182,0.09090909090909091
-Chelsea,Manchester United,Away,L,0.2,0.6,0.2,0.6,0.4,0.0,4-3-3,4-2-3-1,Matchweek 32,73561.0,Stuart Attwell,2023-05-25 20:00:00,0.21052631578947367,0.5789473684210527
-Fulham,Manchester United,Away,L,0.4,0.4,0.2,0.6,0.4,0.0,4-2-3-1,4-2-3-1,Matchweek 38,73465.0,Robert Jones,2023-05-28 16:30:00,0.0,0.2857142857142857
+team,opponent,venue,result,win_before_team1,lose_before_team1,draw_before_team1,win_before_team2,lose_before_team2,draw_before_team2,formation_team1,formation_team2,round,attendance,referee,date_time,history_team1_win_team2,history_team1_draw_team2,is_component_big6,is_opponent_big6
+Manchester United,Swansea City,Away,W,0.0,0.0,0.0,0.0,0.0,0.0,4-2-3-1,4-2-3-1,Matchweek 1,20733.0,Phil Dowd,2013-08-17 00:00:00,0.0,0.0,0,0
+Chelsea,Manchester United,Away,D,1.0,0.0,0.0,1.0,0.0,0.0,4-2-3-1,4-2-3-1,Matchweek 2,75032.0,Martin Atkinson,2013-08-26 00:00:00,0.0,0.0,1,1
+Liverpool,Manchester United,Home,W,1.0,0.0,0.0,0.5,0.0,0.5,4-2-3-1,4-2-3-1,Matchweek 3,44411.0,Andre Marriner,2013-09-01 00:00:00,0.0,0.0,1,1
+Crystal Palace,Manchester United,Away,L,0.3333333333333333,0.6666666666666666,0.0,0.3333333333333333,0.3333333333333333,0.3333333333333333,4-3-3,4-2-3-1,Matchweek 4,75170.0,Jon Moss,2013-09-14 00:00:00,0.0,0.0,1,1
+Manchester City,Manchester United,Home,W,0.5,0.25,0.25,0.5,0.25,0.25,4-4-1-1,4-2-3-1,Matchweek 5,47156.0,Howard Webb,2013-09-22 00:00:00,0.0,0.0,1,1
+Manchester United,West Bromwich Albion,Home,L,0.4,0.4,0.2,0.0,0.3333333333333333,0.6666666666666666,4-2-3-1,4-2-3-1,Matchweek 6,75042.0,Michael Oliver,2013-09-28 00:00:00,0.0,0.0,0,0
+Manchester United,Sunderland,Away,W,0.2,0.6,0.2,0.0,0.8,0.2,4-2-3-1,4-2-3-1,Matchweek 7,45426.0,Chris Foy,2013-10-05 00:00:00,0.0,0.0,0,0
+Manchester United,Southampton,Home,D,0.4,0.6,0.0,0.6,0.2,0.2,4-2-3-1,4-2-3-1,Matchweek 8,75220.0,Mike Jones,2013-10-19 00:00:00,0.0,0.0,0,0
+Manchester United,Stoke City,Home,W,0.4,0.4,0.2,0.4,0.4,0.2,4-2-3-1,4-2-3-1,Matchweek 9,75274.0,Lee Mason,2013-10-26 00:00:00,0.0,0.0,0,0
+Fulham,Manchester United,Home,L,0.4,0.6,0.0,0.4,0.4,0.2,4-4-1-1,4-2-3-1,Matchweek 10,25700.0,Lee Probert,2013-11-02 00:00:00,0.0,0.0,1,1
+Arsenal,Manchester United,Away,L,0.8,0.0,0.2,0.6,0.2,0.2,4-2-3-1,4-2-3-1,Matchweek 11,75138.0,Michael Oliver,2013-11-10 00:00:00,0.0,0.0,1,1
+Manchester United,Cardiff City,Away,D,0.8,0.0,0.2,0.2,0.8,0.0,4-2-3-1,4-2-3-1,Matchweek 12,28016.0,Neil Swarbrick,2013-11-24 00:00:00,0.0,0.0,0,0
+Manchester United,Tottenham Hotspur,Away,D,0.6,0.0,0.4,0.4,0.4,0.2,4-2-3-1,4-2-3-1,Matchweek 13,35884.0,Mike Dean,2013-12-01 00:00:00,0.0,0.0,1,1
+Everton,Manchester United,Away,W,0.4,0.0,0.6,0.6,0.0,0.4,4-2-3-1,4-2-3-1,Matchweek 14,75210.0,Martin Atkinson,2013-12-04 00:00:00,0.0,0.0,1,1
+Manchester United,Newcastle United,Home,L,0.4,0.2,0.4,0.8,0.2,0.0,4-4-2,4-3-3,Matchweek 15,75233.0,Andre Marriner,2013-12-07 00:00:00,0.0,0.0,0,0
+Aston Villa,Manchester United,Home,L,0.4,0.2,0.4,0.2,0.4,0.4,4-3-3,4-4-1-1,Matchweek 16,42682.0,Lee Mason,2013-12-15 00:00:00,0.0,0.0,1,1
+Manchester United,West Ham United,Home,W,0.2,0.4,0.4,0.2,0.6,0.2,4-2-3-1,4-2-3-1,Matchweek 17,75350.0,Mike Jones,2013-12-21 00:00:00,0.0,0.0,0,0
+Manchester United,Hull City,Away,W,0.4,0.4,0.2,0.2,0.8,0.0,4-2-3-1,4-2-3-1,Matchweek 18,24826.0,Michael Oliver,2013-12-26 00:00:00,0.0,0.0,0,0
+Manchester United,Norwich City,Away,W,0.6,0.4,0.0,0.4,0.6,0.0,4-2-3-1,4-2-3-1,Matchweek 19,26851.0,Phil Dowd,2013-12-28 00:00:00,0.0,0.0,0,0
+Manchester United,Tottenham Hotspur,Home,L,0.8,0.2,0.0,0.6,0.2,0.2,4-2-3-1,4-4-2,Matchweek 20,75265.0,Howard Webb,2014-01-01 00:00:00,0.0,1.0,1,1
+Manchester United,Swansea City,Home,W,0.8,0.2,0.0,0.2,0.6,0.2,4-2-3-1,4-2-3-1,Matchweek 21,75035.0,Chris Foy,2014-01-11 00:00:00,1.0,0.0,0,0
+Chelsea,Manchester United,Home,W,0.8,0.0,0.2,0.8,0.2,0.0,4-2-3-1,4-2-3-1,Matchweek 22,41615.0,Phil Dowd,2014-01-19 00:00:00,0.0,1.0,1,1
+Manchester United,Cardiff City,Home,W,0.6,0.4,0.0,0.0,1.0,0.0,4-4-1-1,4-4-1-1,Matchweek 23,75301.0,Craig Pawson,2014-01-28 00:00:00,0.0,1.0,0,0
+Manchester United,Stoke City,Away,L,0.6,0.4,0.0,0.0,0.8,0.2,4-2-3-1,4-2-3-1,Matchweek 24,26547.0,Neil Swarbrick,2014-02-01 00:00:00,1.0,0.0,0,0
+Fulham,Manchester United,Away,D,0.2,0.8,0.0,0.4,0.6,0.0,4-4-1-1,4-2-3-1,Matchweek 25,74966.0,Kevin Friend,2014-02-09 00:00:00,0.0,0.0,1,1
+Arsenal,Manchester United,Home,D,0.6,0.2,0.2,0.4,0.4,0.2,4-2-3-1,4-2-3-1,Matchweek 26,60021.0,Mark Clattenburg,2014-02-12 00:00:00,0.0,0.0,1,1
+Crystal Palace,Manchester United,Home,L,0.6,0.4,0.0,0.2,0.4,0.4,4-4-1-1,4-2-3-1,Matchweek 27,24571.0,Michael Oliver,2014-02-22 00:00:00,0.0,0.0,1,1
+Manchester United,West Bromwich Albion,Away,W,0.4,0.2,0.4,0.0,0.4,0.6,4-2-3-1,4-2-3-1,Matchweek 29,26184.0,Jon Moss,2014-03-08 00:00:00,0.0,0.0,0,0
+Liverpool,Manchester United,Away,W,0.8,0.0,0.2,0.4,0.2,0.4,4-1-2-1-2,4-2-3-1,Matchweek 30,75225.0,Mark Clattenburg,2014-03-16 00:00:00,1.0,0.0,1,1
+Manchester United,West Ham United,Away,W,0.4,0.2,0.4,0.6,0.4,0.0,4-2-3-1,4-2-3-1,Matchweek 31,34237.0,Lee Mason,2014-03-22 00:00:00,1.0,0.0,0,0
+Manchester City,Manchester United,Away,W,0.6,0.2,0.2,0.6,0.2,0.2,4-2-3-1,4-3-3,Matchweek 28,75203.0,Michael Oliver,2014-03-25 00:00:00,1.0,0.0,1,1
+Aston Villa,Manchester United,Away,L,0.4,0.4,0.2,0.6,0.4,0.0,4-2-3-1,4-2-3-1,Matchweek 32,75368.0,Martin Atkinson,2014-03-29 00:00:00,0.0,0.0,1,1
+Manchester United,Newcastle United,Away,W,0.6,0.4,0.0,0.4,0.6,0.0,4-2-3-1,4-2-3-1,Matchweek 33,52081.0,Kevin Friend,2014-04-05 00:00:00,0.0,0.0,0,0
+Everton,Manchester United,Home,W,0.8,0.2,0.0,0.6,0.4,0.0,4-2-3-1,4-2-3-1,Matchweek 35,39436.0,Mark Clattenburg,2014-04-20 00:00:00,1.0,0.0,1,1
+Manchester United,Norwich City,Home,W,0.6,0.4,0.0,0.2,0.8,0.0,4-4-2,4-4-2,Matchweek 36,75208.0,Lee Probert,2014-04-26 00:00:00,1.0,0.0,0,0
+Manchester United,Sunderland,Home,L,0.6,0.4,0.0,0.2,0.6,0.2,4-2-3-1,4-2-3-1,Matchweek 37,75347.0,Howard Webb,2014-05-03 00:00:00,1.0,0.0,0,0
+Manchester United,Hull City,Home,W,0.6,0.4,0.0,0.0,0.8,0.2,4-2-3-1,4-2-3-1,Matchweek 34,75341.0,Craig Pawson,2014-05-06 00:00:00,1.0,0.0,0,0
+Manchester United,Southampton,Away,D,0.6,0.4,0.0,0.4,0.4,0.2,4-2-3-1,4-3-3,Matchweek 38,31372.0,Mike Dean,2014-05-11 00:00:00,0.0,1.0,0,0
+Manchester United,Swansea City,Home,L,0.0,0.0,0.0,0.0,0.0,0.0,3-4-1-2,3-4-1-2,Matchweek 1,75339.0,Mike Dean,2014-08-16 12:45:00,1.0,0.0,0,0
+Manchester United,Sunderland,Away,D,0.0,1.0,0.0,0.0,0.0,0.0,3-4-1-2,3-4-1-2,Matchweek 2,43217.0,Martin Atkinson,2014-08-24 16:00:00,0.5,0.0,0,0
+Manchester United,Burnley,Away,D,0.0,0.5,0.5,0.0,1.0,0.0,3-4-1-2,3-4-1-2,Matchweek 3,21099.0,Chris Foy,2014-08-30 12:45:00,0.0,0.0,0,0
+Manchester United,QPR,Home,W,0.0,0.3333333333333333,0.6666666666666666,0.0,1.0,0.0,4-1-2-1-2,4-1-2-1-2,Matchweek 4,75355.0,Philip Dowd,2014-09-14 16:00:00,0.0,0.0,0,0
+Leicester City,Manchester United,Home,W,0.25,0.25,0.5,0.25,0.25,0.5,4-3-3,4-1-2-1-2,Matchweek 5,31784.0,Mark Clattenburg,2014-09-21 13:30:00,0.0,0.0,1,1
+Manchester United,West Ham United,Home,W,0.2,0.4,0.4,0.4,0.4,0.2,4-1-2-1-2,4-2-3-1,Matchweek 6,75317.0,Lee Mason,2014-09-27 15:00:00,1.0,0.0,0,0
+Everton,Manchester United,Away,L,0.2,0.4,0.4,0.4,0.2,0.4,4-2-3-1,4-1-2-1-2,Matchweek 7,75294.0,Kevin Friend,2014-10-05 12:00:00,1.0,0.0,1,1
+Manchester United,West Bromwich Albion,Away,D,0.6,0.2,0.2,0.25,0.5,0.25,4-1-4-1,4-1-4-1,Matchweek 8,25794.0,Mike Dean,2014-10-20 20:00:00,0.5,0.0,0,0
+Chelsea,Manchester United,Away,D,0.8,0.0,0.2,0.6,0.2,0.2,4-2-3-1,4-1-4-1,Matchweek 9,75327.0,Philip Dowd,2014-10-26 16:00:00,0.5,0.5,1,1
+Manchester City,Manchester United,Home,W,0.6,0.2,0.2,0.4,0.2,0.4,4-4-2,4-1-4-1,Matchweek 10,45358.0,Michael Oliver,2014-11-02 13:30:00,1.0,0.0,1,1
+Crystal Palace,Manchester United,Away,L,0.2,0.6,0.2,0.4,0.2,0.4,4-4-1-1,4-1-4-1,Matchweek 11,75325.0,Chris Foy,2014-11-08 15:00:00,0.0,0.0,1,1
+Arsenal,Manchester United,Home,L,0.4,0.4,0.2,0.4,0.2,0.4,4-2-3-1,3-4-1-2,Matchweek 12,60074.0,Mike Dean,2014-11-22 17:30:00,0.0,0.5,1,1
+Manchester United,Hull City,Home,W,0.4,0.2,0.4,0.2,0.4,0.4,4-3-3,4-3-3,Matchweek 13,75345.0,Anthony Taylor,2014-11-29 15:00:00,1.0,0.0,0,0
+Manchester United,Stoke City,Home,W,0.6,0.2,0.2,0.4,0.4,0.2,4-1-2-1-2,4-1-2-1-2,Matchweek 14,75388.0,Jonathan Moss,2014-12-02 19:45:00,0.5,0.0,0,0
+Manchester United,Southampton,Away,W,0.8,0.2,0.0,0.4,0.4,0.2,3-1-4-2,4-2-3-1,Matchweek 15,31420.0,Kevin Friend,2014-12-08 20:00:00,0.0,1.0,0,0
+Liverpool,Manchester United,Away,L,0.4,0.4,0.2,1.0,0.0,0.0,3-4-3,3-4-1-2,Matchweek 16,75331.0,Martin Atkinson,2014-12-14 13:30:00,1.0,0.0,1,1
+Aston Villa,Manchester United,Home,D,0.4,0.2,0.4,1.0,0.0,0.0,5-3-2,3-4-1-2,Matchweek 17,41273.0,Lee Mason,2014-12-20 15:00:00,0.0,0.0,1,1
+Manchester United,Newcastle United,Home,W,0.8,0.0,0.2,0.2,0.6,0.2,3-1-4-2,4-1-2-1-2,Matchweek 18,75318.0,Mike Jones,2014-12-26 15:00:00,0.5,0.0,0,0
+Manchester United,Tottenham Hotspur,Away,D,0.8,0.0,0.2,0.6,0.2,0.2,3-1-4-2,4-2-3-1,Matchweek 19,35711.0,Jonathan Moss,2014-12-28 12:00:00,0.0,0.5,1,1
+Manchester United,Stoke City,Away,D,0.6,0.0,0.4,0.4,0.4,0.2,3-1-4-2,3-1-4-2,Matchweek 20,27203.0,Michael Oliver,2015-01-01 12:45:00,0.6666666666666666,0.0,0,0
+Manchester United,Southampton,Home,L,0.4,0.0,0.6,0.6,0.2,0.2,3-1-4-2,4-2-3-1,Matchweek 21,75395.0,Philip Dowd,2015-01-11 16:00:00,0.3333333333333333,0.6666666666666666,0,0
+Manchester United,QPR,Away,W,0.2,0.2,0.6,0.2,0.6,0.2,3-1-4-2,3-1-4-2,Matchweek 22,18098.0,Niel Swarbrick,2015-01-17 15:00:00,1.0,0.0,0,0
+Leicester City,Manchester United,Away,L,0.4,0.4,0.2,0.4,0.2,0.4,4-4-2,4-1-2-1-2,Matchweek 23,75329.0,Martin Atkinson,2015-01-31 15:00:00,1.0,0.0,1,1
+Manchester United,West Ham United,Away,D,0.4,0.2,0.4,0.2,0.4,0.4,4-1-2-1-2,4-1-2-1-2,Matchweek 24,34499.0,Mark Clattenburg,2015-02-08 16:15:00,1.0,0.0,0,0
+Manchester United,Burnley,Home,W,0.4,0.2,0.4,0.0,0.6,0.4,4-1-2-1-2,4-1-2-1-2,Matchweek 25,75356.0,Kevin Friend,2015-02-11 19:45:00,0.0,1.0,0,0
+Manchester United,Swansea City,Away,L,0.6,0.2,0.2,0.4,0.4,0.2,4-1-2-1-2,4-1-2-1-2,Matchweek 26,20809.0,Niel Swarbrick,2015-02-21 15:00:00,0.6666666666666666,0.0,0,0
+Manchester United,Sunderland,Home,W,0.6,0.2,0.2,0.2,0.6,0.2,4-2-3-1,4-2-3-1,Matchweek 27,75344.0,Roger East,2015-02-28 15:00:00,0.3333333333333333,0.3333333333333333,0,0
+Manchester United,Newcastle United,Away,W,0.6,0.2,0.2,0.4,0.2,0.4,4-2-3-1,4-4-2,Matchweek 28,49801.0,Anthony Taylor,2015-03-04 19:45:00,0.6666666666666666,0.0,0,0
+Manchester United,Tottenham Hotspur,Home,W,0.6,0.2,0.2,0.6,0.2,0.2,4-1-4-1,4-2-3-1,Matchweek 29,75112.0,Mark Clattenburg,2015-03-15 16:00:00,0.0,0.6666666666666666,1,1
+Liverpool,Manchester United,Home,L,1.0,0.0,0.0,0.8,0.2,0.0,3-4-3,4-1-4-1,Matchweek 30,44405.0,Martin Atkinson,2015-03-22 13:30:00,0.6666666666666666,0.0,1,1
+Aston Villa,Manchester United,Away,L,0.4,0.6,0.0,0.8,0.2,0.0,4-4-2,4-1-4-1,Matchweek 31,75397.0,Roger East,2015-04-04 15:00:00,0.0,0.3333333333333333,1,1
+Manchester City,Manchester United,Away,L,0.4,0.6,0.0,1.0,0.0,0.0,4-4-1-1,4-1-4-1,Matchweek 32,75313.0,Mark Clattenburg,2015-04-12 16:00:00,1.0,0.0,1,1
+Chelsea,Manchester United,Home,W,0.8,0.0,0.2,1.0,0.0,0.0,4-2-3-1,4-1-4-1,Matchweek 33,41422.0,Mike Dean,2015-04-18 17:30:00,0.3333333333333333,0.6666666666666666,1,1
+Everton,Manchester United,Home,W,0.8,0.0,0.2,0.8,0.2,0.0,4-1-4-1,4-1-4-1,Matchweek 34,39497.0,Andre Marriner,2015-04-26 13:30:00,0.6666666666666666,0.0,1,1
+Manchester United,West Bromwich Albion,Home,L,0.6,0.4,0.0,0.2,0.6,0.2,4-1-4-1,4-1-4-1,Matchweek 35,75454.0,Anthony Taylor,2015-05-02 17:30:00,0.3333333333333333,0.3333333333333333,0,0
+Crystal Palace,Manchester United,Home,L,0.4,0.6,0.0,0.4,0.6,0.0,4-2-3-1,4-1-4-1,Matchweek 36,25009.0,Michael Oliver,2015-05-09 17:30:00,0.0,0.0,1,1
+Arsenal,Manchester United,Away,D,0.6,0.2,0.2,0.4,0.6,0.0,4-2-3-1,4-1-4-1,Matchweek 37,75323.0,Mike Dean,2015-05-17 16:00:00,0.0,0.3333333333333333,1,1
+Manchester United,Hull City,Away,D,0.2,0.6,0.2,0.4,0.6,0.0,4-1-4-1,4-1-4-1,Matchweek 38,24745.0,Lee Probert,2015-05-24 15:00:00,1.0,0.0,0,0
+Manchester United,Tottenham Hotspur,Home,W,0.0,0.0,0.0,0.0,0.0,0.0,4-2-3-1,4-2-3-1,Matchweek 1,75261.0,Jonathan Moss,2015-08-08 12:45:00,0.25,0.5,1,1
+Aston Villa,Manchester United,Home,L,1.0,0.0,0.0,1.0,0.0,0.0,4-3-3,4-2-3-1,Matchweek 2,42200.0,Mike Dean,2015-08-14 19:45:00,0.0,0.25,1,1
+Manchester United,Newcastle United,Home,D,1.0,0.0,0.0,0.0,0.5,0.5,4-2-3-1,4-2-3-1,Matchweek 3,75354.0,Craig Pawson,2015-08-22 12:45:00,0.75,0.0,0,0
+Manchester United,Swansea City,Away,L,0.6666666666666666,0.0,0.3333333333333333,0.5,0.0,0.5,4-2-3-1,4-2-3-1,Matchweek 4,20828.0,Martin Atkinson,2015-08-30 16:00:00,0.5,0.0,0,0
+Liverpool,Manchester United,Away,L,0.5,0.25,0.25,0.5,0.25,0.25,4-3-3,4-2-3-1,Matchweek 5,75347.0,Michael Oliver,2015-09-12 17:30:00,0.5,0.0,1,1
+Manchester United,Southampton,Away,W,0.6,0.2,0.2,0.2,0.2,0.6,4-2-3-1,4-2-3-1,Matchweek 6,31588.0,Mark Clattenburg,2015-09-20 16:00:00,0.25,0.5,0,0
+Manchester United,Sunderland,Home,W,0.6,0.2,0.2,0.0,0.75,0.25,4-2-3-1,4-2-3-1,Matchweek 7,75328.0,Mike Jones,2015-09-26 15:00:00,0.5,0.25,0,0
+Arsenal,Manchester United,Home,W,0.6,0.2,0.2,0.6,0.2,0.2,4-2-3-1,4-2-3-1,Matchweek 8,60084.0,Anthony Taylor,2015-10-04 16:00:00,0.0,0.5,1,1
+Everton,Manchester United,Home,L,0.4,0.0,0.6,0.6,0.4,0.0,4-2-3-1,4-2-3-1,Matchweek 9,39553.0,Jonathan Moss,2015-10-17 15:00:00,0.75,0.0,1,1
+Manchester City,Manchester United,Away,D,0.6,0.4,0.0,0.8,0.2,0.0,4-2-3-1,4-2-3-1,Matchweek 10,75329.0,Mark Clattenburg,2015-10-25 14:05:00,0.75,0.0,1,1
+Crystal Palace,Manchester United,Home,D,0.4,0.6,0.0,0.6,0.2,0.2,4-1-4-1,4-2-3-1,Matchweek 11,24854.0,Mike Jones,2015-10-31 15:00:00,0.0,0.0,1,1
+Manchester United,West Bromwich Albion,Home,W,0.4,0.2,0.4,0.2,0.6,0.2,4-2-3-1,4-2-3-1,Matchweek 12,75410.0,Mike Dean,2015-11-07 15:00:00,0.25,0.25,0,0
+Manchester United,Watford,Away,W,0.4,0.2,0.4,0.2,0.6,0.2,4-2-2-2,4-2-2-2,Matchweek 13,20702.0,Robert Madley,2015-11-21 12:45:00,0.0,0.0,0,0
+Leicester City,Manchester United,Home,D,0.8,0.0,0.2,0.6,0.0,0.4,4-4-2,3-4-1-2,Matchweek 14,32115.0,Craig Pawson,2015-11-28 17:30:00,0.5,0.0,1,1
+Manchester United,West Ham United,Home,D,0.4,0.0,0.6,0.2,0.4,0.4,4-2-3-1,4-1-4-1,Matchweek 15,75350.0,Mark Clattenburg,2015-12-05 15:00:00,0.75,0.25,0,0
+Bournemouth,Manchester United,Home,W,0.2,0.4,0.4,0.4,0.0,0.6,4-1-4-1,4-2-3-1,Matchweek 16,11334.0,Anthony Taylor,2015-12-12 17:30:00,0.0,0.0,1,1
+Manchester United,Norwich City,Home,L,0.4,0.2,0.4,0.0,0.6,0.4,4-2-3-1,4-2-3-1,Matchweek 17,75320.0,Michael Oliver,2015-12-19 15:00:00,1.0,0.0,0,0
+Manchester United,Stoke City,Away,L,0.2,0.4,0.4,0.6,0.2,0.2,4-2-3-1,4-2-3-1,Matchweek 18,27426.0,Kevin Friend,2015-12-26 12:45:00,0.5,0.25,0,0
+Chelsea,Manchester United,Away,D,0.2,0.4,0.4,0.0,0.6,0.4,4-2-3-1,4-2-3-1,Matchweek 19,75275.0,Martin Atkinson,2015-12-28 17:30:00,0.5,0.5,1,1
+Manchester United,Swansea City,Home,W,0.0,0.6,0.4,0.0,0.6,0.4,4-2-3-1,4-2-3-1,Matchweek 20,75415.0,Jonathan Moss,2016-01-02 15:00:00,0.4,0.0,0,0
+Manchester United,Newcastle United,Away,D,0.2,0.6,0.2,0.2,0.6,0.2,4-2-3-1,4-2-3-1,Matchweek 21,49673.0,Mike Dean,2016-01-12 19:45:00,0.6,0.2,0,0
+Liverpool,Manchester United,Home,L,0.4,0.4,0.2,0.2,0.4,0.4,4-3-3,4-2-3-1,Matchweek 22,43865.0,Mark Clattenburg,2016-01-17 14:05:00,0.4,0.0,1,1
+Manchester United,Southampton,Home,L,0.4,0.2,0.4,0.6,0.4,0.0,3-4-1-2,3-4-3,Matchweek 23,75408.0,Mike Jones,2016-01-23 15:00:00,0.4,0.4,0,0
+Manchester United,Stoke City,Home,W,0.4,0.2,0.4,0.4,0.4,0.2,4-2-3-1,4-2-3-1,Matchweek 24,75234.0,Roger East,2016-02-02 20:00:00,0.4,0.2,0,0
+Chelsea,Manchester United,Home,D,0.4,0.0,0.6,0.6,0.2,0.2,4-2-3-1,4-2-3-1,Matchweek 25,41434.0,Michael Oliver,2016-02-07 16:00:00,0.4,0.6,1,1
+Manchester United,Sunderland,Away,L,0.4,0.2,0.4,0.2,0.4,0.4,4-2-3-1,4-2-3-1,Matchweek 26,41687.0,Andre Marriner,2016-02-13 12:45:00,0.6,0.2,0,0
+Arsenal,Manchester United,Away,L,0.4,0.2,0.4,0.4,0.4,0.2,4-2-3-1,4-1-4-1,Matchweek 27,75329.0,Craig Pawson,2016-02-28 14:05:00,0.2,0.4,1,1
+Manchester United,Watford,Home,W,0.4,0.4,0.2,0.4,0.2,0.4,4-2-3-1,4-2-3-1,Matchweek 28,75272.0,Mike Jones,2016-03-02 20:00:00,1.0,0.0,0,0
+Manchester United,West Bromwich Albion,Away,L,0.6,0.2,0.2,0.4,0.2,0.4,4-1-4-1,4-1-4-1,Matchweek 29,24878.0,Mike Dean,2016-03-06 16:00:00,0.4,0.2,0,0
+Manchester City,Manchester United,Home,L,0.2,0.6,0.2,0.4,0.4,0.2,4-2-3-1,4-1-4-1,Matchweek 31,54557.0,Michael Oliver,2016-03-20 16:00:00,0.6,0.2,1,1
+Everton,Manchester United,Away,L,0.4,0.6,0.0,0.6,0.4,0.0,4-4-1-1,4-1-4-1,Matchweek 32,75341.0,Andre Marriner,2016-04-03 16:00:00,0.6,0.0,1,1
+Manchester United,Tottenham Hotspur,Away,L,0.8,0.2,0.0,0.4,0.2,0.4,4-2-3-1,4-2-3-1,Matchweek 33,35761.0,Mike Dean,2016-04-10 16:00:00,0.4,0.4,1,1
+Aston Villa,Manchester United,Away,L,0.0,1.0,0.0,0.6,0.4,0.0,4-2-3-1,4-1-4-1,Matchweek 34,75411.0,Kevin Friend,2016-04-16 15:00:00,0.0,0.2,1,1
+Crystal Palace,Manchester United,Away,L,0.2,0.2,0.6,0.6,0.4,0.0,4-2-3-1,4-1-4-1,Matchweek 30,75277.0,Lee Mason,2016-04-20 20:00:00,0.0,0.2,1,1
+Leicester City,Manchester United,Away,D,0.8,0.0,0.2,0.8,0.2,0.0,4-4-2,4-1-4-1,Matchweek 36,75275.0,Michael Oliver,2016-05-01 14:05:00,0.3333333333333333,0.3333333333333333,1,1
+Manchester United,Norwich City,Away,W,0.6,0.2,0.2,0.2,0.6,0.2,4-1-4-1,4-1-4-1,Matchweek 37,27132.0,Craig Pawson,2016-05-07 12:45:00,0.6666666666666666,0.0,0,0
+Manchester United,West Ham United,Away,L,0.6,0.2,0.2,0.4,0.2,0.4,4-1-4-1,4-1-4-1,Matchweek 35,34602.0,Mike Dean,2016-05-10 20:30:00,0.6,0.4,0,0
+Bournemouth,Manchester United,Away,L,0.2,0.6,0.2,0.6,0.2,0.2,4-4-2,4-1-4-1,Matchweek 38,74363.0,Jonathan Moss,2016-05-17 20:00:00,1.0,0.0,1,1
+Bournemouth,Manchester United,Home,L,0.0,0.0,0.0,0.0,0.0,0.0,4-3-3,4-2-3-1,Matchweek 1,11355.0,Andre Marriner,2016-08-14 13:30:00,0.5,0.0,1,1
+Manchester United,Southampton,Home,W,1.0,0.0,0.0,0.0,0.0,1.0,4-2-3-1,4-1-2-1-2,Matchweek 2,75326.0,Anthony Taylor,2016-08-19 20:00:00,0.3333333333333333,0.3333333333333333,0,0
+Manchester United,Hull City,Away,W,1.0,0.0,0.0,1.0,0.0,0.0,4-2-3-1,4-2-3-1,Matchweek 3,24560.0,Jonathan Moss,2016-08-27 17:30:00,0.75,0.25,0,0
+Manchester City,Manchester United,Away,W,1.0,0.0,0.0,1.0,0.0,0.0,4-3-3,4-2-3-1,Matchweek 4,75272.0,Mark Clattenburg,2016-09-10 12:30:00,0.5,0.1666666666666666,1,1
+Manchester United,Watford,Away,L,0.75,0.25,0.0,0.25,0.5,0.25,4-2-3-1,4-2-3-1,Matchweek 5,21118.0,Michael Oliver,2016-09-18 12:00:00,1.0,0.0,0,0
+Leicester City,Manchester United,Away,L,0.4,0.4,0.2,0.6,0.4,0.0,4-4-2,4-2-3-1,Matchweek 6,75256.0,Mike Dean,2016-09-24 12:30:00,0.25,0.5,1,1
+Manchester United,Stoke City,Home,D,0.6,0.4,0.0,0.0,1.0,0.0,4-2-3-1,4-2-3-1,Matchweek 7,75251.0,Robert Madley,2016-10-02 12:00:00,0.5,0.1666666666666666,0,0
+Liverpool,Manchester United,Home,D,0.8,0.0,0.2,0.4,0.4,0.2,4-3-3,4-2-3-1,Matchweek 8,52769.0,Anthony Taylor,2016-10-17 20:00:00,0.3333333333333333,0.0,1,1
+Chelsea,Manchester United,Home,W,0.4,0.4,0.2,0.2,0.4,0.4,3-4-3,4-2-3-1,Matchweek 9,41424.0,Martin Atkinson,2016-10-23 16:00:00,0.3333333333333333,0.6666666666666666,1,1
+Manchester United,Burnley,Home,D,0.2,0.4,0.4,0.2,0.8,0.0,4-2-3-1,4-2-3-1,Matchweek 10,75325.0,Mark Clattenburg,2016-10-29 15:00:00,0.5,0.5,0,0
+Manchester United,Swansea City,Away,W,0.2,0.2,0.6,0.0,0.8,0.2,4-1-4-1,4-1-4-1,Matchweek 11,20938.0,Niel Swarbrick,2016-11-06 15:00:00,0.5,0.0,0,0
+Arsenal,Manchester United,Away,D,0.6,0.0,0.4,0.2,0.2,0.6,4-2-3-1,4-3-3,Matchweek 12,75264.0,Andre Marriner,2016-11-19 12:30:00,0.1666666666666666,0.3333333333333333,1,1
+Manchester United,West Ham United,Home,D,0.2,0.2,0.6,0.4,0.4,0.2,4-2-3-1,3-4-3,Matchweek 13,75313.0,Jonathan Moss,2016-11-27 16:30:00,0.5,0.3333333333333333,0,0
+Everton,Manchester United,Home,D,0.2,0.6,0.2,0.2,0.2,0.6,4-4-2,4-3-3,Matchweek 14,39550.0,Michael Oliver,2016-12-04 16:00:00,0.5,0.0,1,1
+Manchester United,Tottenham Hotspur,Home,W,0.2,0.0,0.8,0.4,0.2,0.4,4-3-3,4-2-3-1,Matchweek 15,75271.0,Robert Madley,2016-12-11 14:15:00,0.3333333333333333,0.3333333333333333,1,1
+Crystal Palace,Manchester United,Home,L,0.2,0.6,0.2,0.4,0.0,0.6,4-4-2,4-3-3,Matchweek 16,25547.0,Craig Pawson,2016-12-14 20:00:00,0.0,0.1666666666666666,1,1
+Manchester United,West Bromwich Albion,Away,W,0.4,0.0,0.6,0.2,0.6,0.2,4-3-3,4-3-3,Matchweek 17,26308.0,Anthony Taylor,2016-12-17 17:30:00,0.3333333333333333,0.1666666666666666,0,0
+Manchester United,Sunderland,Home,W,0.6,0.0,0.4,0.4,0.6,0.0,4-3-3,4-3-3,Matchweek 18,75325.0,Martin Atkinson,2016-12-26 15:00:00,0.5,0.1666666666666666,0,0
+Manchester United,Middlesbrough,Home,W,0.8,0.0,0.2,0.0,0.6,0.4,4-3-3,4-3-3,Matchweek 19,75314.0,Lee Mason,2016-12-31 15:00:00,0.0,0.0,0,0
+Manchester United,West Ham United,Away,W,1.0,0.0,0.0,0.6,0.2,0.2,4-3-3,4-3-3,Matchweek 20,56996.0,Mike Dean,2017-01-02 17:15:00,0.4285714285714285,0.4285714285714285,0,0
+Liverpool,Manchester United,Away,D,0.8,0.0,0.2,1.0,0.0,0.0,4-3-3,4-3-3,Matchweek 21,75276.0,Michael Oliver,2017-01-15 16:00:00,0.2857142857142857,0.1428571428571428,1,1
+Manchester United,Stoke City,Away,D,0.8,0.0,0.2,0.0,0.6,0.4,4-3-3,4-3-3,Matchweek 22,27423.0,Mark Clattenburg,2017-01-21 15:00:00,0.4285714285714285,0.2857142857142857,0,0
+Manchester United,Hull City,Home,D,0.6,0.0,0.4,0.2,0.6,0.2,4-3-3,4-3-3,Matchweek 23,75297.0,Mike Jones,2017-02-01 20:00:00,0.8,0.2,0,0
+Leicester City,Manchester United,Home,L,0.2,0.6,0.2,0.4,0.0,0.6,4-2-3-1,4-4-2,Matchweek 24,32072.0,Anthony Taylor,2017-02-05 16:00:00,0.2,0.4,1,1
+Manchester United,Watford,Home,W,0.4,0.0,0.6,0.2,0.4,0.4,4-2-3-1,4-2-3-1,Matchweek 25,75301.0,Robert Madley,2017-02-11 15:00:00,0.6666666666666666,0.0,0,0
+Bournemouth,Manchester United,Away,D,0.0,0.8,0.2,0.4,0.0,0.6,4-2-3-1,4-2-3-1,Matchweek 27,75245.0,Kevin Friend,2017-03-04 12:30:00,0.3333333333333333,0.0,1,1
+Manchester United,Middlesbrough,Away,W,0.4,0.0,0.6,0.0,0.6,0.4,4-2-3-1,4-2-3-1,Matchweek 29,32689.0,Jonathan Moss,2017-03-19 12:00:00,1.0,0.0,0,0
+Manchester United,West Bromwich Albion,Home,D,0.6,0.0,0.4,0.4,0.4,0.2,4-2-3-1,4-2-3-1,Matchweek 30,75397.0,Mike Dean,2017-04-01 15:00:00,0.4285714285714285,0.1428571428571428,0,0
+Everton,Manchester United,Away,D,0.6,0.4,0.0,0.6,0.0,0.4,4-2-3-1,4-3-3,Matchweek 31,75272.0,Niel Swarbrick,2017-04-04 20:00:00,0.4285714285714285,0.1428571428571428,1,1
+Manchester United,Sunderland,Away,W,0.4,0.0,0.6,0.2,0.8,0.0,4-3-3,4-3-3,Matchweek 32,43779.0,Craig Pawson,2017-04-09 13:30:00,0.5714285714285714,0.1428571428571428,0,0
+Chelsea,Manchester United,Away,L,0.8,0.2,0.0,0.4,0.0,0.6,3-4-3,3-5-2,Matchweek 33,75272.0,Robert Madley,2017-04-16 16:00:00,0.4285714285714285,0.5714285714285714,1,1
+Manchester United,Burnley,Away,W,0.6,0.0,0.4,0.2,0.6,0.2,4-3-3,4-3-3,Matchweek 34,21870.0,Anthony Taylor,2017-04-23 14:15:00,0.3333333333333333,0.6666666666666666,0,0
+Manchester City,Manchester United,Home,D,0.4,0.2,0.4,0.6,0.0,0.4,4-2-3-1,4-3-3,Matchweek 26,54176.0,Martin Atkinson,2017-04-27 20:00:00,0.5714285714285714,0.1428571428571428,1,1
+Manchester United,Swansea City,Home,D,0.6,0.0,0.4,0.2,0.8,0.0,4-2-3-1,4-2-3-1,Matchweek 35,75271.0,Niel Swarbrick,2017-04-30 12:00:00,0.5714285714285714,0.0,0,0
+Arsenal,Manchester United,Home,W,0.6,0.4,0.0,0.6,0.0,0.4,3-4-3,4-3-3,Matchweek 36,60055.0,Andre Marriner,2017-05-07 16:00:00,0.1428571428571428,0.4285714285714285,1,1
+Manchester United,Tottenham Hotspur,Away,L,0.4,0.2,0.4,0.8,0.2,0.0,4-2-3-1,4-2-3-1,Matchweek 37,31848.0,Jonathan Moss,2017-05-14 16:30:00,0.4285714285714285,0.2857142857142857,1,1
+Manchester United,Southampton,Away,D,0.2,0.4,0.4,0.2,0.4,0.4,4-2-3-1,4-3-3,Matchweek 28,31425.0,Mike Dean,2017-05-17 19:45:00,0.4285714285714285,0.2857142857142857,0,0
+Crystal Palace,Manchester United,Away,L,0.4,0.6,0.0,0.0,0.4,0.6,4-3-3,4-3-3,Matchweek 38,75254.0,Anthony Taylor,2017-05-21 15:00:00,0.0,0.1428571428571428,1,1
+Manchester United,West Ham United,Home,W,0.0,0.0,0.0,0.0,0.0,0.0,4-2-3-1,4-2-3-1,Matchweek 1,74928.0,Martin Atkinson,2017-08-13 16:00:00,0.5,0.375,0,0
+Manchester United,Swansea City,Away,W,1.0,0.0,0.0,0.0,0.0,1.0,4-2-3-1,4-2-3-1,Matchweek 2,20862.0,Jonathan Moss,2017-08-19 12:30:00,0.5,0.125,0,0
+Leicester City,Manchester United,Away,L,0.5,0.5,0.0,1.0,0.0,0.0,4-4-1-1,4-2-3-1,Matchweek 3,75021.0,Michael Oliver,2017-08-26 17:30:00,0.1666666666666666,0.3333333333333333,1,1
+Manchester United,Stoke City,Away,D,1.0,0.0,0.0,0.5,0.5,0.0,4-3-3,4-3-3,Matchweek 4,29320.0,Niel Swarbrick,2017-09-09 17:30:00,0.375,0.375,0,0
+Everton,Manchester United,Away,L,0.25,0.5,0.25,0.75,0.0,0.25,3-4-3,4-2-3-1,Matchweek 5,75042.0,Andre Marriner,2017-09-17 16:00:00,0.375,0.25,1,1
+Manchester United,Southampton,Away,W,0.8,0.0,0.2,0.4,0.2,0.4,4-2-3-1,4-2-3-1,Matchweek 6,31930.0,Craig Pawson,2017-09-23 15:00:00,0.375,0.375,0,0
+Crystal Palace,Manchester United,Away,L,0.0,1.0,0.0,0.8,0.0,0.2,4-3-3,4-2-3-1,Matchweek 7,75118.0,Mike Dean,2017-09-30 15:00:00,0.0,0.125,1,1
+Liverpool,Manchester United,Home,D,0.4,0.2,0.4,0.8,0.0,0.2,4-3-3,4-2-3-1,Matchweek 8,52912.0,Martin Atkinson,2017-10-14 12:30:00,0.25,0.25,1,1
+Manchester United,Huddersfield,Away,L,0.6,0.0,0.4,0.2,0.4,0.4,4-2-3-1,4-2-3-1,Matchweek 9,24426.0,Lee Mason,2017-10-21 15:00:00,0.0,0.0,0,0
+Manchester United,Tottenham Hotspur,Home,W,0.6,0.2,0.2,0.8,0.0,0.2,3-4-1-2,3-5-1-1,Matchweek 10,75034.0,Jonathan Moss,2017-10-28 12:30:00,0.375,0.25,1,1
+Chelsea,Manchester United,Home,W,0.6,0.4,0.0,0.6,0.2,0.2,3-1-4-2,3-4-1-2,Matchweek 11,41615.0,Anthony Taylor,2017-11-05 16:30:00,0.375,0.5,1,1
+Manchester United,Newcastle United,Home,W,0.4,0.4,0.2,0.2,0.4,0.4,4-2-3-1,4-4-2,Matchweek 12,75035.0,Craig Pawson,2017-11-18 17:30:00,0.5,0.3333333333333333,0,0
+Brighton and Hove Albion,Manchester United,Away,L,0.4,0.0,0.6,0.4,0.4,0.2,4-5-1,4-2-3-1,Matchweek 13,75018.0,Niel Swarbrick,2017-11-25 15:00:00,0.0,0.0,1,1
+Manchester United,Watford,Away,W,0.6,0.4,0.0,0.6,0.4,0.0,3-4-3,3-4-3,Matchweek 14,20552.0,Jonathan Moss,2017-11-28 20:00:00,0.75,0.0,0,0
+Arsenal,Manchester United,Home,L,0.8,0.2,0.0,0.8,0.2,0.0,3-4-3,3-4-1-2,Matchweek 15,59547.0,Andre Marriner,2017-12-02 17:30:00,0.25,0.375,1,1
+Manchester City,Manchester United,Away,W,1.0,0.0,0.0,0.8,0.2,0.0,4-3-3,4-2-3-1,Matchweek 16,74847.0,Michael Oliver,2017-12-10 16:30:00,0.5,0.25,1,1
+Bournemouth,Manchester United,Away,L,0.2,0.2,0.6,0.8,0.2,0.0,4-4-1-1,4-2-3-1,Matchweek 17,74798.0,Graham Scott,2017-12-13 20:00:00,0.25,0.25,1,1
+Manchester United,West Bromwich Albion,Away,W,0.8,0.2,0.0,0.0,0.2,0.8,4-2-3-1,4-2-3-1,Matchweek 18,24782.0,Anthony Taylor,2017-12-17 14:15:00,0.375,0.25,0,0
+Leicester City,Manchester United,Home,D,0.8,0.2,0.0,0.8,0.2,0.0,4-2-3-1,4-2-3-1,Matchweek 19,32202.0,Jonathan Moss,2017-12-23 19:45:00,0.1428571428571428,0.2857142857142857,1,1
+Manchester United,Burnley,Home,D,0.6,0.2,0.2,0.2,0.6,0.2,4-2-3-1,4-2-3-1,Matchweek 20,75046.0,Martin Atkinson,2017-12-26 15:00:00,0.5,0.5,0,0
+Manchester United,Southampton,Home,D,0.4,0.2,0.4,0.0,0.6,0.4,4-2-3-1,4-2-3-1,Matchweek 21,75051.0,Craig Pawson,2017-12-30 17:30:00,0.4444444444444444,0.3333333333333333,0,0
+Everton,Manchester United,Home,L,0.4,0.2,0.4,0.4,0.0,0.6,4-2-3-1,4-3-3,Matchweek 22,39188.0,Andre Marriner,2018-01-01 17:30:00,0.3333333333333333,0.2222222222222222,1,1
+Manchester United,Stoke City,Home,W,0.4,0.0,0.6,0.0,1.0,0.0,4-2-3-1,4-2-3-1,Matchweek 23,74726.0,Anthony Taylor,2018-01-15 20:00:00,0.3333333333333333,0.4444444444444444,0,0
+Manchester United,Burnley,Away,W,0.4,0.0,0.6,0.0,0.6,0.4,4-3-3,4-3-3,Matchweek 24,21841.0,Mike Dean,2018-01-20 15:00:00,0.4,0.6,0,0
+Manchester United,Tottenham Hotspur,Away,L,0.6,0.0,0.4,0.6,0.0,0.4,4-2-3-1,4-2-3-1,Matchweek 25,81978.0,Andre Marriner,2018-01-31 20:00:00,0.4444444444444444,0.2222222222222222,1,1
+Manchester United,Huddersfield,Home,W,0.6,0.2,0.2,0.0,0.8,0.2,4-2-3-1,4-2-3-1,Matchweek 26,74742.0,Stuart Attwell,2018-02-03 15:00:00,0.0,0.0,0,0
+Manchester United,Newcastle United,Away,L,0.8,0.2,0.0,0.2,0.2,0.6,4-2-3-1,4-4-1-1,Matchweek 27,52309.0,Craig Pawson,2018-02-11 14:15:00,0.5714285714285714,0.2857142857142857,0,0
+Chelsea,Manchester United,Away,L,0.4,0.4,0.2,0.6,0.4,0.0,3-4-3,4-1-2-1-2,Matchweek 28,75060.0,Martin Atkinson,2018-02-25 14:05:00,0.4444444444444444,0.4444444444444444,1,1
+Crystal Palace,Manchester United,Home,L,0.0,0.6,0.4,0.6,0.4,0.0,4-4-2,4-3-3,Matchweek 29,25840.0,Niel Swarbrick,2018-03-05 20:00:00,0.0,0.1111111111111111,1,1
+Liverpool,Manchester United,Away,L,0.8,0.0,0.2,0.6,0.4,0.0,4-3-3,4-2-3-1,Matchweek 30,74855.0,Craig Pawson,2018-03-10 12:30:00,0.2222222222222222,0.3333333333333333,1,1
+Manchester United,Swansea City,Home,W,0.8,0.2,0.0,0.6,0.2,0.2,4-2-3-1,4-2-3-1,Matchweek 32,75038.0,Robert Madley,2018-03-31 15:00:00,0.5555555555555556,0.1111111111111111,0,0
+Manchester City,Manchester United,Home,L,1.0,0.0,0.0,0.8,0.2,0.0,4-3-3,4-3-3,Matchweek 33,54259.0,Martin Atkinson,2018-04-07 17:30:00,0.5555555555555556,0.2222222222222222,1,1
+Manchester United,West Bromwich Albion,Home,L,1.0,0.0,0.0,0.0,1.0,0.0,4-3-3,4-3-3,Matchweek 34,75095.0,Paul Tierney,2018-04-15 16:00:00,0.4444444444444444,0.2222222222222222,0,0
+Bournemouth,Manchester United,Home,L,0.2,0.4,0.4,0.8,0.2,0.0,4-4-1-1,4-3-3,Matchweek 35,10952.0,Graham Scott,2018-04-18 19:45:00,0.2,0.2,1,1
+Arsenal,Manchester United,Away,L,0.8,0.2,0.0,0.8,0.2,0.0,4-2-3-1,4-3-3,Matchweek 36,75035.0,Kevin Friend,2018-04-29 16:30:00,0.2222222222222222,0.3333333333333333,1,1
+Brighton and Hove Albion,Manchester United,Home,W,0.0,0.4,0.6,0.8,0.2,0.0,4-3-3,4-3-3,Matchweek 37,30611.0,Craig Pawson,2018-05-04 20:00:00,0.0,0.0,1,1
+Manchester United,West Ham United,Away,D,0.6,0.4,0.0,0.2,0.4,0.4,5-3-2,3-4-3,Matchweek 31,56902.0,Jonathan Moss,2018-05-10 19:45:00,0.5555555555555556,0.3333333333333333,0,0
+Manchester United,Watford,Home,W,0.4,0.4,0.2,0.2,0.4,0.4,4-3-3,4-3-3,Matchweek 38,75049.0,Lee Mason,2018-05-13 15:00:00,0.8,0.0,0,0
+Leicester City,Manchester United,Away,L,0.0,0.0,0.0,0.0,0.0,0.0,4-2-3-1,4-3-3,Matchweek 1,74439.0,Andre Marriner,2018-08-10 20:00:00,0.125,0.375,1,1
+Brighton and Hove Albion,Manchester United,Home,W,0.0,1.0,0.0,1.0,0.0,0.0,4-4-1-1,4-3-3,Matchweek 2,30592.0,Kevin Friend,2018-08-19 16:00:00,0.5,0.0,1,1
+Manchester United,Tottenham Hotspur,Home,L,0.5,0.5,0.0,1.0,0.0,0.0,3-5-1-1,4-1-2-1-2,Matchweek 3,74400.0,Craig Pawson,2018-08-27 20:00:00,0.4,0.2,1,1
+Manchester United,Burnley,Away,W,0.3333333333333333,0.6666666666666666,0.0,0.0,0.5,0.5,4-3-3,4-3-3,Matchweek 4,21525.0,Jonathan Moss,2018-09-02 16:00:00,0.5,0.5,0,0
+Manchester United,Watford,Away,W,0.5,0.5,0.0,1.0,0.0,0.0,4-3-3,4-3-3,Matchweek 5,20537.0,Mike Dean,2018-09-15 17:30:00,0.8333333333333334,0.0,0,0
+Manchester United,Wolverhampton Wanderers,Home,D,0.6,0.4,0.0,0.4,0.2,0.4,4-3-3,3-4-3,Matchweek 6,74489.0,Kevin Friend,2018-09-22 15:00:00,0.0,0.0,0,0
+Manchester United,West Ham United,Away,L,0.4,0.4,0.2,0.2,0.6,0.2,5-3-2,4-1-4-1,Matchweek 7,56938.0,Michael Oliver,2018-09-29 12:30:00,0.5,0.4,0,0
+Manchester United,Newcastle United,Home,W,0.4,0.4,0.2,0.0,0.8,0.2,4-3-3,4-4-1-1,Matchweek 8,74519.0,Anthony Taylor,2018-10-06 17:30:00,0.5,0.25,0,0
+Chelsea,Manchester United,Home,D,0.6,0.0,0.4,0.6,0.2,0.2,4-3-3,4-2-3-1,Matchweek 9,40721.0,Mike Dean,2018-10-20 12:30:00,0.4,0.4,1,1
+Everton,Manchester United,Away,L,0.6,0.4,0.0,0.4,0.2,0.4,4-2-3-1,4-3-3,Matchweek 10,74525.0,Jonathan Moss,2018-10-28 16:00:00,0.3,0.2,1,1
+Bournemouth,Manchester United,Home,L,0.6,0.2,0.2,0.4,0.2,0.4,4-4-1-1,4-3-3,Matchweek 11,10792.0,Paul Tierney,2018-11-03 12:30:00,0.1666666666666666,0.1666666666666666,1,1
+Manchester City,Manchester United,Home,W,0.8,0.0,0.2,0.6,0.2,0.2,4-3-3,4-3-3,Matchweek 12,54316.0,Anthony Taylor,2018-11-11 16:30:00,0.5,0.2,1,1
+Crystal Palace,Manchester United,Away,D,0.0,0.8,0.2,0.6,0.2,0.2,4-4-2,4-3-3,Matchweek 13,74516.0,Lee Mason,2018-11-24 15:00:00,0.0,0.1,1,1
+Manchester United,Southampton,Away,D,0.4,0.2,0.4,0.0,0.4,0.6,5-3-2,3-4-1-2,Matchweek 14,30187.0,Kevin Friend,2018-12-01 17:30:00,0.4,0.4,0,0
+Arsenal,Manchester United,Away,D,0.4,0.0,0.6,0.4,0.2,0.4,3-4-3,3-4-1-2,Matchweek 15,74507.0,Andre Marriner,2018-12-05 20:00:00,0.2,0.3,1,1
+Fulham,Manchester United,Away,L,0.2,0.6,0.2,0.2,0.2,0.6,4-2-3-1,4-2-3-1,Matchweek 16,74523.0,Lee Probert,2018-12-08 15:00:00,0.0,0.5,1,1
+Liverpool,Manchester United,Home,W,1.0,0.0,0.0,0.2,0.2,0.6,4-4-1-1,4-4-1-1,Matchweek 17,52908.0,Martin Atkinson,2018-12-16 16:00:00,0.2,0.3,1,1
+Manchester United,Cardiff City,Away,W,0.2,0.2,0.6,0.6,0.4,0.0,4-3-3,4-3-3,Matchweek 18,33028.0,Michael Oliver,2018-12-22 17:30:00,0.5,0.5,0,0
+Manchester United,Huddersfield,Home,W,0.4,0.2,0.4,0.0,1.0,0.0,4-2-3-1,4-2-3-1,Matchweek 19,74523.0,Jonathan Moss,2018-12-26 15:00:00,0.5,0.0,0,0
+Bournemouth,Manchester United,Away,L,0.4,0.6,0.0,0.6,0.2,0.2,3-5-2,4-2-3-1,Matchweek 20,74556.0,Lee Mason,2018-12-30 16:30:00,0.1428571428571428,0.1428571428571428,1,1
+Manchester United,Newcastle United,Away,W,0.8,0.2,0.0,0.2,0.4,0.4,4-2-3-1,5-4-1,Matchweek 21,52217.0,Andre Marriner,2019-01-02 20:00:00,0.5555555555555556,0.2222222222222222,0,0
+Manchester United,Tottenham Hotspur,Away,W,0.8,0.2,0.0,0.8,0.2,0.0,4-1-2-1-2,4-1-2-1-2,Matchweek 22,80062.0,Mike Dean,2019-01-13 16:30:00,0.3636363636363636,0.1818181818181818,1,1
+Brighton and Hove Albion,Manchester United,Away,L,0.2,0.4,0.4,1.0,0.0,0.0,4-5-1,4-3-3,Matchweek 23,74532.0,Paul Tierney,2019-01-19 15:00:00,0.6666666666666666,0.0,1,1
+Manchester United,Burnley,Home,D,1.0,0.0,0.0,0.4,0.6,0.0,4-1-4-1,4-1-4-1,Matchweek 24,74529.0,Jonathan Moss,2019-01-29 20:00:00,0.5714285714285714,0.4285714285714285,0,0
+Leicester City,Manchester United,Home,L,0.2,0.6,0.2,0.8,0.0,0.2,4-2-3-1,4-2-2-2,Matchweek 25,32148.0,Mike Dean,2019-02-03 14:05:00,0.1111111111111111,0.3333333333333333,1,1
+Fulham,Manchester United,Home,L,0.2,0.8,0.0,0.8,0.0,0.2,4-2-3-1,4-3-3,Matchweek 26,25001.0,Paul Tierney,2019-02-09 12:30:00,0.0,0.3333333333333333,1,1
+Liverpool,Manchester United,Away,D,0.6,0.0,0.4,0.8,0.0,0.2,4-3-3,4-3-1-2,Matchweek 27,74519.0,Michael Oliver,2019-02-24 14:05:00,0.2727272727272727,0.2727272727272727,1,1
+Crystal Palace,Manchester United,Home,L,0.4,0.2,0.4,0.6,0.0,0.4,4-3-3,4-3-3,Matchweek 28,25754.0,Martin Atkinson,2019-02-27 20:00:00,0.0,0.1818181818181818,1,1
+Manchester United,Southampton,Home,W,0.6,0.0,0.4,0.2,0.4,0.4,4-3-1-2,3-4-3,Matchweek 29,74459.0,Stuart Attwell,2019-03-02 15:00:00,0.3636363636363636,0.4545454545454545,0,0
+Arsenal,Manchester United,Home,W,0.6,0.2,0.2,0.8,0.0,0.2,3-4-1-2,4-4-2,Matchweek 30,60000.0,Jonathan Moss,2019-03-10 16:30:00,0.1818181818181818,0.3636363636363636,1,1
+Manchester United,Watford,Home,W,0.6,0.2,0.2,0.4,0.4,0.2,4-3-1-2,4-3-1-2,Matchweek 32,74543.0,Stuart Attwell,2019-03-30 15:00:00,0.8571428571428571,0.0,0,0
+Manchester United,Wolverhampton Wanderers,Away,L,0.6,0.2,0.2,0.2,0.4,0.4,3-5-1-1,3-5-2,Matchweek 33,31302.0,Mike Dean,2019-04-02 19:45:00,0.0,1.0,0,0
+Manchester United,West Ham United,Home,W,0.6,0.4,0.0,0.4,0.6,0.0,4-2-3-1,4-1-4-1,Matchweek 34,74478.0,Graham Scott,2019-04-13 17:30:00,0.4545454545454545,0.3636363636363636,0,0
+Everton,Manchester United,Home,W,0.6,0.4,0.0,0.6,0.4,0.0,4-2-3-1,4-3-3,Matchweek 35,39395.0,Paul Tierney,2019-04-21 13:30:00,0.2727272727272727,0.1818181818181818,1,1
+Manchester City,Manchester United,Away,W,1.0,0.0,0.0,0.4,0.6,0.0,4-3-3,5-3-2,Matchweek 31,74431.0,Andre Marriner,2019-04-24 20:00:00,0.5454545454545454,0.1818181818181818,1,1
+Chelsea,Manchester United,Away,D,0.6,0.2,0.2,0.4,0.6,0.0,4-3-3,4-3-1-2,Matchweek 36,74526.0,Martin Atkinson,2019-04-28 16:30:00,0.3636363636363636,0.4545454545454545,1,1
+Manchester United,Huddersfield,Away,D,0.2,0.6,0.2,0.0,1.0,0.0,4-3-1-2,4-3-1-2,Matchweek 37,24263.0,Lee Mason,2019-05-05 14:00:00,0.6666666666666666,0.0,0,0
+Manchester United,Cardiff City,Home,L,0.2,0.4,0.4,0.2,0.8,0.0,4-3-1-2,4-3-1-2,Matchweek 38,74457.0,Jonathan Moss,2019-05-12 15:00:00,0.6666666666666666,0.3333333333333333,0,0
+Chelsea,Manchester United,Away,L,0.0,0.0,0.0,0.0,0.0,0.0,4-2-3-1,4-2-3-1,Matchweek 1,73620.0,Anthony Taylor,2019-08-11 16:30:00,0.3333333333333333,0.5,1,1
+Manchester United,Wolverhampton Wanderers,Away,D,1.0,0.0,0.0,0.0,0.0,1.0,4-2-3-1,3-5-2,Matchweek 2,31314.0,Jonathan Moss,2019-08-19 20:00:00,0.0,0.5,0,0
+Crystal Palace,Manchester United,Away,W,0.0,0.5,0.5,0.5,0.0,0.5,4-5-1,4-2-3-1,Matchweek 3,73454.0,Paul Tierney,2019-08-24 15:00:00,0.0,0.1666666666666666,1,1
+Manchester United,Southampton,Away,D,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.6666666666666666,0.0,4-2-3-1,4-2-2-2,Matchweek 4,30499.0,Mike Dean,2019-08-31 12:30:00,0.4166666666666667,0.4166666666666667,0,0
+Leicester City,Manchester United,Away,L,0.5,0.0,0.5,0.25,0.25,0.5,4-1-4-1,4-2-3-1,Matchweek 5,73689.0,Martin Atkinson,2019-09-14 15:00:00,0.1,0.3,1,1
+Manchester United,West Ham United,Away,L,0.4,0.2,0.4,0.4,0.2,0.4,4-2-3-1,4-1-4-1,Matchweek 6,59936.0,Anthony Taylor,2019-09-22 14:00:00,0.5,0.3333333333333333,0,0
+Arsenal,Manchester United,Away,D,0.4,0.2,0.4,0.2,0.4,0.4,4-3-3,4-2-3-1,Matchweek 7,73201.0,Kevin Friend,2019-09-30 20:00:00,0.25,0.3333333333333333,1,1
+Manchester United,Newcastle United,Away,L,0.2,0.4,0.4,0.2,0.4,0.4,4-2-3-1,5-4-1,Matchweek 8,51198.0,Mike Dean,2019-10-06 16:30:00,0.6,0.2,0,0
+Liverpool,Manchester United,Away,D,1.0,0.0,0.0,0.2,0.4,0.4,4-3-3,3-4-1-2,Matchweek 9,73737.0,Martin Atkinson,2019-10-20 16:30:00,0.25,0.3333333333333333,1,1
+Manchester United,Norwich City,Away,W,0.2,0.4,0.4,0.2,0.6,0.2,4-2-3-1,4-2-3-1,Matchweek 10,27108.0,Stuart Attwell,2019-10-27 16:30:00,0.75,0.0,0,0
+Bournemouth,Manchester United,Home,W,0.2,0.2,0.6,0.2,0.4,0.4,4-4-2,4-2-3-1,Matchweek 11,10669.0,Chris Kavanagh,2019-11-02 12:30:00,0.125,0.125,1,1
+Brighton and Hove Albion,Manchester United,Away,L,0.6,0.4,0.0,0.2,0.4,0.4,4-4-2,4-2-3-1,Matchweek 12,73556.0,Jonathan Moss,2019-11-10 14:00:00,0.5,0.0,1,1
+Manchester United,Sheffield United,Away,D,0.4,0.4,0.2,0.4,0.2,0.4,3-4-3,3-4-3,Matchweek 13,32024.0,Andre Marriner,2019-11-24 16:30:00,0.0,0.0,0,0
+Aston Villa,Manchester United,Away,D,0.4,0.6,0.0,0.4,0.2,0.4,4-3-3,4-2-3-1,Matchweek 14,73381.0,Craig Pawson,2019-12-01 16:30:00,0.0,0.1666666666666666,1,1
+Manchester United,Tottenham Hotspur,Home,W,0.4,0.2,0.4,0.4,0.2,0.4,4-2-3-1,4-2-3-1,Matchweek 15,73252.0,Paul Tierney,2019-12-04 19:30:00,0.4166666666666667,0.1666666666666666,1,1
+Manchester City,Manchester United,Home,L,0.6,0.2,0.2,0.4,0.2,0.4,4-3-3,4-2-3-1,Matchweek 16,54403.0,Anthony Taylor,2019-12-07 17:30:00,0.5833333333333334,0.1666666666666666,1,1
+Everton,Manchester United,Away,D,0.4,0.6,0.0,0.6,0.0,0.4,4-4-2,4-2-3-1,Matchweek 17,63328.0,Michael Oliver,2019-12-15 14:00:00,0.3333333333333333,0.1666666666666666,1,1
+Manchester United,Watford,Away,L,0.4,0.0,0.6,0.0,0.8,0.2,4-2-3-1,4-2-3-1,Matchweek 18,21488.0,Lee Mason,2019-12-22 14:00:00,0.875,0.0,0,0
+Manchester United,Newcastle United,Home,W,0.4,0.2,0.4,0.6,0.2,0.2,4-2-3-1,3-5-2,Matchweek 19,73206.0,Kevin Friend,2019-12-26 17:30:00,0.5454545454545454,0.1818181818181818,0,0
+Manchester United,Burnley,Away,W,0.6,0.2,0.2,0.4,0.6,0.0,4-2-3-1,4-2-3-1,Matchweek 20,21924.0,Mike Dean,2019-12-28 19:45:00,0.5,0.5,0,0
+Arsenal,Manchester United,Home,W,0.2,0.4,0.4,0.6,0.2,0.2,4-2-3-1,4-2-3-1,Matchweek 21,60328.0,Chris Kavanagh,2020-01-01 20:00:00,0.2307692307692307,0.3846153846153846,1,1
+Manchester United,Norwich City,Home,W,0.4,0.4,0.2,0.0,0.4,0.6,4-2-3-1,4-2-3-1,Matchweek 22,73271.0,Anthony Taylor,2020-01-11 15:00:00,0.8,0.0,0,0
+Liverpool,Manchester United,Home,W,1.0,0.0,0.0,0.6,0.4,0.0,4-3-3,3-4-1-2,Matchweek 23,52916.0,Craig Pawson,2020-01-19 16:30:00,0.2307692307692307,0.3846153846153846,1,1
+Manchester United,Burnley,Home,L,0.6,0.4,0.0,0.2,0.8,0.0,4-2-3-1,4-2-3-1,Matchweek 24,73198.0,Jonathan Moss,2020-01-22 20:15:00,0.5555555555555556,0.4444444444444444,0,0
+Manchester United,Wolverhampton Wanderers,Home,D,0.4,0.6,0.0,0.2,0.6,0.2,4-2-3-1,3-4-3,Matchweek 25,73363.0,Paul Tierney,2020-02-01 17:30:00,0.0,0.6666666666666666,0,0
+Chelsea,Manchester United,Home,L,0.2,0.2,0.6,0.2,0.6,0.2,4-3-3,3-4-1-2,Matchweek 26,40504.0,Anthony Taylor,2020-02-17 20:00:00,0.3076923076923077,0.4615384615384615,1,1
+Manchester United,Watford,Home,W,0.4,0.4,0.2,0.2,0.4,0.4,4-2-3-1,4-2-3-1,Matchweek 27,73347.0,Martin Atkinson,2020-02-23 14:00:00,0.7777777777777778,0.0,0,0
+Everton,Manchester United,Home,D,0.4,0.2,0.4,0.4,0.4,0.2,4-4-2,4-1-2-1-2,Matchweek 28,39374.0,Chris Kavanagh,2020-03-01 14:00:00,0.3076923076923077,0.2307692307692307,1,1
+Manchester City,Manchester United,Away,L,0.6,0.2,0.2,0.4,0.2,0.4,4-3-3,3-4-1-2,Matchweek 29,73288.0,Mike Dean,2020-03-08 16:30:00,0.5384615384615384,0.1538461538461538,1,1
+Manchester United,Tottenham Hotspur,Away,D,0.6,0.0,0.4,0.4,0.4,0.2,4-2-3-1,4-2-3-1,Matchweek 30,64348.0,Jonathan Moss,2020-06-19 20:15:00,0.4615384615384615,0.1538461538461538,1,1
+Manchester United,Sheffield United,Home,W,0.6,0.0,0.4,0.4,0.2,0.4,4-2-3-1,4-2-3-1,Matchweek 31,32024.0,Anthony Taylor,2020-06-24 18:00:00,0.0,1.0,0,0
+Brighton and Hove Albion,Manchester United,Home,L,0.2,0.2,0.6,0.6,0.0,0.4,4-4-2,4-2-3-1,Matchweek 32,54916.22222222222,Andre Marriner,2020-06-30 20:15:00,0.4,0.0,1,1
+Bournemouth,Manchester United,Away,L,0.0,0.8,0.2,0.6,0.0,0.4,4-4-2,4-2-3-1,Matchweek 33,39784.181818181816,Mike Dean,2020-07-04 15:00:00,0.2222222222222222,0.1111111111111111,1,1
+Aston Villa,Manchester United,Home,L,0.0,0.6,0.4,0.8,0.0,0.2,4-4-1-1,4-2-3-1,Matchweek 34,59659.27272727273,Jonathan Moss,2020-07-09 20:15:00,0.0,0.2857142857142857,1,1
+Manchester United,Southampton,Home,D,0.8,0.0,0.2,0.6,0.2,0.2,4-2-3-1,4-4-2,Matchweek 35,51705.82352941176,Chris Kavanagh,2020-07-13 20:00:00,0.3846153846153846,0.4615384615384615,0,0
+Crystal Palace,Manchester United,Home,L,0.0,1.0,0.0,0.8,0.0,0.2,4-4-2,4-2-3-1,Matchweek 36,51238.705882352944,Graham Scott,2020-07-16 20:15:00,0.0769230769230769,0.1538461538461538,1,1
+Manchester United,West Ham United,Home,D,0.8,0.0,0.2,0.6,0.2,0.2,4-2-3-1,4-2-3-1,Matchweek 37,58674.16666666666,Paul Tierney,2020-07-22 18:00:00,0.4615384615384615,0.3076923076923077,0,0
+Leicester City,Manchester United,Home,L,0.4,0.4,0.2,0.6,0.0,0.4,3-5-2,4-2-3-1,Matchweek 38,54719.8,Martin Atkinson,2020-07-26 16:00:00,0.0909090909090909,0.2727272727272727,1,1
+Crystal Palace,Manchester United,Away,W,1.0,0.0,0.0,0.0,0.0,0.0,4-4-2,4-2-3-1,Matchweek 2,51238.705882352944,Martin Atkinson,2020-09-19 17:30:00,0.0714285714285714,0.1428571428571428,1,1
+Brighton and Hove Albion,Manchester United,Home,L,0.5,0.5,0.0,0.0,1.0,0.0,3-4-3,4-2-3-1,Matchweek 3,54916.22222222222,Chris Kavanagh,2020-09-26 12:30:00,0.3333333333333333,0.0,1,1
+Manchester United,Tottenham Hotspur,Home,L,0.5,0.5,0.0,0.3333333333333333,0.3333333333333333,0.3333333333333333,4-2-3-1,4-3-3,Matchweek 4,64348.0,Anthony Taylor,2020-10-04 16:30:00,0.4285714285714285,0.2142857142857142,1,1
+Manchester United,Newcastle United,Away,W,0.3333333333333333,0.6666666666666666,0.0,0.5,0.25,0.25,4-2-3-1,4-1-4-1,Matchweek 5,62928.0,Craig Pawson,2020-10-17 20:00:00,0.5833333333333334,0.1666666666666666,0,0
+Chelsea,Manchester United,Away,D,0.4,0.2,0.4,0.5,0.5,0.0,3-4-3,4-2-3-1,Matchweek 6,57750.88888888889,Martin Atkinson,2020-10-24 17:30:00,0.2857142857142857,0.4285714285714285,1,1
+Arsenal,Manchester United,Away,W,0.4,0.6,0.0,0.4,0.4,0.2,3-4-3,4-1-2-1-2,Matchweek 7,67278.22222222222,Mike Dean,2020-11-01 16:30:00,0.2857142857142857,0.3571428571428571,1,1
+Everton,Manchester United,Home,L,0.4,0.4,0.2,0.4,0.4,0.2,4-3-3,4-2-3-1,Matchweek 8,56387.77777777778,Paul Tierney,2020-11-07 12:30:00,0.2857142857142857,0.2857142857142857,1,1
+Manchester United,West Bromwich Albion,Home,W,0.4,0.4,0.2,0.0,0.6,0.4,4-2-3-1,4-2-3-1,Matchweek 9,50434.4,David Coote,2020-11-21 20:00:00,0.4,0.2,0,0
+Manchester United,Southampton,Away,W,0.6,0.2,0.2,0.6,0.0,0.4,4-3-1-2,4-4-2,Matchweek 10,51705.82352941176,Jonathan Moss,2020-11-29 14:00:00,0.3571428571428571,0.5,0,0
+Manchester United,West Ham United,Away,W,0.6,0.2,0.2,0.6,0.2,0.2,4-2-3-1,3-4-3,Matchweek 11,2000.0,Andre Marriner,2020-12-05 17:30:00,0.4285714285714285,0.3571428571428571,0,0
+Manchester City,Manchester United,Away,D,0.6,0.2,0.2,0.8,0.2,0.0,4-2-3-1,4-2-3-1,Matchweek 12,63510.0,Chris Kavanagh,2020-12-12 17:30:00,0.5,0.1428571428571428,1,1
+Manchester United,Sheffield United,Away,W,0.8,0.0,0.2,0.0,1.0,0.0,4-2-3-1,4-2-3-1,Matchweek 13,32024.0,Michael Oliver,2020-12-17 20:00:00,0.5,0.5,0,0
+Leeds United,Manchester United,Away,L,0.4,0.4,0.2,0.8,0.0,0.2,4-1-4-1,4-2-3-1,Matchweek 14,54955.5,Anthony Taylor,2020-12-20 16:30:00,0.0,0.0,1,1
+Leicester City,Manchester United,Home,D,0.6,0.4,0.0,0.8,0.0,0.2,4-2-3-1,4-2-3-1,Matchweek 15,54719.8,Mike Dean,2020-12-26 12:30:00,0.0833333333333333,0.25,1,1
+Manchester United,Wolverhampton Wanderers,Home,W,0.6,0.0,0.4,0.2,0.6,0.2,4-2-3-1,3-4-1-2,Matchweek 16,47095.77777777778,Jonathan Moss,2020-12-29 20:00:00,0.0,0.75,0,0
+Aston Villa,Manchester United,Away,L,0.6,0.0,0.4,0.6,0.0,0.4,4-2-3-1,4-2-3-1,Matchweek 17,59659.27272727273,Michael Oliver,2021-01-01 20:00:00,0.0,0.25,1,1
+Manchester United,Burnley,Away,W,0.8,0.0,0.2,0.4,0.2,0.4,4-2-3-1,4-2-3-1,Matchweek 1,48005.583333333336,Kevin Friend,2021-01-12 20:15:00,0.5,0.4,0,0
+Liverpool,Manchester United,Home,D,0.4,0.2,0.4,0.8,0.0,0.2,4-3-3,4-2-3-1,Matchweek 19,62299.88888888889,Paul Tierney,2021-01-17 16:30:00,0.2857142857142857,0.3571428571428571,1,1
+Fulham,Manchester United,Home,L,0.0,0.2,0.8,0.6,0.0,0.4,3-4-3,4-2-3-1,Matchweek 18,43985.857142857145,Martin Atkinson,2021-01-20 20:15:00,0.0,0.25,1,1
+Manchester United,Sheffield United,Home,L,0.8,0.0,0.2,0.2,0.6,0.2,4-2-3-1,4-2-3-1,Matchweek 20,32024.0,Peter Bankes,2021-01-27 20:15:00,0.6666666666666666,0.3333333333333333,0,0
+Arsenal,Manchester United,Home,D,0.8,0.0,0.2,0.6,0.2,0.2,4-2-3-1,4-2-3-1,Matchweek 21,67278.22222222222,Michael Oliver,2021-01-30 17:30:00,0.3333333333333333,0.3333333333333333,1,1
+Manchester United,Southampton,Home,W,0.4,0.2,0.4,0.2,0.6,0.2,4-2-3-1,4-4-2,Matchweek 22,51705.82352941176,Mike Dean,2021-02-02 20:15:00,0.4,0.4666666666666667,0,0
+Everton,Manchester United,Away,D,0.4,0.4,0.2,0.4,0.2,0.4,4-3-1-2,4-2-3-1,Matchweek 23,56387.77777777778,Jonathan Moss,2021-02-06 20:00:00,0.2666666666666666,0.2666666666666666,1,1
+Manchester United,West Bromwich Albion,Away,D,0.4,0.2,0.4,0.2,0.6,0.2,4-2-3-1,4-2-3-1,Matchweek 24,50434.4,Craig Pawson,2021-02-14 14:00:00,0.4545454545454545,0.1818181818181818,0,0
+Manchester United,Newcastle United,Home,W,0.2,0.2,0.6,0.4,0.6,0.0,4-2-3-1,4-3-1-2,Matchweek 25,62928.0,Paul Tierney,2021-02-21 19:00:00,0.6153846153846154,0.1538461538461538,0,0
+Chelsea,Manchester United,Home,D,0.8,0.0,0.2,0.4,0.0,0.6,3-4-3,4-2-3-1,Matchweek 26,57750.88888888889,Stuart Attwell,2021-02-28 16:30:00,0.2666666666666666,0.4666666666666667,1,1
+Crystal Palace,Manchester United,Home,D,0.4,0.4,0.2,0.4,0.0,0.6,4-4-2,4-2-3-1,Matchweek 29,51238.705882352944,Andre Marriner,2021-03-03 20:15:00,0.1333333333333333,0.1333333333333333,1,1
+Manchester City,Manchester United,Home,L,1.0,0.0,0.0,0.2,0.0,0.8,4-2-3-1,4-2-3-1,Matchweek 27,63510.0,Anthony Taylor,2021-03-07 16:30:00,0.4666666666666667,0.2,1,1
+Manchester United,West Ham United,Home,W,0.4,0.0,0.6,0.6,0.2,0.2,4-2-3-1,3-1-4-2,Matchweek 28,58674.16666666666,Martin Atkinson,2021-03-14 19:15:00,0.4666666666666667,0.3333333333333333,0,0
+Brighton and Hove Albion,Manchester United,Away,L,0.4,0.6,0.0,0.6,0.0,0.4,3-4-1-2,4-2-3-1,Matchweek 30,54916.22222222222,Mike Dean,2021-04-04 19:30:00,0.2857142857142857,0.0,1,1
+Manchester United,Tottenham Hotspur,Away,W,0.6,0.0,0.4,0.6,0.2,0.2,4-2-3-1,4-3-3,Matchweek 31,64348.0,Chris Kavanagh,2021-04-11 16:30:00,0.4,0.2,1,1
+Manchester United,Burnley,Home,W,0.8,0.0,0.2,0.2,0.4,0.4,4-2-3-1,4-2-3-1,Matchweek 32,48005.583333333336,Jonathan Moss,2021-04-18 16:00:00,0.5454545454545454,0.3636363636363636,0,0
+Leeds United,Manchester United,Home,D,0.6,0.0,0.4,1.0,0.0,0.0,4-1-4-1,4-2-3-1,Matchweek 33,54955.5,Craig Pawson,2021-04-25 14:00:00,0.0,0.0,1,1
+Aston Villa,Manchester United,Home,L,0.4,0.4,0.2,0.8,0.0,0.2,4-2-3-1,4-2-3-1,Matchweek 35,59659.27272727273,Chris Kavanagh,2021-05-09 14:05:00,0.0,0.2222222222222222,1,1
+Leicester City,Manchester United,Away,W,0.4,0.4,0.2,0.8,0.0,0.2,4-4-2,4-2-3-1,Matchweek 36,54719.8,Craig Pawson,2021-05-11 18:00:00,0.0769230769230769,0.3076923076923077,1,1
+Liverpool,Manchester United,Away,W,0.6,0.0,0.4,0.6,0.2,0.2,4-3-3,4-2-3-1,Matchweek 34,62299.88888888889,Anthony Taylor,2021-05-13 20:15:00,0.2666666666666666,0.4,1,1
+Fulham,Manchester United,Away,D,0.0,0.8,0.2,0.4,0.4,0.2,3-4-3,4-2-3-1,Matchweek 37,10000.0,Lee Mason,2021-05-18 18:00:00,0.0,0.2,1,1
+Manchester United,Wolverhampton Wanderers,Away,W,0.2,0.4,0.4,0.2,0.6,0.2,4-2-3-1,3-5-2,Matchweek 38,4500.0,Mike Dean,2021-05-23 16:00:00,0.2,0.6,0,0
+Leeds United,Manchester United,Away,L,0.0,0.0,0.0,0.0,0.0,0.0,4-1-4-1,4-2-3-1,Matchweek 1,72732.0,Paul Tierney,2021-08-14 12:30:00,0.0,0.5,1,1
+Manchester United,Southampton,Away,D,1.0,0.0,0.0,0.0,1.0,0.0,4-2-3-1,4-4-2,Matchweek 2,32000.0,Craig Pawson,2021-08-22 14:00:00,0.4375,0.4375,0,0
+Manchester United,Wolverhampton Wanderers,Away,W,0.5,0.0,0.5,0.0,1.0,0.0,4-2-3-1,3-4-3,Matchweek 3,30621.0,Mike Dean,2021-08-29 16:30:00,0.3333333333333333,0.5,0,0
+Manchester United,Newcastle United,Home,W,0.6666666666666666,0.0,0.3333333333333333,0.0,0.6666666666666666,0.3333333333333333,4-2-3-1,5-4-1,Matchweek 4,72732.0,Anthony Taylor,2021-09-11 15:00:00,0.6428571428571429,0.1428571428571428,0,0
+Manchester United,West Ham United,Away,W,0.75,0.0,0.25,0.5,0.0,0.5,4-2-3-1,4-4-2,Matchweek 5,60000.0,Martin Atkinson,2021-09-19 14:00:00,0.5,0.3125,0,0
+Aston Villa,Manchester United,Away,W,0.4,0.4,0.2,0.8,0.0,0.2,3-5-2,4-2-3-1,Matchweek 6,72922.0,Mike Dean,2021-09-25 12:30:00,0.0,0.2,1,1
+Everton,Manchester United,Away,D,0.6,0.2,0.2,0.6,0.2,0.2,4-4-1-1,4-2-3-1,Matchweek 7,73128.0,Michael Oliver,2021-10-02 12:30:00,0.25,0.3125,1,1
+Leicester City,Manchester United,Home,W,0.2,0.4,0.4,0.6,0.2,0.2,3-4-1-2,4-2-3-1,Matchweek 8,32219.0,Craig Pawson,2021-10-16 15:00:00,0.1428571428571428,0.2857142857142857,1,1
+Liverpool,Manchester United,Away,W,0.6,0.0,0.4,0.4,0.4,0.2,4-3-3,4-2-3-1,Matchweek 9,73088.0,Anthony Taylor,2021-10-24 16:30:00,0.3125,0.375,1,1
+Manchester United,Tottenham Hotspur,Away,W,0.2,0.6,0.2,0.4,0.6,0.0,3-5-2,4-2-3-1,Matchweek 10,60356.0,Stuart Attwell,2021-10-30 17:30:00,0.4375,0.1875,1,1
+Manchester City,Manchester United,Away,W,0.6,0.2,0.2,0.2,0.6,0.2,4-3-3,3-5-2,Matchweek 11,73086.0,Michael Oliver,2021-11-06 12:30:00,0.4375,0.1875,1,1
+Manchester United,Watford,Away,L,0.2,0.6,0.2,0.2,0.8,0.0,4-2-3-1,4-2-3-1,Matchweek 12,21087.0,Jonathan Moss,2021-11-20 15:00:00,0.8,0.0,0,0
+Chelsea,Manchester United,Home,D,0.8,0.0,0.2,0.2,0.8,0.0,3-4-3,4-3-1-2,Matchweek 13,40041.0,Anthony Taylor,2021-11-28 16:30:00,0.25,0.5,1,1
+Arsenal,Manchester United,Away,L,0.8,0.2,0.0,0.2,0.6,0.2,4-4-1-1,4-2-3-1,Matchweek 14,73123.0,Martin Atkinson,2021-12-02 20:15:00,0.3125,0.375,1,1
+Crystal Palace,Manchester United,Away,L,0.4,0.4,0.2,0.4,0.4,0.2,4-3-3,4-2-2-2,Matchweek 15,73172.0,Craig Pawson,2021-12-05 14:00:00,0.125,0.1875,1,1
+Manchester United,Norwich City,Away,W,0.4,0.4,0.2,0.4,0.2,0.4,4-2-2-2,4-2-2-2,Matchweek 16,27606.0,Darren England,2021-12-11 17:30:00,0.8333333333333334,0.0,0,0
+Manchester United,Newcastle United,Away,D,0.6,0.2,0.2,0.2,0.6,0.2,4-2-2-2,4-5-1,Matchweek 19,52178.0,Craig Pawson,2021-12-27 20:00:00,0.6666666666666666,0.1333333333333333,0,0
+Manchester United,Burnley,Home,W,0.6,0.0,0.4,0.0,0.2,0.8,4-2-2-2,4-2-2-2,Matchweek 20,73121.0,Jonathan Moss,2021-12-30 20:15:00,0.5833333333333334,0.3333333333333333,0,0
+Manchester United,Wolverhampton Wanderers,Home,L,0.8,0.0,0.2,0.2,0.4,0.4,4-2-2-2,3-4-3,Matchweek 21,73045.0,Mike Dean,2022-01-03 17:30:00,0.4285714285714285,0.4285714285714285,0,0
+Aston Villa,Manchester United,Home,D,0.4,0.6,0.0,0.6,0.2,0.2,4-3-3,4-3-3,Matchweek 22,41968.0,David Coote,2022-01-15 17:30:00,0.0909090909090909,0.1818181818181818,1,1
+Brentford,Manchester United,Home,L,0.2,0.8,0.0,0.4,0.2,0.4,3-5-2,4-2-3-1,Matchweek 17,17094.0,Andre Marriner,2022-01-19 20:00:00,0.0,0.0,1,1
+Manchester United,West Ham United,Home,W,0.4,0.2,0.4,0.6,0.4,0.0,4-2-3-1,4-2-3-1,Matchweek 23,73130.0,Jonathan Moss,2022-01-22 15:00:00,0.5294117647058824,0.2941176470588235,0,0
+Manchester United,Burnley,Away,D,0.6,0.2,0.2,0.0,0.6,0.4,4-2-3-1,4-2-3-1,Matchweek 24,21233.0,Mike Dean,2022-02-08 20:00:00,0.6153846153846154,0.3076923076923077,0,0
+Manchester United,Southampton,Home,D,0.4,0.2,0.4,0.4,0.2,0.4,4-2-3-1,4-4-2,Matchweek 25,73084.0,Stuart Attwell,2022-02-12 12:30:00,0.4117647058823529,0.4705882352941176,0,0
+Brighton and Hove Albion,Manchester United,Away,L,0.4,0.0,0.6,0.4,0.0,0.6,4-1-2-1-2,4-2-3-1,Matchweek 18,73012.0,Peter Bankes,2022-02-15 20:15:00,0.25,0.0,1,1
+Leeds United,Manchester United,Home,L,0.4,0.4,0.2,0.6,0.0,0.4,4-2-3-1,4-2-3-1,Matchweek 26,36715.0,Paul Tierney,2022-02-20 14:00:00,0.0,0.3333333333333333,1,1
+Manchester United,Watford,Home,D,0.6,0.0,0.4,0.2,0.6,0.2,4-2-3-1,4-2-3-1,Matchweek 27,73152.0,Kevin Friend,2022-02-26 15:00:00,0.7272727272727273,0.0,0,0
+Manchester City,Manchester United,Home,W,0.6,0.2,0.2,0.4,0.0,0.6,4-3-3,4-2-3-1,Matchweek 28,53165.0,Michael Oliver,2022-03-06 16:30:00,0.4705882352941176,0.1764705882352941,1,1
+Manchester United,Tottenham Hotspur,Home,W,0.4,0.2,0.4,0.6,0.4,0.0,4-2-3-1,3-4-3,Matchweek 29,73458.0,Jonathan Moss,2022-03-12 17:30:00,0.4705882352941176,0.1764705882352941,1,1
+Leicester City,Manchester United,Away,D,0.6,0.4,0.0,0.6,0.2,0.2,4-2-3-1,4-2-3-1,Matchweek 31,73444.0,Andre Marriner,2022-04-02 17:30:00,0.2,0.2666666666666666,1,1
+Everton,Manchester United,Home,W,0.2,0.8,0.0,0.4,0.2,0.4,4-3-3,4-2-3-1,Matchweek 32,39080.0,Jonathan Moss,2022-04-09 12:30:00,0.2352941176470588,0.3529411764705882,1,1
+Manchester United,Norwich City,Home,W,0.2,0.4,0.4,0.0,0.8,0.2,4-3-3,4-3-3,Matchweek 33,73381.0,Andy Madley,2022-04-16 15:00:00,0.8571428571428571,0.0,0,0
+Liverpool,Manchester United,Home,W,0.8,0.0,0.2,0.4,0.4,0.2,4-3-3,3-4-3,Matchweek 30,52686.0,Martin Atkinson,2022-04-19 20:00:00,0.3529411764705882,0.3529411764705882,1,1
+Arsenal,Manchester United,Home,W,0.4,0.6,0.0,0.4,0.4,0.2,4-2-3-1,4-2-3-1,Matchweek 34,60223.0,Craig Pawson,2022-04-23 12:30:00,0.2941176470588235,0.3529411764705882,1,1
+Chelsea,Manchester United,Away,D,0.6,0.4,0.0,0.2,0.6,0.2,3-4-1-2,4-2-3-1,Matchweek 37,73564.0,Mike Dean,2022-04-28 19:45:00,0.2352941176470588,0.5294117647058824,1,1
+Brentford,Manchester United,Away,L,0.6,0.2,0.2,0.2,0.6,0.2,5-3-2,4-2-3-1,Matchweek 35,73482.0,Chris Kavanagh,2022-05-02 20:00:00,0.0,0.0,1,1
+Brighton and Hove Albion,Manchester United,Home,W,0.6,0.2,0.2,0.4,0.4,0.2,3-4-3,4-2-3-1,Matchweek 36,31637.0,Andy Madley,2022-05-07 17:30:00,0.2222222222222222,0.0,1,1
+Crystal Palace,Manchester United,Home,W,0.4,0.2,0.4,0.2,0.6,0.2,4-3-3,4-2-3-1,Matchweek 38,25434.0,Martin Atkinson,2022-05-22 16:00:00,0.1176470588235294,0.1764705882352941,1,1
+Brighton and Hove Albion,Manchester United,Away,W,0.0,0.0,0.0,0.0,0.0,0.0,3-3-3-1,4-3-3,Matchweek 1,73711.0,Paul Tierney,2022-08-07 14:00:00,0.3,0.0,1,1
+Brentford,Manchester United,Home,W,0.0,0.0,1.0,0.0,1.0,0.0,5-3-2,4-2-3-1,Matchweek 2,17051.0,Stuart Attwell,2022-08-13 17:30:00,0.0,0.0,1,1
+Liverpool,Manchester United,Away,L,0.0,0.0,1.0,0.0,1.0,0.0,4-3-3,4-2-3-1,Matchweek 3,74147.0,Michael Oliver,2022-08-22 20:00:00,0.3888888888888889,0.3333333333333333,1,1
+Manchester United,Southampton,Away,W,0.3333333333333333,0.6666666666666666,0.0,0.3333333333333333,0.3333333333333333,0.3333333333333333,4-2-3-1,4-2-3-1,Matchweek 4,31196.0,Andy Madley,2022-08-27 12:30:00,0.3888888888888889,0.5,0,0
+Leicester City,Manchester United,Home,L,0.0,0.75,0.25,0.5,0.5,0.0,4-1-4-1,4-2-3-1,Matchweek 5,32226.0,Craig Pawson,2022-09-01 20:00:00,0.1875,0.3125,1,1
+Arsenal,Manchester United,Away,L,1.0,0.0,0.0,0.6,0.4,0.0,4-3-3,4-2-3-1,Matchweek 6,73431.0,Paul Tierney,2022-09-04 16:30:00,0.3333333333333333,0.3333333333333333,1,1
+Manchester City,Manchester United,Home,W,0.6,0.0,0.4,0.8,0.2,0.0,4-3-3,4-2-3-1,Matchweek 9,53475.0,Michael Oliver,2022-10-02 14:00:00,0.5,0.1666666666666666,1,1
+Everton,Manchester United,Home,L,0.4,0.0,0.6,0.8,0.2,0.0,4-3-3,4-2-3-1,Matchweek 10,39258.0,David Coote,2022-10-09 19:00:00,0.2777777777777778,0.3333333333333333,1,1
+Manchester United,Newcastle United,Home,D,0.8,0.2,0.0,0.4,0.2,0.4,4-2-3-1,4-3-3,Matchweek 11,73726.0,Craig Pawson,2022-10-16 14:00:00,0.625,0.1875,0,0
+Manchester United,Tottenham Hotspur,Home,W,0.6,0.2,0.2,0.8,0.2,0.0,4-2-3-1,3-5-2,Matchweek 12,73677.0,Simon Hooper,2022-10-19 20:15:00,0.5,0.1666666666666666,1,1
+Chelsea,Manchester United,Home,D,0.8,0.0,0.2,0.6,0.2,0.2,3-4-3,4-1-4-1,Matchweek 13,39503.0,Stuart Attwell,2022-10-22 17:30:00,0.2222222222222222,0.5555555555555556,1,1
+Manchester United,West Ham United,Home,W,0.4,0.2,0.4,0.6,0.2,0.2,4-2-3-1,4-2-3-1,Matchweek 14,73682.0,Chris Kavanagh,2022-10-30 16:15:00,0.5555555555555556,0.2777777777777778,0,0
+Aston Villa,Manchester United,Home,W,0.2,0.6,0.2,0.6,0.0,0.4,4-2-2-2,4-2-3-1,Matchweek 15,42058.0,Anthony Taylor,2022-11-06 14:00:00,0.0833333333333333,0.25,1,1
+Fulham,Manchester United,Home,L,0.4,0.2,0.4,0.4,0.2,0.4,4-2-3-1,4-2-3-1,Matchweek 16,24246.0,Paul Tierney,2022-11-13 16:30:00,0.0,0.3333333333333333,1,1
+Manchester United,Nottingham Forest,Home,W,0.6,0.2,0.2,0.4,0.2,0.4,4-2-3-1,4-3-3,Matchweek 17,73608.0,Anthony Taylor,2022-12-27 20:00:00,0.0,0.0,0,0
+Manchester United,Wolverhampton Wanderers,Away,W,0.6,0.2,0.2,0.2,0.6,0.2,4-2-3-1,4-2-3-1,Matchweek 18,31658.0,Robert Jones,2022-12-31 12:30:00,0.375,0.375,0,0
+Bournemouth,Manchester United,Away,L,0.2,0.8,0.0,0.8,0.2,0.0,4-4-2,4-2-3-1,Matchweek 19,73322.0,Michael Salisbury,2023-01-03 20:00:00,0.2,0.1,1,1
+Manchester City,Manchester United,Away,L,0.6,0.2,0.2,0.8,0.2,0.0,4-3-3,4-2-3-1,Matchweek 20,75546.0,Stuart Attwell,2023-01-14 12:30:00,0.5263157894736842,0.1578947368421052,1,1
+Crystal Palace,Manchester United,Home,D,0.2,0.8,0.0,1.0,0.0,0.0,4-2-3-1,4-2-3-1,Matchweek 7,23343.0,Robert Jones,2023-01-18 20:00:00,0.1666666666666666,0.1666666666666666,1,1
+Arsenal,Manchester United,Home,W,0.8,0.0,0.2,0.8,0.0,0.2,4-3-3,4-2-3-1,Matchweek 21,60325.0,Anthony Taylor,2023-01-22 16:30:00,0.3157894736842105,0.3157894736842105,1,1
+Crystal Palace,Manchester United,Away,L,0.2,0.4,0.4,0.6,0.2,0.2,4-2-3-1,4-2-3-1,Matchweek 22,73420.0,Andre Marriner,2023-02-04 15:00:00,0.1578947368421052,0.2105263157894736,1,1
+Leeds United,Manchester United,Away,D,0.0,0.4,0.6,0.6,0.2,0.2,4-2-3-1,4-2-3-1,Matchweek 8,73456.0,Simon Hooper,2023-02-08 20:00:00,0.0,0.25,1,1
+Leeds United,Manchester United,Home,L,0.0,0.4,0.6,0.4,0.2,0.4,4-2-3-1,4-2-3-1,Matchweek 23,36919.0,Paul Tierney,2023-02-12 14:00:00,0.0,0.4,1,1
+Leicester City,Manchester United,Away,L,0.4,0.4,0.2,0.4,0.2,0.4,4-2-3-1,4-2-3-1,Matchweek 24,73578.0,Stuart Attwell,2023-02-19 14:00:00,0.1764705882352941,0.2941176470588235,1,1
+Liverpool,Manchester United,Home,W,0.6,0.2,0.2,0.6,0.2,0.2,4-3-3,4-2-3-1,Matchweek 26,53001.0,Andy Madley,2023-03-05 16:30:00,0.3684210526315789,0.3157894736842105,1,1
+Manchester United,Southampton,Home,D,0.6,0.2,0.2,0.4,0.6,0.0,4-1-4-1,4-2-3-1,Matchweek 27,73439.0,Anthony Taylor,2023-03-12 14:00:00,0.4210526315789473,0.4736842105263157,0,0
+Manchester United,Newcastle United,Away,L,0.4,0.2,0.4,0.4,0.4,0.2,4-2-3-1,4-3-3,Matchweek 29,52268.0,Stuart Attwell,2023-04-02 16:30:00,0.5882352941176471,0.2352941176470588,0,0
+Brentford,Manchester United,Away,L,0.4,0.2,0.4,0.4,0.4,0.2,5-3-2,4-2-3-1,Matchweek 25,73309.0,John Brooks,2023-04-05 20:00:00,0.3333333333333333,0.0,1,1
+Everton,Manchester United,Away,L,0.2,0.2,0.6,0.4,0.4,0.2,4-4-2,4-2-3-1,Matchweek 30,73509.0,Michael Oliver,2023-04-08 12:30:00,0.2631578947368421,0.3157894736842105,1,1
+Manchester United,Nottingham Forest,Away,W,0.4,0.4,0.2,0.0,0.8,0.2,4-2-3-1,3-4-1-2,Matchweek 31,29435.0,Simon Hooper,2023-04-16 16:30:00,1.0,0.0,0,0
+Manchester United,Tottenham Hotspur,Away,D,0.6,0.2,0.2,0.2,0.4,0.4,4-2-3-1,3-4-3,Matchweek 33,61586.0,Anthony Taylor,2023-04-27 20:15:00,0.5263157894736842,0.1578947368421052,1,1
+Aston Villa,Manchester United,Away,L,0.8,0.0,0.2,0.6,0.2,0.2,4-2-3-1,4-1-4-1,Matchweek 34,73592.0,Jarred Gillett,2023-04-30 14:00:00,0.1538461538461538,0.2307692307692307,1,1
+Brighton and Hove Albion,Manchester United,Home,W,0.6,0.4,0.0,0.8,0.0,0.2,4-2-3-1,4-3-3,Matchweek 28,31577.0,Andre Marriner,2023-05-04 20:00:00,0.3636363636363636,0.0,1,1
+Manchester United,West Ham United,Away,L,0.6,0.2,0.2,0.2,0.6,0.2,4-2-3-1,4-2-3-1,Matchweek 35,62477.0,Peter Bankes,2023-05-07 19:00:00,0.5789473684210527,0.2631578947368421,0,0
+Manchester United,Wolverhampton Wanderers,Home,W,0.4,0.4,0.2,0.6,0.4,0.0,4-2-3-1,4-4-2,Matchweek 36,73570.0,John Brooks,2023-05-13 15:00:00,0.4444444444444444,0.3333333333333333,0,0
+Bournemouth,Manchester United,Home,L,0.4,0.6,0.0,0.4,0.4,0.2,4-2-3-1,4-2-3-1,Matchweek 37,10240.0,Chris Kavanagh,2023-05-20 15:00:00,0.1818181818181818,0.0909090909090909,1,1
+Chelsea,Manchester United,Away,L,0.2,0.6,0.2,0.6,0.4,0.0,4-3-3,4-2-3-1,Matchweek 32,73561.0,Stuart Attwell,2023-05-25 20:00:00,0.2105263157894736,0.5789473684210527,1,1
+Fulham,Manchester United,Away,L,0.4,0.4,0.2,0.6,0.4,0.0,4-2-3-1,4-2-3-1,Matchweek 38,73465.0,Robert Jones,2023-05-28 16:30:00,0.0,0.2857142857142857,1,1
