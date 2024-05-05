@@ -1,0 +1,1 @@
+{"LR": {"solver": "saga", "penalty": "l1", "class_weight": null, "C": 0.23357214690901212}, "KNN": {"weights": "uniform", "n_neighbors": 11, "metric": "manhattan"}, "DTC": {"min_samples_split": 2, "min_samples_leaf": 1, "max_depth": 30, "class_weight": "balanced"}}
