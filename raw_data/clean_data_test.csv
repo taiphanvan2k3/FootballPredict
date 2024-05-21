@@ -1,761 +1,761 @@
-date,time,round,venue,result,gf,ga,opponent,poss,attendance,formation,referee,season,team
-2023-08-11,20:00,Matchweek 1,Away,W,3,0,Burnley,65.0,21572.0,4-2-3-1,Craig Pawson,2023-2024,Manchester City
-2023-08-19,20:00,Matchweek 2,Home,W,1,0,Newcastle United,59.0,53419.0,4-2-3-1,Robert Jones,2023-2024,Manchester City
-2023-08-27,14:00,Matchweek 3,Away,W,2,1,Sheffield United,79.0,31336.0,4-2-3-1,Jarred Gillett,2023-2024,Manchester City
-2023-09-02,15:00,Matchweek 4,Home,W,5,1,Fulham,68.0,52899.0,4-2-3-1,Michael Oliver,2023-2024,Manchester City
-2023-09-16,15:00,Matchweek 5,Away,W,3,1,West Ham United,68.0,62475.0,4-2-3-1,Andy Madley,2023-2024,Manchester City
-2023-09-23,15:00,Matchweek 6,Home,W,2,0,Nottingham Forest,57.0,53413.0,4-2-3-1,Anthony Taylor,2023-2024,Manchester City
-2023-09-30,15:00,Matchweek 7,Away,L,1,2,Wolverhampton Wanderers,68.0,31415.0,4-2-3-1,Craig Pawson,2023-2024,Manchester City
-2023-10-08,16:30,Matchweek 8,Away,L,0,1,Arsenal,51.0,60233.0,4-3-3,Michael Oliver,2023-2024,Manchester City
-2023-10-21,15:00,Matchweek 9,Home,W,2,1,Brighton and Hove Albion,55.0,53466.0,3-2-4-1,Robert Jones,2023-2024,Manchester City
-2023-10-29,15:30,Matchweek 10,Away,W,3,0,Manchester United,60.0,73502.0,4-2-3-1,Paul Tierney,2023-2024,Manchester City
-2023-11-04,15:00,Matchweek 11,Home,W,6,1,Bournemouth,65.0,53358.0,3-4-3,Craig Pawson,2023-2024,Manchester City
-2023-11-12,16:30,Matchweek 12,Away,D,4,4,Chelsea,55.0,39532.0,3-2-4-1,Anthony Taylor,2023-2024,Manchester City
-2023-11-25,12:30,Matchweek 13,Home,D,1,1,Liverpool,59.0,53289.0,3-2-4-1,Chris Kavanagh,2023-2024,Manchester City
-2023-12-03,16:30,Matchweek 14,Home,D,3,3,Tottenham Hotspur,55.0,53473.0,3-2-4-1,Simon Hooper,2023-2024,Manchester City
-2023-12-06,20:15,Matchweek 15,Away,L,0,1,Aston Villa,54.0,41421.0,3-2-4-1,John Brooks,2023-2024,Manchester City
-2023-12-10,14:00,Matchweek 16,Away,W,2,1,Luton Town,65.0,11047.0,4-2-3-1,Tim Robinson,2023-2024,Manchester City
-2023-12-16,15:00,Matchweek 17,Home,D,2,2,Crystal Palace,74.0,53248.0,4-2-3-1,Paul Tierney,2023-2024,Manchester City
-2023-12-27,20:15,Matchweek 19,Away,W,3,1,Everton,72.0,39327.0,4-2-3-1,John Brooks,2023-2024,Manchester City
-2023-12-30,15:00,Matchweek 20,Home,W,2,0,Sheffield United,80.0,53108.0,4-2-3-1,David Coote,2023-2024,Manchester City
-2024-01-13,17:30,Matchweek 21,Away,W,3,2,Newcastle United,72.0,52190.0,4-2-3-1,Chris Kavanagh,2023-2024,Manchester City
-2024-01-31,19:30,Matchweek 22,Home,W,3,1,Burnley,74.0,52143.0,4-2-3-1,Samuel Barrott,2023-2024,Manchester City
-2024-02-05,20:00,Matchweek 23,Away,W,3,1,Brentford,72.0,17096.0,4-1-4-1,Jarred Gillett,2023-2024,Manchester City
-2024-02-10,12:30,Matchweek 24,Home,W,2,0,Everton,72.0,52187.0,4-1-4-1,John Brooks,2023-2024,Manchester City
-2024-02-17,17:30,Matchweek 25,Home,D,1,1,Chelsea,70.0,52178.0,4-1-4-1,Andy Madley,2023-2024,Manchester City
-2024-02-20,19:30,Matchweek 18,Home,W,1,0,Brentford,70.0,52247.0,4-2-3-1,Darren England,2023-2024,Manchester City
-2024-02-24,17:30,Matchweek 26,Away,W,1,0,Bournemouth,62.0,11184.0,3-2-4-1,Jarred Gillett,2023-2024,Manchester City
-2024-03-03,15:30,Matchweek 27,Home,W,3,1,Manchester United,73.0,53514.0,3-2-4-1,Andy Madley,2023-2024,Manchester City
-2024-03-10,15:45,Matchweek 28,Away,D,1,1,Liverpool,47.0,59947.0,3-2-4-1,Michael Oliver,2023-2024,Manchester City
-2024-03-31,16:30,Matchweek 30,Home,D,0,0,Arsenal,72.0,52178.0,4-1-4-1,Anthony Taylor,2023-2024,Manchester City
-2024-04-03,20:15,Matchweek 31,Home,W,4,1,Aston Villa,67.0,53422.0,4-2-3-1,Darren England,2023-2024,Manchester City
-2024-04-06,12:30,Matchweek 32,Away,W,4,2,Crystal Palace,75.0,25132.0,3-2-4-1,Paul Tierney,2023-2024,Manchester City
-2024-04-13,15:00,Matchweek 33,Home,W,5,1,Luton Town,73.0,52149.0,4-2-3-1,John Brooks,2023-2024,Manchester City
-2024-04-25,20:00,Matchweek 29,Away,W,4,0,Brighton and Hove Albion,65.0,31596.0,4-1-4-1,Jarred Gillett,2023-2024,Manchester City
-2024-04-28,16:30,Matchweek 35,Away,W,2,0,Nottingham Forest,66.0,29677.0,4-1-4-1,Simon Hooper,2023-2024,Manchester City
-2024-05-04,17:30,Matchweek 36,Home,W,5,1,Wolverhampton Wanderers,58.0,52439.0,4-2-3-1,Craig Pawson,2023-2024,Manchester City
-2024-05-11,12:30,Matchweek 37,Away,W,4,0,Fulham,64.0,24418.0,4-2-3-1,Anthony Taylor,2023-2024,Manchester City
-2024-05-14,20:00,Matchweek 34,Away,W,2,0,Tottenham Hotspur,47.0,61065.0,4-2-3-1,Chris Kavanagh,2023-2024,Manchester City
-2024-05-19,16:00,Matchweek 38,Home,W,3,1,West Ham United,71.0,62475.0,4-1-4-1,John Brooks,2023-2024,Manchester City
-2023-08-12,12:30,Matchweek 1,Home,W,2,1,Nottingham Forest,78.0,59984.0,4-3-3,Michael Oliver,2023-2024,Arsenal
-2023-08-21,20:00,Matchweek 2,Away,W,1,0,Crystal Palace,53.0,24189.0,4-3-3,David Coote,2023-2024,Arsenal
-2023-08-26,15:00,Matchweek 3,Home,D,2,2,Fulham,71.0,59961.0,4-3-3,Paul Tierney,2023-2024,Arsenal
-2023-09-03,16:30,Matchweek 4,Home,W,3,1,Manchester United,55.0,60192.0,4-3-3,Anthony Taylor,2023-2024,Arsenal
-2023-09-17,16:30,Matchweek 5,Away,W,1,0,Everton,74.0,39217.0,4-3-3,Simon Hooper,2023-2024,Arsenal
-2023-09-24,14:00,Matchweek 6,Home,D,2,2,Tottenham Hotspur,47.0,60156.0,4-3-3,Robert Jones,2023-2024,Arsenal
-2023-09-30,15:00,Matchweek 7,Away,W,4,0,Bournemouth,57.0,11193.0,4-3-3,Michael Salisbury,2023-2024,Arsenal
-2023-10-08,16:30,Matchweek 8,Home,W,1,0,Manchester City,49.0,60233.0,4-3-3,Michael Oliver,2023-2024,Arsenal
-2023-10-21,17:30,Matchweek 9,Away,D,2,2,Chelsea,56.0,39723.0,4-3-3,Chris Kavanagh,2023-2024,Arsenal
-2023-10-28,15:00,Matchweek 10,Home,W,5,0,Sheffield United,67.0,60153.0,4-3-3,Tim Robinson,2023-2024,Arsenal
-2023-11-04,17:30,Matchweek 11,Away,L,0,1,Newcastle United,58.0,52194.0,4-3-3,Stuart Attwell,2023-2024,Arsenal
-2023-11-11,15:00,Matchweek 12,Home,W,3,1,Burnley,63.0,60232.0,4-3-3,Michael Oliver,2023-2024,Arsenal
-2023-11-25,17:30,Matchweek 13,Away,W,1,0,Brentford,63.0,17201.0,4-3-3,Tim Robinson,2023-2024,Arsenal
-2023-12-02,15:00,Matchweek 14,Home,W,2,1,Wolverhampton Wanderers,57.0,60262.0,4-3-3,Peter Bankes,2023-2024,Arsenal
-2023-12-05,20:15,Matchweek 15,Away,W,4,3,Luton Town,66.0,11031.0,4-3-3,Samuel Barrott,2023-2024,Arsenal
-2023-12-09,17:30,Matchweek 16,Away,L,0,1,Aston Villa,61.0,42000.0,4-3-3,Jarred Gillett,2023-2024,Arsenal
-2023-12-17,14:00,Matchweek 17,Home,W,2,0,Brighton and Hove Albion,49.0,60257.0,4-3-3,Tim Robinson,2023-2024,Arsenal
-2023-12-23,17:30,Matchweek 18,Away,D,1,1,Liverpool,48.0,57548.0,4-3-3,Chris Kavanagh,2023-2024,Arsenal
-2023-12-28,20:15,Matchweek 19,Home,L,0,2,West Ham United,73.0,60261.0,4-3-3,Michael Oliver,2023-2024,Arsenal
-2023-12-31,14:00,Matchweek 20,Away,L,1,2,Fulham,60.0,24444.0,4-3-3,Joshua Smith,2023-2024,Arsenal
-2024-01-20,12:30,Matchweek 21,Home,W,5,0,Crystal Palace,60.0,60284.0,4-3-3,Paul Tierney,2023-2024,Arsenal
-2024-01-30,19:30,Matchweek 22,Away,W,2,1,Nottingham Forest,73.0,29387.0,4-3-3,Simon Hooper,2023-2024,Arsenal
-2024-02-04,16:30,Matchweek 23,Home,W,3,1,Liverpool,43.0,60374.0,4-3-3,Anthony Taylor,2023-2024,Arsenal
-2024-02-11,14:00,Matchweek 24,Away,W,6,0,West Ham United,70.0,62475.0,4-3-3,Craig Pawson,2023-2024,Arsenal
-2024-02-17,15:00,Matchweek 25,Away,W,5,0,Burnley,64.0,21311.0,4-3-3,Jarred Gillett,2023-2024,Arsenal
-2024-02-24,20:00,Matchweek 26,Home,W,4,1,Newcastle United,55.0,60298.0,4-3-3,Paul Tierney,2023-2024,Arsenal
-2024-03-04,20:00,Matchweek 27,Away,W,6,0,Sheffield United,80.0,29157.0,4-3-3,Samuel Barrott,2023-2024,Arsenal
-2024-03-09,17:30,Matchweek 28,Home,W,2,1,Brentford,71.0,60331.0,4-3-3,Robert Jones,2023-2024,Arsenal
-2024-03-31,16:30,Matchweek 30,Away,D,0,0,Manchester City,28.0,52178.0,4-3-3,Anthony Taylor,2023-2024,Arsenal
-2024-04-03,19:30,Matchweek 31,Home,W,2,0,Luton Town,58.0,60262.0,4-3-3,Craig Pawson,2023-2024,Arsenal
-2024-04-06,17:30,Matchweek 32,Away,W,3,0,Brighton and Hove Albion,46.0,31677.0,4-3-3,John Brooks,2023-2024,Arsenal
-2024-04-14,16:30,Matchweek 33,Home,L,0,2,Aston Villa,52.0,60350.0,4-3-3,David Coote,2023-2024,Arsenal
-2024-04-20,19:30,Matchweek 34,Away,W,2,0,Wolverhampton Wanderers,54.0,31621.0,4-3-3,Paul Tierney,2023-2024,Arsenal
-2024-04-23,20:00,Matchweek 29,Home,W,5,0,Chelsea,45.0,60238.0,4-3-3,Simon Hooper,2023-2024,Arsenal
-2024-04-28,14:00,Matchweek 35,Away,W,3,2,Tottenham Hotspur,38.0,61554.0,4-3-3,Michael Oliver,2023-2024,Arsenal
-2024-05-04,12:30,Matchweek 36,Home,W,3,0,Bournemouth,55.0,60348.0,4-3-3,David Coote,2023-2024,Arsenal
-2024-05-12,16:30,Matchweek 37,Away,W,1,0,Manchester United,46.0,73600.0,4-3-3,Paul Tierney,2023-2024,Arsenal
-2024-05-19,16:00,Matchweek 38,Home,W,2,1,Everton,68.0,60312.0,4-3-3,Michael Oliver,2023-2024,Arsenal
-2023-08-13,16:30,Matchweek 1,Away,D,1,1,Chelsea,35.0,40096.0,4-3-3,Anthony Taylor,2023-2024,Liverpool
-2023-08-19,15:00,Matchweek 2,Home,W,3,1,Bournemouth,64.0,53145.0,4-3-3,Thomas Bramall,2023-2024,Liverpool
-2023-08-27,16:30,Matchweek 3,Away,W,2,1,Newcastle United,41.0,52214.0,4-3-3,John Brooks,2023-2024,Liverpool
-2023-09-03,14:00,Matchweek 4,Home,W,3,0,Aston Villa,63.0,50109.0,4-3-3,Simon Hooper,2023-2024,Liverpool
-2023-09-16,12:30,Matchweek 5,Away,W,3,1,Wolverhampton Wanderers,65.0,31257.0,4-3-3,Michael Oliver,2023-2024,Liverpool
-2023-09-24,14:00,Matchweek 6,Home,W,3,1,West Ham United,63.0,50136.0,4-3-3,Chris Kavanagh,2023-2024,Liverpool
-2023-09-30,17:30,Matchweek 7,Away,L,1,2,Tottenham Hotspur,36.0,62001.0,4-3-3,Simon Hooper,2023-2024,Liverpool
-2023-10-08,14:00,Matchweek 8,Away,D,2,2,Brighton and Hove Albion,54.0,31752.0,4-3-3,Anthony Taylor,2023-2024,Liverpool
-2023-10-21,12:30,Matchweek 9,Home,W,2,0,Everton,77.0,50201.0,4-3-3,Craig Pawson,2023-2024,Liverpool
-2023-10-29,14:00,Matchweek 10,Home,W,3,0,Nottingham Forest,72.0,50143.0,4-3-3,Chris Kavanagh,2023-2024,Liverpool
-2023-11-05,16:30,Matchweek 11,Away,D,1,1,Luton Town,73.0,11049.0,4-3-3,Andy Madley,2023-2024,Liverpool
-2023-11-12,14:00,Matchweek 12,Home,W,3,0,Brentford,58.0,50151.0,4-3-3,Paul Tierney,2023-2024,Liverpool
-2023-11-25,12:30,Matchweek 13,Away,D,1,1,Manchester City,41.0,53289.0,4-3-3,Chris Kavanagh,2023-2024,Liverpool
-2023-12-03,14:00,Matchweek 14,Home,W,4,3,Fulham,61.0,50124.0,4-3-3,Stuart Attwell,2023-2024,Liverpool
-2023-12-06,19:30,Matchweek 15,Away,W,2,0,Sheffield United,75.0,31406.0,4-3-3,Simon Hooper,2023-2024,Liverpool
-2023-12-09,12:30,Matchweek 16,Away,W,2,1,Crystal Palace,76.0,25103.0,4-3-3,Andy Madley,2023-2024,Liverpool
-2023-12-17,16:30,Matchweek 17,Home,D,0,0,Manchester United,68.0,57158.0,4-3-3,Michael Oliver,2023-2024,Liverpool
-2023-12-23,17:30,Matchweek 18,Home,D,1,1,Arsenal,52.0,57548.0,4-3-3,Chris Kavanagh,2023-2024,Liverpool
-2023-12-26,17:30,Matchweek 19,Away,W,2,0,Burnley,68.0,21624.0,4-3-3,Paul Tierney,2023-2024,Liverpool
-2024-01-01,20:00,Matchweek 20,Home,W,4,2,Newcastle United,61.0,57471.0,4-3-3,Anthony Taylor,2023-2024,Liverpool
-2024-01-21,16:30,Matchweek 21,Away,W,4,0,Bournemouth,60.0,11228.0,4-3-3,Andy Madley,2023-2024,Liverpool
-2024-01-31,20:15,Matchweek 22,Home,W,4,1,Chelsea,50.0,57524.0,4-3-3,Paul Tierney,2023-2024,Liverpool
-2024-02-04,16:30,Matchweek 23,Away,L,1,3,Arsenal,57.0,60374.0,4-3-3,Anthony Taylor,2023-2024,Liverpool
-2024-02-10,15:00,Matchweek 24,Home,W,3,1,Burnley,70.0,59896.0,4-3-3,Tim Robinson,2023-2024,Liverpool
-2024-02-17,12:30,Matchweek 25,Away,W,4,1,Brentford,62.0,17193.0,4-3-3,Michael Oliver,2023-2024,Liverpool
-2024-02-21,19:30,Matchweek 26,Home,W,4,1,Luton Town,60.0,59713.0,4-3-3,Andy Madley,2023-2024,Liverpool
-2024-03-02,15:00,Matchweek 27,Away,W,1,0,Nottingham Forest,69.0,29603.0,4-3-3,Paul Tierney,2023-2024,Liverpool
-2024-03-10,15:45,Matchweek 28,Home,D,1,1,Manchester City,53.0,59947.0,4-3-3,Michael Oliver,2023-2024,Liverpool
-2024-03-31,14:00,Matchweek 30,Home,W,2,1,Brighton and Hove Albion,55.0,60061.0,4-3-3,David Coote,2023-2024,Liverpool
-2024-04-04,19:30,Matchweek 31,Home,W,3,1,Sheffield United,82.0,60055.0,4-3-3,Stuart Attwell,2023-2024,Liverpool
-2024-04-07,15:30,Matchweek 32,Away,D,2,2,Manchester United,62.0,73501.0,4-3-3,Anthony Taylor,2023-2024,Liverpool
-2024-04-14,14:00,Matchweek 33,Home,L,0,1,Crystal Palace,69.0,60090.0,4-3-3,Chris Kavanagh,2023-2024,Liverpool
-2024-04-21,16:30,Matchweek 34,Away,W,3,1,Fulham,60.0,24414.0,4-3-3,Craig Pawson,2023-2024,Liverpool
-2024-04-24,20:00,Matchweek 29,Away,L,0,2,Everton,75.0,38222.0,4-3-3,Andy Madley,2023-2024,Liverpool
-2024-04-27,12:30,Matchweek 35,Away,D,2,2,West Ham United,71.0,62474.0,4-3-3,Anthony Taylor,2023-2024,Liverpool
-2024-05-05,16:30,Matchweek 36,Home,W,4,2,Tottenham Hotspur,44.0,60075.0,4-3-3,Paul Tierney,2023-2024,Liverpool
-2024-05-13,20:00,Matchweek 37,Away,D,3,3,Aston Villa,59.0,42241.0,4-3-3,Simon Hooper,2023-2024,Liverpool
-2024-05-19,16:00,Matchweek 38,Home,W,2,0,Wolverhampton Wanderers,67.0,31257.0,4-3-3,Chris Kavanagh,2023-2024,Liverpool
-2023-08-12,17:30,Matchweek 1,Away,L,1,5,Newcastle United,48.0,52207.0,4-2-3-1,Andy Madley,2023-2024,Aston Villa
-2023-08-20,14:00,Matchweek 2,Home,W,4,0,Everton,60.0,41694.0,4-2-3-1,Anthony Taylor,2023-2024,Aston Villa
-2023-08-27,14:00,Matchweek 3,Away,W,3,1,Burnley,43.0,21591.0,3-4-3,Michael Salisbury,2023-2024,Aston Villa
-2023-09-03,14:00,Matchweek 4,Away,L,0,3,Liverpool,37.0,50109.0,4-4-2,Simon Hooper,2023-2024,Aston Villa
-2023-09-16,15:00,Matchweek 5,Home,W,3,1,Crystal Palace,66.0,40809.0,4-2-3-1,Darren England,2023-2024,Aston Villa
-2023-09-24,14:00,Matchweek 6,Away,W,1,0,Chelsea,47.0,39700.0,4-2-3-1,Jarred Gillett,2023-2024,Aston Villa
-2023-09-30,12:30,Matchweek 7,Home,W,6,1,Brighton and Hove Albion,39.0,40636.0,4-2-3-1,Andy Madley,2023-2024,Aston Villa
-2023-10-08,14:00,Matchweek 8,Away,D,1,1,Wolverhampton Wanderers,53.0,31425.0,4-4-2,Robert Jones,2023-2024,Aston Villa
-2023-10-22,16:30,Matchweek 9,Home,W,4,1,West Ham United,58.0,41734.0,4-4-2,David Coote,2023-2024,Aston Villa
-2023-10-29,14:00,Matchweek 10,Home,W,3,1,Luton Town,70.0,41785.0,4-4-2,John Brooks,2023-2024,Aston Villa
-2023-11-05,14:00,Matchweek 11,Away,L,0,2,Nottingham Forest,73.0,29313.0,4-4-2,Jarred Gillett,2023-2024,Aston Villa
-2023-11-12,14:00,Matchweek 12,Home,W,3,1,Fulham,51.0,41608.0,4-2-2-2,Simon Hooper,2023-2024,Aston Villa
-2023-11-26,14:00,Matchweek 13,Away,W,2,1,Tottenham Hotspur,38.0,61679.0,4-4-2,Robert Jones,2023-2024,Aston Villa
-2023-12-03,14:00,Matchweek 14,Away,D,2,2,Bournemouth,62.0,11191.0,4-4-2,Thomas Bramall,2023-2024,Aston Villa
-2023-12-06,20:15,Matchweek 15,Home,W,1,0,Manchester City,46.0,41421.0,4-4-1-1,John Brooks,2023-2024,Aston Villa
-2023-12-09,17:30,Matchweek 16,Home,W,1,0,Arsenal,39.0,42000.0,4-4-1-1,Jarred Gillett,2023-2024,Aston Villa
-2023-12-17,14:00,Matchweek 17,Away,W,2,1,Brentford,66.0,17034.0,3-5-2,David Coote,2023-2024,Aston Villa
-2023-12-22,20:00,Matchweek 18,Home,D,1,1,Sheffield United,77.0,41651.0,4-4-1-1,Anthony Taylor,2023-2024,Aston Villa
-2023-12-26,20:00,Matchweek 19,Away,L,2,3,Manchester United,54.0,73574.0,4-2-3-1,Craig Pawson,2023-2024,Aston Villa
-2023-12-30,15:00,Matchweek 20,Home,W,3,2,Burnley,64.0,41613.0,4-4-1-1,Stuart Attwell,2023-2024,Aston Villa
-2024-01-14,14:00,Matchweek 21,Away,D,0,0,Everton,68.0,39284.0,4-4-2,David Coote,2023-2024,Aston Villa
-2024-01-30,20:15,Matchweek 22,Home,L,1,3,Newcastle United,61.0,42191.0,4-4-2,John Brooks,2023-2024,Aston Villa
-2024-02-03,17:30,Matchweek 23,Away,W,5,0,Sheffield United,63.0,30187.0,4-2-3-1,Paul Tierney,2023-2024,Aston Villa
-2024-02-11,16:30,Matchweek 24,Home,L,1,2,Manchester United,56.0,42185.0,4-2-3-1,Robert Jones,2023-2024,Aston Villa
-2024-02-17,15:00,Matchweek 25,Away,W,2,1,Fulham,48.0,24401.0,4-2-3-1,Lewis Smith,2023-2024,Aston Villa
-2024-02-24,15:00,Matchweek 26,Home,W,4,2,Nottingham Forest,58.0,42131.0,4-2-3-1,Samuel Barrott,2023-2024,Aston Villa
-2024-03-02,17:30,Matchweek 27,Away,W,3,2,Luton Town,54.0,11594.0,4-2-3-1,Michael Oliver,2023-2024,Aston Villa
-2024-03-10,13:00,Matchweek 28,Home,L,0,4,Tottenham Hotspur,32.0,42310.0,5-3-2,Chris Kavanagh,2023-2024,Aston Villa
-2024-03-17,14:00,Matchweek 29,Away,D,1,1,West Ham United,69.0,62461.0,4-4-2,Jarred Gillett,2023-2024,Aston Villa
-2024-03-30,17:30,Matchweek 30,Home,W,2,0,Wolverhampton Wanderers,48.0,42640.0,4-4-2,Paul Tierney,2023-2024,Aston Villa
-2024-04-03,20:15,Matchweek 31,Away,L,1,4,Manchester City,33.0,53422.0,4-2-3-1,Darren England,2023-2024,Aston Villa
-2024-04-06,15:00,Matchweek 32,Home,D,3,3,Brentford,69.0,42118.0,4-4-1-1,Michael Salisbury,2023-2024,Aston Villa
-2024-04-14,16:30,Matchweek 33,Away,W,2,0,Arsenal,48.0,60350.0,4-2-3-1,David Coote,2023-2024,Aston Villa
-2024-04-21,15:00,Matchweek 34,Home,W,3,1,Bournemouth,56.0,42189.0,4-2-3-1,Tim Robinson,2023-2024,Aston Villa
-2024-04-27,20:00,Matchweek 35,Home,D,2,2,Chelsea,29.0,42354.0,4-4-1-1,Craig Pawson,2023-2024,Aston Villa
-2024-05-05,14:00,Matchweek 36,Away,L,0,1,Brighton and Hove Albion,48.0,31596.0,4-2-3-1,Robert Jones,2023-2024,Aston Villa
-2024-05-13,20:00,Matchweek 37,Home,D,3,3,Liverpool,41.0,42241.0,4-2-3-1,Simon Hooper,2023-2024,Aston Villa
-2024-05-19,16:00,Matchweek 38,Away,L,0,5,Crystal Palace,46.0,25191.0,4-4-2,Darren Bond,2023-2024,Aston Villa
-2023-08-13,14:00,Matchweek 1,Away,D,2,2,Brentford,69.0,17066.0,4-2-3-1,Robert Jones,2023-2024,Tottenham Hotspur
-2023-08-19,17:30,Matchweek 2,Home,W,2,0,Manchester United,55.0,61910.0,4-2-3-1,Michael Oliver,2023-2024,Tottenham Hotspur
-2023-08-26,12:30,Matchweek 3,Away,W,2,0,Bournemouth,56.0,10567.0,4-2-3-1,Tim Robinson,2023-2024,Tottenham Hotspur
-2023-09-02,15:00,Matchweek 4,Away,W,5,2,Burnley,53.0,21750.0,4-2-3-1,Darren England,2023-2024,Tottenham Hotspur
-2023-09-16,15:00,Matchweek 5,Home,W,2,1,Sheffield United,70.0,61706.0,4-2-3-1,Peter Bankes,2023-2024,Tottenham Hotspur
-2023-09-24,14:00,Matchweek 6,Away,D,2,2,Arsenal,53.0,60156.0,4-2-3-1,Robert Jones,2023-2024,Tottenham Hotspur
-2023-09-30,17:30,Matchweek 7,Home,W,2,1,Liverpool,64.0,62001.0,4-2-3-1,Simon Hooper,2023-2024,Tottenham Hotspur
-2023-10-07,12:30,Matchweek 8,Away,W,1,0,Luton Town,66.0,10290.0,4-2-3-1,John Brooks,2023-2024,Tottenham Hotspur
-2023-10-23,20:00,Matchweek 9,Home,W,2,0,Fulham,55.0,61286.0,4-2-3-1,Anthony Taylor,2023-2024,Tottenham Hotspur
-2023-10-27,20:00,Matchweek 10,Away,W,2,1,Crystal Palace,75.0,25074.0,4-2-3-1,Andy Madley,2023-2024,Tottenham Hotspur
-2023-11-06,20:00,Matchweek 11,Home,L,1,4,Chelsea,40.0,61726.0,4-2-3-1,Michael Oliver,2023-2024,Tottenham Hotspur
-2023-11-11,12:30,Matchweek 12,Away,L,1,2,Wolverhampton Wanderers,58.0,31642.0,4-3-3,Tim Robinson,2023-2024,Tottenham Hotspur
-2023-11-26,14:00,Matchweek 13,Home,L,1,2,Aston Villa,62.0,61679.0,4-2-3-1,Robert Jones,2023-2024,Tottenham Hotspur
-2023-12-03,16:30,Matchweek 14,Away,D,3,3,Manchester City,45.0,53473.0,4-2-3-1,Simon Hooper,2023-2024,Tottenham Hotspur
-2023-12-07,20:15,Matchweek 15,Home,L,1,2,West Ham United,74.0,61171.0,4-2-3-1,Michael Salisbury,2023-2024,Tottenham Hotspur
-2023-12-10,16:30,Matchweek 16,Home,W,4,1,Newcastle United,56.0,61171.0,4-2-3-1,Chris Kavanagh,2023-2024,Tottenham Hotspur
-2023-12-15,20:00,Matchweek 17,Away,W,2,0,Nottingham Forest,66.0,29296.0,4-2-3-1,Jarred Gillett,2023-2024,Tottenham Hotspur
-2023-12-23,15:00,Matchweek 18,Home,W,2,1,Everton,61.0,61808.0,4-2-3-1,Stuart Attwell,2023-2024,Tottenham Hotspur
-2023-12-28,19:30,Matchweek 19,Away,L,2,4,Brighton and Hove Albion,55.0,31675.0,4-2-3-1,Jarred Gillett,2023-2024,Tottenham Hotspur
-2023-12-31,14:00,Matchweek 20,Home,W,3,1,Bournemouth,50.0,61780.0,4-3-3,Simon Hooper,2023-2024,Tottenham Hotspur
-2024-01-14,16:30,Matchweek 21,Away,D,2,2,Manchester United,63.0,73489.0,4-3-3,John Brooks,2023-2024,Tottenham Hotspur
-2024-01-31,19:30,Matchweek 22,Home,W,3,2,Brentford,67.0,61210.0,4-2-3-1,David Coote,2023-2024,Tottenham Hotspur
-2024-02-03,12:30,Matchweek 23,Away,D,2,2,Everton,57.0,39321.0,4-2-3-1,Michael Oliver,2023-2024,Tottenham Hotspur
-2024-02-10,15:00,Matchweek 24,Home,W,2,1,Brighton and Hove Albion,52.0,61445.0,4-2-3-1,Samuel Barrott,2023-2024,Tottenham Hotspur
-2024-02-17,15:00,Matchweek 25,Home,L,1,2,Wolverhampton Wanderers,71.0,61532.0,4-2-3-1,Anthony Taylor,2023-2024,Tottenham Hotspur
-2024-03-02,15:00,Matchweek 27,Home,W,3,1,Crystal Palace,78.0,61339.0,4-2-3-1,John Brooks,2023-2024,Tottenham Hotspur
-2024-03-10,13:00,Matchweek 28,Away,W,4,0,Aston Villa,68.0,42310.0,4-2-3-1,Chris Kavanagh,2023-2024,Tottenham Hotspur
-2024-03-16,17:30,Matchweek 29,Away,L,0,3,Fulham,57.0,24410.0,4-2-3-1,Robert Jones,2023-2024,Tottenham Hotspur
-2024-03-30,15:00,Matchweek 30,Home,W,2,1,Luton Town,70.0,61534.0,4-2-3-1,Jarred Gillett,2023-2024,Tottenham Hotspur
-2024-04-02,20:15,Matchweek 31,Away,D,1,1,West Ham United,67.0,62469.0,4-2-3-1,John Brooks,2023-2024,Tottenham Hotspur
-2024-04-07,18:00,Matchweek 32,Home,W,3,1,Nottingham Forest,63.0,61098.0,4-2-3-1,Simon Hooper,2023-2024,Tottenham Hotspur
-2024-04-13,12:30,Matchweek 33,Away,L,0,4,Newcastle United,72.0,52147.0,4-2-3-1,Tim Robinson,2023-2024,Tottenham Hotspur
-2024-04-28,14:00,Matchweek 35,Home,L,2,3,Arsenal,62.0,61554.0,4-2-3-1,Michael Oliver,2023-2024,Tottenham Hotspur
-2024-05-02,19:30,Matchweek 26,Away,L,0,2,Chelsea,63.0,39086.0,4-2-3-1,Robert Jones,2023-2024,Tottenham Hotspur
-2024-05-05,16:30,Matchweek 36,Away,L,2,4,Liverpool,56.0,60075.0,4-3-3,Paul Tierney,2023-2024,Tottenham Hotspur
-2024-05-11,15:00,Matchweek 37,Home,W,2,1,Burnley,63.0,61148.0,4-3-3,Jarred Gillett,2023-2024,Tottenham Hotspur
-2024-05-14,20:00,Matchweek 34,Home,L,0,2,Manchester City,53.0,61065.0,4-3-1-2,Chris Kavanagh,2023-2024,Tottenham Hotspur
-2024-05-19,16:00,Matchweek 38,Away,W,3,0,Sheffield United,75.0,29116.0,4-2-3-1,Andy Madley,2023-2024,Tottenham Hotspur
-2023-08-13,16:30,Matchweek 1,Home,D,1,1,Liverpool,65.0,40096.0,3-4-3,Anthony Taylor,2023-2024,Chelsea
-2023-08-20,16:30,Matchweek 2,Away,L,1,3,West Ham United,75.0,62451.0,3-4-3,John Brooks,2023-2024,Chelsea
-2023-08-25,20:00,Matchweek 3,Home,W,3,0,Luton Town,67.0,39893.0,3-4-3,Robert Jones,2023-2024,Chelsea
-2023-09-02,15:00,Matchweek 4,Home,L,0,1,Nottingham Forest,75.0,39820.0,3-4-3,Tim Robinson,2023-2024,Chelsea
-2023-09-17,14:00,Matchweek 5,Away,D,0,0,Bournemouth,64.0,10421.0,4-2-3-1,David Coote,2023-2024,Chelsea
-2023-09-24,14:00,Matchweek 6,Home,L,0,1,Aston Villa,53.0,39700.0,4-2-3-1,Jarred Gillett,2023-2024,Chelsea
-2023-10-02,20:00,Matchweek 7,Away,W,2,0,Fulham,44.0,24445.0,4-3-3,Tim Robinson,2023-2024,Chelsea
-2023-10-07,15:00,Matchweek 8,Away,W,4,1,Burnley,62.0,21654.0,4-3-3,Stuart Attwell,2023-2024,Chelsea
-2023-10-21,17:30,Matchweek 9,Home,D,2,2,Arsenal,44.0,39723.0,4-2-3-1,Chris Kavanagh,2023-2024,Chelsea
-2023-10-28,12:30,Matchweek 10,Home,L,0,2,Brentford,68.0,39575.0,4-2-3-1,Simon Hooper,2023-2024,Chelsea
-2023-11-06,20:00,Matchweek 11,Away,W,4,1,Tottenham Hotspur,60.0,61726.0,4-2-3-1,Michael Oliver,2023-2024,Chelsea
-2023-11-12,16:30,Matchweek 12,Home,D,4,4,Manchester City,45.0,39532.0,4-2-3-1,Anthony Taylor,2023-2024,Chelsea
-2023-11-25,15:00,Matchweek 13,Away,L,1,4,Newcastle United,46.0,52227.0,4-2-3-1,Simon Hooper,2023-2024,Chelsea
-2023-12-03,14:00,Matchweek 14,Home,W,3,2,Brighton and Hove Albion,32.0,39647.0,4-2-3-1,Craig Pawson,2023-2024,Chelsea
-2023-12-06,20:15,Matchweek 15,Away,L,1,2,Manchester United,55.0,73607.0,4-2-3-1,Chris Kavanagh,2023-2024,Chelsea
-2023-12-10,14:00,Matchweek 16,Away,L,0,2,Everton,71.0,39280.0,4-2-3-1,Michael Oliver,2023-2024,Chelsea
-2023-12-16,15:00,Matchweek 17,Home,W,2,0,Sheffield United,78.0,39599.0,4-2-3-1,Andy Madley,2023-2024,Chelsea
-2023-12-24,13:00,Matchweek 18,Away,L,1,2,Wolverhampton Wanderers,68.0,31641.0,4-2-3-1,David Coote,2023-2024,Chelsea
-2023-12-27,19:30,Matchweek 19,Home,W,2,1,Crystal Palace,63.0,39618.0,4-2-3-1,Michael Salisbury,2023-2024,Chelsea
-2023-12-30,12:30,Matchweek 20,Away,W,3,2,Luton Town,48.0,11041.0,4-2-3-1,Paul Tierney,2023-2024,Chelsea
-2024-01-13,12:30,Matchweek 21,Home,W,1,0,Fulham,55.0,39643.0,4-2-3-1,Anthony Taylor,2023-2024,Chelsea
-2024-01-31,20:15,Matchweek 22,Away,L,1,4,Liverpool,50.0,57524.0,4-2-3-1,Paul Tierney,2023-2024,Chelsea
-2024-02-04,14:00,Matchweek 23,Home,L,2,4,Wolverhampton Wanderers,64.0,39628.0,4-2-3-1,Tim Robinson,2023-2024,Chelsea
-2024-02-12,20:00,Matchweek 24,Away,W,3,1,Crystal Palace,77.0,25110.0,4-2-3-1,Michael Oliver,2023-2024,Chelsea
-2024-02-17,17:30,Matchweek 25,Away,D,1,1,Manchester City,30.0,52178.0,4-2-3-1,Andy Madley,2023-2024,Chelsea
-2024-03-02,15:00,Matchweek 27,Away,D,2,2,Brentford,67.0,17140.0,3-5-2,Jarred Gillett,2023-2024,Chelsea
-2024-03-11,20:00,Matchweek 28,Home,W,3,2,Newcastle United,44.0,37753.0,4-2-3-1,John Brooks,2023-2024,Chelsea
-2024-03-30,15:00,Matchweek 30,Home,D,2,2,Burnley,69.0,39535.0,4-2-3-1,Darren England,2023-2024,Chelsea
-2024-04-04,20:15,Matchweek 31,Home,W,4,3,Manchester United,57.0,39694.0,4-2-3-1,Jarred Gillett,2023-2024,Chelsea
-2024-04-07,17:30,Matchweek 32,Away,D,2,2,Sheffield United,68.0,28638.0,4-2-3-1,Robert Jones,2023-2024,Chelsea
-2024-04-15,20:00,Matchweek 33,Home,W,6,0,Everton,58.0,39392.0,4-2-3-1,Paul Tierney,2023-2024,Chelsea
-2024-04-23,20:00,Matchweek 29,Away,L,0,5,Arsenal,55.0,60238.0,4-2-3-1,Simon Hooper,2023-2024,Chelsea
-2024-04-27,20:00,Matchweek 35,Away,D,2,2,Aston Villa,71.0,42354.0,4-2-3-1,Craig Pawson,2023-2024,Chelsea
-2024-05-02,19:30,Matchweek 26,Home,W,2,0,Tottenham Hotspur,37.0,39086.0,4-2-3-1,Robert Jones,2023-2024,Chelsea
-2024-05-05,14:00,Matchweek 36,Home,W,5,0,West Ham United,69.0,39295.0,4-2-3-1,Andy Madley,2023-2024,Chelsea
-2024-05-11,17:30,Matchweek 37,Away,W,3,2,Nottingham Forest,67.0,29708.0,4-2-3-1,Tony Harrington,2023-2024,Chelsea
-2024-05-15,19:45,Matchweek 34,Away,W,2,1,Brighton and Hove Albion,45.0,31555.0,4-2-3-1,Michael Salisbury,2023-2024,Chelsea
-2024-05-19,16:00,Matchweek 38,Home,W,2,1,Bournemouth,61.0,39724.0,4-2-3-1,Anthony Taylor,2023-2024,Chelsea
-2023-08-12,17:30,Matchweek 1,Home,W,5,1,Aston Villa,52.0,52207.0,4-3-3,Andy Madley,2023-2024,Newcastle United
-2023-08-19,20:00,Matchweek 2,Away,L,0,1,Manchester City,41.0,53419.0,4-3-3,Robert Jones,2023-2024,Newcastle United
-2023-08-27,16:30,Matchweek 3,Home,L,1,2,Liverpool,59.0,52214.0,4-3-3,John Brooks,2023-2024,Newcastle United
-2023-09-02,17:30,Matchweek 4,Away,L,1,3,Brighton and Hove Albion,44.0,31620.0,4-3-3,Stuart Attwell,2023-2024,Newcastle United
-2023-09-16,17:30,Matchweek 5,Home,W,1,0,Brentford,56.0,51670.0,4-3-3,Craig Pawson,2023-2024,Newcastle United
-2023-09-24,16:30,Matchweek 6,Away,W,8,0,Sheffield United,58.0,31127.0,4-3-3,Stuart Attwell,2023-2024,Newcastle United
-2023-09-30,15:00,Matchweek 7,Home,W,2,0,Burnley,53.0,51687.0,4-3-3,Thomas Bramall,2023-2024,Newcastle United
-2023-10-08,14:00,Matchweek 8,Away,D,2,2,West Ham United,64.0,62473.0,4-3-3,Peter Bankes,2023-2024,Newcastle United
-2023-10-21,15:00,Matchweek 9,Home,W,4,0,Crystal Palace,59.0,52189.0,4-3-3,Tim Robinson,2023-2024,Newcastle United
-2023-10-28,17:30,Matchweek 10,Away,D,2,2,Wolverhampton Wanderers,57.0,31584.0,4-3-3,Anthony Taylor,2023-2024,Newcastle United
-2023-11-04,17:30,Matchweek 11,Home,W,1,0,Arsenal,42.0,52194.0,4-3-3,Stuart Attwell,2023-2024,Newcastle United
-2023-11-11,17:30,Matchweek 12,Away,L,0,2,Bournemouth,52.0,11201.0,4-3-3,Chris Kavanagh,2023-2024,Newcastle United
-2023-11-25,15:00,Matchweek 13,Home,W,4,1,Chelsea,54.0,52227.0,4-3-3,Simon Hooper,2023-2024,Newcastle United
-2023-12-02,20:00,Matchweek 14,Home,W,1,0,Manchester United,58.0,52214.0,4-3-3,Robert Jones,2023-2024,Newcastle United
-2023-12-07,19:30,Matchweek 15,Away,L,0,3,Everton,62.0,38198.0,4-3-3,Tim Robinson,2023-2024,Newcastle United
-2023-12-10,16:30,Matchweek 16,Away,L,1,4,Tottenham Hotspur,44.0,61171.0,4-3-3,Chris Kavanagh,2023-2024,Newcastle United
-2023-12-16,15:00,Matchweek 17,Home,W,3,0,Fulham,70.0,52055.0,4-3-3,Samuel Barrott,2023-2024,Newcastle United
-2023-12-23,15:00,Matchweek 18,Away,L,0,1,Luton Town,65.0,11042.0,4-3-3,Darren England,2023-2024,Newcastle United
-2023-12-26,12:30,Matchweek 19,Home,L,1,3,Nottingham Forest,62.0,52207.0,4-3-3,Chris Kavanagh,2023-2024,Newcastle United
-2024-01-01,20:00,Matchweek 20,Away,L,2,4,Liverpool,39.0,57471.0,4-3-3,Anthony Taylor,2023-2024,Newcastle United
-2024-01-13,17:30,Matchweek 21,Home,L,2,3,Manchester City,28.0,52190.0,4-3-3,Chris Kavanagh,2023-2024,Newcastle United
-2024-01-30,20:15,Matchweek 22,Away,W,3,1,Aston Villa,39.0,42191.0,4-3-3,John Brooks,2023-2024,Newcastle United
-2024-02-03,15:00,Matchweek 23,Home,D,4,4,Luton Town,55.0,52211.0,4-3-3,Thomas Bramall,2023-2024,Newcastle United
-2024-02-10,17:30,Matchweek 24,Away,W,3,2,Nottingham Forest,61.0,29451.0,4-3-3,Anthony Taylor,2023-2024,Newcastle United
-2024-02-17,15:00,Matchweek 25,Home,D,2,2,Bournemouth,62.0,52224.0,4-3-3,Michael Salisbury,2023-2024,Newcastle United
-2024-02-24,20:00,Matchweek 26,Away,L,1,4,Arsenal,45.0,60298.0,4-3-3,Paul Tierney,2023-2024,Newcastle United
-2024-03-02,15:00,Matchweek 27,Home,W,3,0,Wolverhampton Wanderers,44.0,52206.0,4-3-3,Tim Robinson,2023-2024,Newcastle United
-2024-03-11,20:00,Matchweek 28,Away,L,2,3,Chelsea,56.0,37753.0,4-3-3,John Brooks,2023-2024,Newcastle United
-2024-03-30,12:30,Matchweek 30,Home,W,4,3,West Ham United,60.0,52199.0,4-3-3,Robert Jones,2023-2024,Newcastle United
-2024-04-02,19:30,Matchweek 31,Home,D,1,1,Everton,57.0,52135.0,4-3-3,Tony Harrington,2023-2024,Newcastle United
-2024-04-06,15:00,Matchweek 32,Away,W,1,0,Fulham,34.0,24418.0,4-3-3,Samuel Allison,2023-2024,Newcastle United
-2024-04-13,12:30,Matchweek 33,Home,W,4,0,Tottenham Hotspur,28.0,52147.0,4-3-3,Tim Robinson,2023-2024,Newcastle United
-2024-04-24,20:00,Matchweek 29,Away,L,0,2,Crystal Palace,53.0,25002.0,3-4-3,Thomas Bramall,2023-2024,Newcastle United
-2024-04-27,15:00,Matchweek 35,Home,W,5,1,Sheffield United,60.0,52196.0,4-3-3,Tony Harrington,2023-2024,Newcastle United
-2024-05-04,15:00,Matchweek 36,Away,W,4,1,Burnley,53.0,21781.0,4-4-2,Anthony Taylor,2023-2024,Newcastle United
-2024-05-11,15:00,Matchweek 37,Home,D,1,1,Brighton and Hove Albion,57.0,51997.0,4-3-3,Darren England,2023-2024,Newcastle United
-2024-05-15,20:00,Matchweek 34,Away,L,2,3,Manchester United,55.0,52214.0,4-3-3,Robert Jones,2023-2024,Newcastle United
-2024-05-19,16:00,Matchweek 38,Away,W,4,2,Brentford,46.0,17124.0,4-3-3,Simon Hooper,2023-2024,Newcastle United
-2023-08-14,20:00,Matchweek 1,Home,W,1,0,Wolverhampton Wanderers,51.0,73358.0,4-1-4-1,Simon Hooper,2023-2024,Manchester United
-2023-08-19,17:30,Matchweek 2,Away,L,0,2,Tottenham Hotspur,45.0,61910.0,4-2-3-1,Michael Oliver,2023-2024,Manchester United
-2023-08-26,15:00,Matchweek 3,Home,W,3,2,Nottingham Forest,66.0,73595.0,4-2-3-1,Stuart Attwell,2023-2024,Manchester United
-2023-09-03,16:30,Matchweek 4,Away,L,1,3,Arsenal,45.0,60192.0,4-2-3-1,Anthony Taylor,2023-2024,Manchester United
-2023-09-16,15:00,Matchweek 5,Home,L,1,3,Brighton and Hove Albion,44.0,73592.0,4-1-2-1-2,Jarred Gillett,2023-2024,Manchester United
-2023-09-23,20:00,Matchweek 6,Away,W,1,0,Burnley,39.0,21593.0,4-2-3-1,Tony Harrington,2023-2024,Manchester United
-2023-09-30,15:00,Matchweek 7,Home,L,0,1,Crystal Palace,77.0,73428.0,4-2-3-1,Chris Kavanagh,2023-2024,Manchester United
-2023-10-07,15:00,Matchweek 8,Home,W,2,1,Brentford,64.0,73453.0,4-2-3-1,Andy Madley,2023-2024,Manchester United
-2023-10-21,20:00,Matchweek 9,Away,W,2,1,Sheffield United,62.0,31543.0,4-2-3-1,Michael Oliver,2023-2024,Manchester United
-2023-10-29,15:30,Matchweek 10,Home,L,0,3,Manchester City,40.0,73502.0,4-2-3-1,Paul Tierney,2023-2024,Manchester United
-2023-11-04,12:30,Matchweek 11,Away,W,1,0,Fulham,55.0,24415.0,4-2-3-1,John Brooks,2023-2024,Manchester United
-2023-11-11,15:00,Matchweek 12,Home,W,1,0,Luton Town,64.0,73599.0,4-2-3-1,Graham Scott,2023-2024,Manchester United
-2023-11-26,16:30,Matchweek 13,Away,W,3,0,Everton,49.0,39257.0,4-2-3-1,John Brooks,2023-2024,Manchester United
-2023-12-02,20:00,Matchweek 14,Away,L,0,1,Newcastle United,42.0,52214.0,4-2-3-1,Robert Jones,2023-2024,Manchester United
-2023-12-06,20:15,Matchweek 15,Home,W,2,1,Chelsea,45.0,73607.0,4-2-3-1,Chris Kavanagh,2023-2024,Manchester United
-2023-12-09,15:00,Matchweek 16,Home,L,0,3,Bournemouth,68.0,73427.0,4-2-3-1,Peter Bankes,2023-2024,Manchester United
-2023-12-17,16:30,Matchweek 17,Away,D,0,0,Liverpool,32.0,57158.0,4-2-3-1,Michael Oliver,2023-2024,Manchester United
-2023-12-23,12:30,Matchweek 18,Away,L,0,2,West Ham United,65.0,64472.0,4-2-3-1,Simon Hooper,2023-2024,Manchester United
-2023-12-26,20:00,Matchweek 19,Home,W,3,2,Aston Villa,46.0,73574.0,4-2-3-1,Craig Pawson,2023-2024,Manchester United
-2023-12-30,17:30,Matchweek 20,Away,L,1,2,Nottingham Forest,56.0,29529.0,4-2-3-1,Tim Robinson,2023-2024,Manchester United
-2024-01-14,16:30,Matchweek 21,Home,D,2,2,Tottenham Hotspur,37.0,73489.0,4-2-3-1,John Brooks,2023-2024,Manchester United
-2024-02-01,20:15,Matchweek 22,Away,W,4,3,Wolverhampton Wanderers,47.0,31641.0,4-2-3-1,Jarred Gillett,2023-2024,Manchester United
-2024-02-04,14:00,Matchweek 23,Home,W,3,0,West Ham United,51.0,73612.0,4-2-3-1,Andy Madley,2023-2024,Manchester United
-2024-02-11,16:30,Matchweek 24,Away,W,2,1,Aston Villa,44.0,42185.0,4-2-3-1,Robert Jones,2023-2024,Manchester United
-2024-02-18,16:30,Matchweek 25,Away,W,2,1,Luton Town,42.0,11483.0,4-2-3-1,David Coote,2023-2024,Manchester United
-2024-02-24,15:00,Matchweek 26,Home,L,1,2,Fulham,57.0,73487.0,4-2-3-1,Michael Oliver,2023-2024,Manchester United
-2024-03-03,15:30,Matchweek 27,Away,L,1,3,Manchester City,27.0,53514.0,4-2-4,Andy Madley,2023-2024,Manchester United
-2024-03-09,12:30,Matchweek 28,Home,W,2,0,Everton,51.0,73601.0,4-2-4,Simon Hooper,2023-2024,Manchester United
-2024-03-30,20:00,Matchweek 30,Away,D,1,1,Brentford,53.0,17138.0,4-2-3-1,Simon Hooper,2023-2024,Manchester United
-2024-04-04,20:15,Matchweek 31,Away,L,3,4,Chelsea,43.0,39694.0,4-2-3-1,Jarred Gillett,2023-2024,Manchester United
-2024-04-07,15:30,Matchweek 32,Home,D,2,2,Liverpool,38.0,73501.0,4-2-3-1,Anthony Taylor,2023-2024,Manchester United
-2024-04-13,17:30,Matchweek 33,Away,D,2,2,Bournemouth,57.0,11229.0,4-2-3-1,Tony Harrington,2023-2024,Manchester United
-2024-04-24,20:00,Matchweek 29,Home,W,4,2,Sheffield United,71.0,73549.0,4-2-3-1,Michael Salisbury,2023-2024,Manchester United
-2024-04-27,15:00,Matchweek 35,Home,D,1,1,Burnley,48.0,73571.0,4-2-3-1,John Brooks,2023-2024,Manchester United
-2024-05-06,20:00,Matchweek 36,Away,L,0,4,Crystal Palace,57.0,25190.0,4-2-3-1,Jarred Gillett,2023-2024,Manchester United
-2024-05-12,16:30,Matchweek 37,Home,L,0,1,Arsenal,54.0,73600.0,4-2-3-1,Paul Tierney,2023-2024,Manchester United
-2024-05-15,20:00,Matchweek 34,Home,W,3,2,Newcastle United,45.0,52214.0,4-2-2-2,Robert Jones,2023-2024,Manchester United
-2024-05-19,16:00,Matchweek 38,Away,W,2,0,Brighton and Hove Albion,45.0,31662.0,4-2-2-2,Craig Pawson,2023-2024,Manchester United
-2023-08-12,15:00,Matchweek 1,Away,D,1,1,Bournemouth,38.0,11245.0,4-2-3-1,Peter Bankes,2023-2024,West Ham United
-2023-08-20,16:30,Matchweek 2,Home,W,3,1,Chelsea,25.0,62451.0,4-2-3-1,John Brooks,2023-2024,West Ham United
-2023-08-26,17:30,Matchweek 3,Away,W,3,1,Brighton and Hove Albion,22.0,31508.0,4-1-4-1,Anthony Taylor,2023-2024,West Ham United
-2023-09-01,20:00,Matchweek 4,Away,W,2,1,Luton Town,61.0,10802.0,4-2-3-1,Paul Tierney,2023-2024,West Ham United
-2023-09-16,15:00,Matchweek 5,Home,L,1,3,Manchester City,32.0,62475.0,4-2-3-1,Andy Madley,2023-2024,West Ham United
-2023-09-24,14:00,Matchweek 6,Away,L,1,3,Liverpool,37.0,50136.0,4-2-3-1,Chris Kavanagh,2023-2024,West Ham United
-2023-09-30,15:00,Matchweek 7,Home,W,2,0,Sheffield United,52.0,62459.0,4-2-3-1,Graham Scott,2023-2024,West Ham United
-2023-10-08,14:00,Matchweek 8,Home,D,2,2,Newcastle United,36.0,62473.0,4-2-3-1,Peter Bankes,2023-2024,West Ham United
-2023-10-22,16:30,Matchweek 9,Away,L,1,4,Aston Villa,42.0,41734.0,4-2-3-1,David Coote,2023-2024,West Ham United
-2023-10-29,13:00,Matchweek 10,Home,L,0,1,Everton,64.0,62469.0,4-2-3-1,Stuart Attwell,2023-2024,West Ham United
-2023-11-04,15:00,Matchweek 11,Away,L,2,3,Brentford,42.0,17103.0,4-4-2,Thomas Bramall,2023-2024,West Ham United
-2023-11-12,14:00,Matchweek 12,Home,W,3,2,Nottingham Forest,54.0,62470.0,4-2-3-1,Michael Salisbury,2023-2024,West Ham United
-2023-11-25,15:00,Matchweek 13,Away,W,2,1,Burnley,50.0,21319.0,4-2-3-1,Samuel Barrott,2023-2024,West Ham United
-2023-12-03,14:00,Matchweek 14,Home,D,1,1,Crystal Palace,55.0,62414.0,4-2-3-1,Michael Oliver,2023-2024,West Ham United
-2023-12-07,20:15,Matchweek 15,Away,W,2,1,Tottenham Hotspur,26.0,61171.0,4-3-3,Michael Salisbury,2023-2024,West Ham United
-2023-12-10,14:00,Matchweek 16,Away,L,0,5,Fulham,37.0,23988.0,4-4-1-1,Paul Tierney,2023-2024,West Ham United
-2023-12-17,14:00,Matchweek 17,Home,W,3,0,Wolverhampton Wanderers,45.0,62455.0,4-2-3-1,Chris Kavanagh,2023-2024,West Ham United
-2023-12-23,12:30,Matchweek 18,Home,W,2,0,Manchester United,35.0,64472.0,4-2-3-1,Simon Hooper,2023-2024,West Ham United
-2023-12-28,20:15,Matchweek 19,Away,W,2,0,Arsenal,27.0,60261.0,4-2-3-1,Michael Oliver,2023-2024,West Ham United
-2024-01-02,19:30,Matchweek 20,Home,D,0,0,Brighton and Hove Albion,32.0,62462.0,4-2-3-1,Samuel Barrott,2023-2024,West Ham United
-2024-01-21,14:00,Matchweek 21,Away,D,2,2,Sheffield United,43.0,29164.0,4-4-1-1,Michael Salisbury,2023-2024,West Ham United
-2024-02-01,19:30,Matchweek 22,Home,D,1,1,Bournemouth,48.0,62478.0,4-3-2-1,Tim Robinson,2023-2024,West Ham United
-2024-02-04,14:00,Matchweek 23,Away,L,0,3,Manchester United,49.0,73612.0,4-2-3-1,Andy Madley,2023-2024,West Ham United
-2024-02-11,14:00,Matchweek 24,Home,L,0,6,Arsenal,30.0,62475.0,4-2-3-1,Craig Pawson,2023-2024,West Ham United
-2024-02-17,15:00,Matchweek 25,Away,L,0,2,Nottingham Forest,51.0,29490.0,4-2-3-1,Thomas Bramall,2023-2024,West Ham United
-2024-02-26,20:00,Matchweek 26,Home,W,4,2,Brentford,41.0,62450.0,4-2-3-1,Simon Hooper,2023-2024,West Ham United
-2024-03-02,15:00,Matchweek 27,Away,W,3,1,Everton,45.0,39262.0,4-2-3-1,Craig Pawson,2023-2024,West Ham United
-2024-03-10,14:00,Matchweek 28,Home,D,2,2,Burnley,52.0,62441.0,4-2-3-1,Darren England,2023-2024,West Ham United
-2024-03-17,14:00,Matchweek 29,Home,D,1,1,Aston Villa,31.0,62461.0,4-2-3-1,Jarred Gillett,2023-2024,West Ham United
-2024-03-30,12:30,Matchweek 30,Away,L,3,4,Newcastle United,40.0,52199.0,4-2-3-1,Robert Jones,2023-2024,West Ham United
-2024-04-02,20:15,Matchweek 31,Home,D,1,1,Tottenham Hotspur,33.0,62469.0,4-5-1,John Brooks,2023-2024,West Ham United
-2024-04-06,15:00,Matchweek 32,Away,W,2,1,Wolverhampton Wanderers,42.0,31504.0,4-2-3-1,Tony Harrington,2023-2024,West Ham United
-2024-04-14,14:00,Matchweek 33,Home,L,0,2,Fulham,58.0,62459.0,4-2-3-1,Stuart Attwell,2023-2024,West Ham United
-2024-04-21,15:00,Matchweek 34,Away,L,2,5,Crystal Palace,40.0,25145.0,4-2-3-1,Graham Scott,2023-2024,West Ham United
-2024-04-27,12:30,Matchweek 35,Home,D,2,2,Liverpool,29.0,62474.0,4-2-3-1,Anthony Taylor,2023-2024,West Ham United
-2024-05-05,14:00,Matchweek 36,Away,L,0,5,Chelsea,31.0,39295.0,4-2-3-1,Andy Madley,2023-2024,West Ham United
-2024-05-11,15:00,Matchweek 37,Home,W,3,1,Luton Town,58.0,62475.0,4-2-3-1,Michael Oliver,2023-2024,West Ham United
-2024-05-19,16:00,Matchweek 38,Away,L,1,3,Manchester City,29.0,62475.0,3-4-3,John Brooks,2023-2024,West Ham United
-2023-08-12,15:00,Matchweek 1,Away,W,1,0,Sheffield United,68.0,31194.0,4-2-3-1,John Brooks,2023-2024,Crystal Palace
-2023-08-21,20:00,Matchweek 2,Home,L,0,1,Arsenal,47.0,24189.0,4-2-3-1,David Coote,2023-2024,Crystal Palace
-2023-08-26,15:00,Matchweek 3,Away,D,1,1,Brentford,40.0,16997.0,4-2-3-1,Peter Bankes,2023-2024,Crystal Palace
-2023-09-03,14:00,Matchweek 4,Home,W,3,2,Wolverhampton Wanderers,43.0,24741.0,4-3-3,Robert Jones,2023-2024,Crystal Palace
-2023-09-16,15:00,Matchweek 5,Away,L,1,3,Aston Villa,34.0,40809.0,4-4-1-1,Darren England,2023-2024,Crystal Palace
-2023-09-23,15:00,Matchweek 6,Home,D,0,0,Fulham,51.0,25072.0,4-2-3-1,Paul Tierney,2023-2024,Crystal Palace
-2023-09-30,15:00,Matchweek 7,Away,W,1,0,Manchester United,23.0,73428.0,4-3-3,Chris Kavanagh,2023-2024,Crystal Palace
-2023-10-07,17:30,Matchweek 8,Home,D,0,0,Nottingham Forest,52.0,25017.0,4-3-3,Craig Pawson,2023-2024,Crystal Palace
-2023-10-21,15:00,Matchweek 9,Away,L,0,4,Newcastle United,41.0,52189.0,4-3-3,Tim Robinson,2023-2024,Crystal Palace
-2023-10-27,20:00,Matchweek 10,Home,L,1,2,Tottenham Hotspur,25.0,25074.0,4-2-3-1,Andy Madley,2023-2024,Crystal Palace
-2023-11-04,15:00,Matchweek 11,Away,W,2,0,Burnley,33.0,21578.0,4-2-3-1,Peter Bankes,2023-2024,Crystal Palace
-2023-11-11,15:00,Matchweek 12,Home,L,2,3,Everton,67.0,25103.0,4-2-3-1,Samuel Barrott,2023-2024,Crystal Palace
-2023-11-25,15:00,Matchweek 13,Away,L,1,2,Luton Town,61.0,11029.0,4-2-3-1,Jarred Gillett,2023-2024,Crystal Palace
-2023-12-03,14:00,Matchweek 14,Away,D,1,1,West Ham United,45.0,62414.0,4-3-3,Michael Oliver,2023-2024,Crystal Palace
-2023-12-06,19:30,Matchweek 15,Home,L,0,2,Bournemouth,59.0,25078.0,4-2-3-1,Craig Pawson,2023-2024,Crystal Palace
-2023-12-09,12:30,Matchweek 16,Home,L,1,2,Liverpool,24.0,25103.0,4-3-3,Andy Madley,2023-2024,Crystal Palace
-2023-12-16,15:00,Matchweek 17,Away,D,2,2,Manchester City,26.0,53248.0,5-4-1,Paul Tierney,2023-2024,Crystal Palace
-2023-12-21,20:00,Matchweek 18,Home,D,1,1,Brighton and Hove Albion,35.0,24171.0,4-3-3,John Brooks,2023-2024,Crystal Palace
-2023-12-27,19:30,Matchweek 19,Away,L,1,2,Chelsea,37.0,39618.0,4-3-3,Michael Salisbury,2023-2024,Crystal Palace
-2023-12-30,15:00,Matchweek 20,Home,W,3,1,Brentford,46.0,25472.0,4-3-3,Robert Jones,2023-2024,Crystal Palace
-2024-01-20,12:30,Matchweek 21,Away,L,0,5,Arsenal,40.0,60284.0,3-4-3,Paul Tierney,2023-2024,Crystal Palace
-2024-01-30,20:00,Matchweek 22,Home,W,3,2,Sheffield United,53.0,24781.0,4-3-3,Tony Harrington,2023-2024,Crystal Palace
-2024-02-03,15:00,Matchweek 23,Away,L,1,4,Brighton and Hove Albion,32.0,31345.0,4-3-3,Simon Hooper,2023-2024,Crystal Palace
-2024-02-12,20:00,Matchweek 24,Home,L,1,3,Chelsea,23.0,25110.0,4-1-4-1,Michael Oliver,2023-2024,Crystal Palace
-2024-02-19,20:00,Matchweek 25,Away,D,1,1,Everton,39.0,38164.0,3-4-3,Paul Tierney,2023-2024,Crystal Palace
-2024-02-24,15:00,Matchweek 26,Home,W,3,0,Burnley,56.0,24042.0,3-4-3,Lewis Smith,2023-2024,Crystal Palace
-2024-03-02,15:00,Matchweek 27,Away,L,1,3,Tottenham Hotspur,22.0,61339.0,3-4-3,John Brooks,2023-2024,Crystal Palace
-2024-03-09,15:00,Matchweek 28,Home,D,1,1,Luton Town,49.0,25103.0,3-4-3,Sunny Singh,2023-2024,Crystal Palace
-2024-03-30,15:00,Matchweek 30,Away,D,1,1,Nottingham Forest,41.0,29520.0,3-4-3,Chris Kavanagh,2023-2024,Crystal Palace
-2024-04-02,19:45,Matchweek 31,Away,L,0,1,Bournemouth,50.0,11058.0,3-4-3,Graham Scott,2023-2024,Crystal Palace
-2024-04-06,12:30,Matchweek 32,Home,L,2,4,Manchester City,25.0,25132.0,3-4-3,Paul Tierney,2023-2024,Crystal Palace
-2024-04-14,14:00,Matchweek 33,Away,W,1,0,Liverpool,31.0,60090.0,3-4-3,Chris Kavanagh,2023-2024,Crystal Palace
-2024-04-21,15:00,Matchweek 34,Home,W,5,2,West Ham United,60.0,25145.0,3-4-3,Graham Scott,2023-2024,Crystal Palace
-2024-04-24,20:00,Matchweek 29,Home,W,2,0,Newcastle United,47.0,25002.0,3-4-3,Thomas Bramall,2023-2024,Crystal Palace
-2024-04-27,15:00,Matchweek 35,Away,D,1,1,Fulham,47.0,24142.0,3-4-3,Stuart Attwell,2023-2024,Crystal Palace
-2024-05-06,20:00,Matchweek 36,Home,W,4,0,Manchester United,43.0,25190.0,3-4-3,Jarred Gillett,2023-2024,Crystal Palace
-2024-05-11,15:00,Matchweek 37,Away,W,3,1,Wolverhampton Wanderers,38.0,31424.0,3-4-3,Thomas Bramall,2023-2024,Crystal Palace
-2024-05-19,16:00,Matchweek 38,Home,W,5,0,Aston Villa,54.0,25191.0,3-4-3,Darren Bond,2023-2024,Crystal Palace
-2023-08-12,15:00,Matchweek 1,Home,W,4,1,Luton Town,70.0,31872.0,4-2-3-1,David Coote,2023-2024,Brighton and Hove Albion
-2023-08-19,15:00,Matchweek 2,Away,W,4,1,Wolverhampton Wanderers,53.0,31317.0,4-2-3-1,Andy Madley,2023-2024,Brighton and Hove Albion
-2023-08-26,17:30,Matchweek 3,Home,L,1,3,West Ham United,78.0,31508.0,4-2-3-1,Anthony Taylor,2023-2024,Brighton and Hove Albion
-2023-09-02,17:30,Matchweek 4,Home,W,3,1,Newcastle United,56.0,31620.0,4-2-3-1,Stuart Attwell,2023-2024,Brighton and Hove Albion
-2023-09-16,15:00,Matchweek 5,Away,W,3,1,Manchester United,56.0,73592.0,4-2-3-1,Jarred Gillett,2023-2024,Brighton and Hove Albion
-2023-09-24,14:00,Matchweek 6,Home,W,3,1,Bournemouth,61.0,31617.0,4-2-3-1,John Brooks,2023-2024,Brighton and Hove Albion
-2023-09-30,12:30,Matchweek 7,Away,L,1,6,Aston Villa,61.0,40636.0,4-2-3-1,Andy Madley,2023-2024,Brighton and Hove Albion
-2023-10-08,14:00,Matchweek 8,Home,D,2,2,Liverpool,46.0,31752.0,4-2-3-1,Anthony Taylor,2023-2024,Brighton and Hove Albion
-2023-10-21,15:00,Matchweek 9,Away,L,1,2,Manchester City,45.0,53466.0,4-2-3-1,Robert Jones,2023-2024,Brighton and Hove Albion
-2023-10-29,14:00,Matchweek 10,Home,D,1,1,Fulham,71.0,31550.0,3-4-3,Michael Salisbury,2023-2024,Brighton and Hove Albion
-2023-11-04,15:00,Matchweek 11,Away,D,1,1,Everton,79.0,38683.0,4-3-3,Tim Robinson,2023-2024,Brighton and Hove Albion
-2023-11-12,14:00,Matchweek 12,Home,D,1,1,Sheffield United,61.0,31367.0,4-2-3-1,John Brooks,2023-2024,Brighton and Hove Albion
-2023-11-25,15:00,Matchweek 13,Away,W,3,2,Nottingham Forest,53.0,29404.0,4-2-3-1,Anthony Taylor,2023-2024,Brighton and Hove Albion
-2023-12-03,14:00,Matchweek 14,Away,L,2,3,Chelsea,68.0,39647.0,4-2-3-1,Craig Pawson,2023-2024,Brighton and Hove Albion
-2023-12-06,19:30,Matchweek 15,Home,W,2,1,Brentford,61.0,31571.0,4-2-3-1,Peter Bankes,2023-2024,Brighton and Hove Albion
-2023-12-09,15:00,Matchweek 16,Home,D,1,1,Burnley,72.0,31511.0,4-2-3-1,Simon Hooper,2023-2024,Brighton and Hove Albion
-2023-12-17,14:00,Matchweek 17,Away,L,0,2,Arsenal,51.0,60257.0,4-2-3-1,Tim Robinson,2023-2024,Brighton and Hove Albion
-2023-12-21,20:00,Matchweek 18,Away,D,1,1,Crystal Palace,65.0,24171.0,4-2-3-1,John Brooks,2023-2024,Brighton and Hove Albion
-2023-12-28,19:30,Matchweek 19,Home,W,4,2,Tottenham Hotspur,45.0,31675.0,4-1-2-1-2,Jarred Gillett,2023-2024,Brighton and Hove Albion
-2024-01-02,19:30,Matchweek 20,Away,D,0,0,West Ham United,68.0,62462.0,4-3-1-2,Samuel Barrott,2023-2024,Brighton and Hove Albion
-2024-01-22,19:45,Matchweek 21,Home,D,0,0,Wolverhampton Wanderers,72.0,41505.0,4-3-3,Craig Pawson,2023-2024,Brighton and Hove Albion
-2024-01-30,19:45,Matchweek 22,Away,L,0,4,Luton Town,59.0,10994.0,3-4-3,Robert Jones,2023-2024,Brighton and Hove Albion
-2024-02-03,15:00,Matchweek 23,Home,W,4,1,Crystal Palace,68.0,31345.0,3-4-3,Simon Hooper,2023-2024,Brighton and Hove Albion
-2024-02-10,15:00,Matchweek 24,Away,L,1,2,Tottenham Hotspur,48.0,61445.0,4-2-3-1,Samuel Barrott,2023-2024,Brighton and Hove Albion
-2024-02-18,14:00,Matchweek 25,Away,W,5,0,Sheffield United,79.0,29522.0,4-2-3-1,Stuart Attwell,2023-2024,Brighton and Hove Albion
-2024-02-24,15:00,Matchweek 26,Home,D,1,1,Everton,64.0,41646.0,4-2-3-1,Tony Harrington,2023-2024,Brighton and Hove Albion
-2024-03-02,15:00,Matchweek 27,Away,L,0,3,Fulham,70.0,24460.0,3-4-3,Simon Hooper,2023-2024,Brighton and Hove Albion
-2024-03-10,14:00,Matchweek 28,Home,W,1,0,Nottingham Forest,63.0,31505.0,4-2-3-1,Michael Salisbury,2023-2024,Brighton and Hove Albion
-2024-03-31,14:00,Matchweek 30,Away,L,1,2,Liverpool,45.0,60061.0,4-2-3-1,David Coote,2023-2024,Brighton and Hove Albion
-2024-04-03,19:30,Matchweek 31,Away,D,0,0,Brentford,66.0,17024.0,4-2-3-1,Andy Madley,2023-2024,Brighton and Hove Albion
-2024-04-06,17:30,Matchweek 32,Home,L,0,3,Arsenal,54.0,31677.0,4-2-3-1,John Brooks,2023-2024,Brighton and Hove Albion
-2024-04-13,15:00,Matchweek 33,Away,D,1,1,Burnley,55.0,20687.0,4-2-3-1,Simon Hooper,2023-2024,Brighton and Hove Albion
-2024-04-25,20:00,Matchweek 29,Home,L,0,4,Manchester City,35.0,31596.0,4-2-3-1,Jarred Gillett,2023-2024,Brighton and Hove Albion
-2024-04-28,14:00,Matchweek 35,Away,L,0,3,Bournemouth,69.0,11188.0,4-2-3-1,Paul Tierney,2023-2024,Brighton and Hove Albion
-2024-05-05,14:00,Matchweek 36,Home,W,1,0,Aston Villa,52.0,31596.0,4-2-3-1,Robert Jones,2023-2024,Brighton and Hove Albion
-2024-05-11,15:00,Matchweek 37,Away,D,1,1,Newcastle United,43.0,51997.0,4-2-3-1,Darren England,2023-2024,Brighton and Hove Albion
-2024-05-15,19:45,Matchweek 34,Home,L,1,2,Chelsea,55.0,31555.0,4-2-3-1,Michael Salisbury,2023-2024,Brighton and Hove Albion
-2024-05-19,16:00,Matchweek 38,Home,L,0,2,Manchester United,55.0,31662.0,4-2-3-1,Craig Pawson,2023-2024,Brighton and Hove Albion
-2023-08-12,15:00,Matchweek 1,Home,D,1,1,West Ham United,62.0,11245.0,4-2-3-1,Peter Bankes,2023-2024,Bournemouth
-2023-08-19,15:00,Matchweek 2,Away,L,1,3,Liverpool,36.0,53145.0,4-2-3-1,Thomas Bramall,2023-2024,Bournemouth
-2023-08-26,12:30,Matchweek 3,Home,L,0,2,Tottenham Hotspur,44.0,10567.0,4-2-3-1,Tim Robinson,2023-2024,Bournemouth
-2023-09-02,15:00,Matchweek 4,Away,D,2,2,Brentford,40.0,16973.0,4-2-3-1,Robert Madley,2023-2024,Bournemouth
-2023-09-17,14:00,Matchweek 5,Home,D,0,0,Chelsea,36.0,10421.0,4-2-3-1,David Coote,2023-2024,Bournemouth
-2023-09-24,14:00,Matchweek 6,Away,L,1,3,Brighton and Hove Albion,39.0,31617.0,4-2-3-1,John Brooks,2023-2024,Bournemouth
-2023-09-30,15:00,Matchweek 7,Home,L,0,4,Arsenal,43.0,11193.0,4-2-3-1,Michael Salisbury,2023-2024,Bournemouth
-2023-10-07,15:00,Matchweek 8,Away,L,0,3,Everton,52.0,38815.0,4-2-3-1,David Coote,2023-2024,Bournemouth
-2023-10-21,15:00,Matchweek 9,Home,L,1,2,Wolverhampton Wanderers,35.0,11175.0,4-2-3-1,Paul Tierney,2023-2024,Bournemouth
-2023-10-28,15:00,Matchweek 10,Home,W,2,1,Burnley,45.0,11152.0,4-2-3-1,Samuel Barrott,2023-2024,Bournemouth
-2023-11-04,15:00,Matchweek 11,Away,L,1,6,Manchester City,35.0,53358.0,5-4-1,Craig Pawson,2023-2024,Bournemouth
-2023-11-11,17:30,Matchweek 12,Home,W,2,0,Newcastle United,48.0,11201.0,4-2-3-1,Chris Kavanagh,2023-2024,Bournemouth
-2023-11-25,15:00,Matchweek 13,Away,W,3,1,Sheffield United,54.0,30208.0,4-2-3-1,Andy Madley,2023-2024,Bournemouth
-2023-12-03,14:00,Matchweek 14,Home,D,2,2,Aston Villa,38.0,11191.0,4-2-3-1,Thomas Bramall,2023-2024,Bournemouth
-2023-12-06,19:30,Matchweek 15,Away,W,2,0,Crystal Palace,41.0,25078.0,4-2-3-1,Craig Pawson,2023-2024,Bournemouth
-2023-12-09,15:00,Matchweek 16,Away,W,3,0,Manchester United,32.0,73427.0,4-2-3-1,Peter Bankes,2023-2024,Bournemouth
-2023-12-23,15:00,Matchweek 18,Away,W,3,2,Nottingham Forest,66.0,29188.0,4-2-3-1,Robert Jones,2023-2024,Bournemouth
-2023-12-26,15:00,Matchweek 19,Home,W,3,0,Fulham,43.0,11099.0,4-2-3-1,Tim Robinson,2023-2024,Bournemouth
-2023-12-31,14:00,Matchweek 20,Away,L,1,3,Tottenham Hotspur,50.0,61780.0,4-2-3-1,Simon Hooper,2023-2024,Bournemouth
-2024-01-21,16:30,Matchweek 21,Home,L,0,4,Liverpool,40.0,11228.0,4-2-3-1,Andy Madley,2023-2024,Bournemouth
-2024-02-01,19:30,Matchweek 22,Away,D,1,1,West Ham United,52.0,62478.0,4-2-3-1,Tim Robinson,2023-2024,Bournemouth
-2024-02-04,14:00,Matchweek 23,Home,D,1,1,Nottingham Forest,45.0,11200.0,4-2-3-1,Rebecca Welch,2023-2024,Bournemouth
-2024-02-10,15:00,Matchweek 24,Away,L,1,3,Fulham,51.0,24271.0,4-2-3-1,Darren England,2023-2024,Bournemouth
-2024-02-17,15:00,Matchweek 25,Away,D,2,2,Newcastle United,38.0,52224.0,4-2-3-1,Michael Salisbury,2023-2024,Bournemouth
-2024-02-24,17:30,Matchweek 26,Home,L,0,1,Manchester City,38.0,11184.0,4-2-3-1,Jarred Gillett,2023-2024,Bournemouth
-2024-03-03,13:00,Matchweek 27,Away,W,2,0,Burnley,26.0,19713.0,4-2-3-1,David Coote,2023-2024,Bournemouth
-2024-03-09,15:00,Matchweek 28,Home,D,2,2,Sheffield United,69.0,11074.0,4-2-3-1,Anthony Taylor,2023-2024,Bournemouth
-2024-03-13,19:30,Matchweek 17,Home,W,4,3,Luton Town,59.0,11198.0,4-2-3-1,Samuel Allison,2023-2024,Bournemouth
-2024-03-30,15:00,Matchweek 30,Home,W,2,1,Everton,48.0,11207.0,4-2-3-1,Samuel Barrott,2023-2024,Bournemouth
-2024-04-02,19:45,Matchweek 31,Home,W,1,0,Crystal Palace,50.0,11058.0,4-3-3,Graham Scott,2023-2024,Bournemouth
-2024-04-06,15:00,Matchweek 32,Away,L,1,2,Luton Town,45.0,11797.0,4-2-3-1,Andy Madley,2023-2024,Bournemouth
-2024-04-13,17:30,Matchweek 33,Home,D,2,2,Manchester United,43.0,11229.0,4-2-3-1,Tony Harrington,2023-2024,Bournemouth
-2024-04-21,15:00,Matchweek 34,Away,L,1,3,Aston Villa,44.0,42189.0,4-2-3-1,Tim Robinson,2023-2024,Bournemouth
-2024-04-24,19:45,Matchweek 29,Away,W,1,0,Wolverhampton Wanderers,37.0,25541.0,4-2-3-1,Stuart Attwell,2023-2024,Bournemouth
-2024-04-28,14:00,Matchweek 35,Home,W,3,0,Brighton and Hove Albion,31.0,11188.0,4-4-2,Paul Tierney,2023-2024,Bournemouth
-2024-05-04,12:30,Matchweek 36,Away,L,0,3,Arsenal,45.0,60348.0,4-3-3,David Coote,2023-2024,Bournemouth
-2024-05-11,15:00,Matchweek 37,Home,L,1,2,Brentford,48.0,11154.0,4-2-3-1,Matt Donohue,2023-2024,Bournemouth
-2024-05-19,16:00,Matchweek 38,Away,L,1,2,Chelsea,39.0,39724.0,4-2-3-1,Anthony Taylor,2023-2024,Bournemouth
-2023-08-12,15:00,Matchweek 1,Away,W,1,0,Everton,58.0,39940.0,4-3-3,Stuart Attwell,2023-2024,Fulham
-2023-08-19,15:00,Matchweek 2,Home,L,0,3,Brentford,55.0,24236.0,4-3-3,Darren Bond,2023-2024,Fulham
-2023-08-26,15:00,Matchweek 3,Away,D,2,2,Arsenal,29.0,59961.0,4-3-3,Paul Tierney,2023-2024,Fulham
-2023-09-02,15:00,Matchweek 4,Away,L,1,5,Manchester City,32.0,52899.0,4-3-3,Michael Oliver,2023-2024,Fulham
-2023-09-16,15:00,Matchweek 5,Home,W,1,0,Luton Town,77.0,24467.0,4-3-3,Michael Salisbury,2023-2024,Fulham
-2023-09-23,15:00,Matchweek 6,Away,D,0,0,Crystal Palace,49.0,25072.0,4-3-3,Paul Tierney,2023-2024,Fulham
-2023-10-02,20:00,Matchweek 7,Home,L,0,2,Chelsea,56.0,24445.0,4-3-3,Tim Robinson,2023-2024,Fulham
-2023-10-07,15:00,Matchweek 8,Home,W,3,1,Sheffield United,60.0,24361.0,4-3-3,Samuel Barrott,2023-2024,Fulham
-2023-10-23,20:00,Matchweek 9,Away,L,0,2,Tottenham Hotspur,45.0,61286.0,4-2-3-1,Anthony Taylor,2023-2024,Fulham
-2023-10-29,14:00,Matchweek 10,Away,D,1,1,Brighton and Hove Albion,29.0,31550.0,4-2-3-1,Michael Salisbury,2023-2024,Fulham
-2023-11-04,12:30,Matchweek 11,Home,L,0,1,Manchester United,45.0,24415.0,4-2-3-1,John Brooks,2023-2024,Fulham
-2023-11-12,14:00,Matchweek 12,Away,L,1,3,Aston Villa,49.0,41608.0,4-2-3-1,Simon Hooper,2023-2024,Fulham
-2023-11-27,20:00,Matchweek 13,Home,W,3,2,Wolverhampton Wanderers,60.0,24366.0,4-2-3-1,Michael Salisbury,2023-2024,Fulham
-2023-12-03,14:00,Matchweek 14,Away,L,3,4,Liverpool,39.0,50124.0,4-2-3-1,Stuart Attwell,2023-2024,Fulham
-2023-12-06,19:30,Matchweek 15,Home,W,5,0,Nottingham Forest,63.0,24105.0,4-2-3-1,Joshua Smith,2023-2024,Fulham
-2023-12-10,14:00,Matchweek 16,Home,W,5,0,West Ham United,63.0,23988.0,4-2-3-1,Paul Tierney,2023-2024,Fulham
-2023-12-16,15:00,Matchweek 17,Away,L,0,3,Newcastle United,30.0,52055.0,4-2-3-1,Samuel Barrott,2023-2024,Fulham
-2023-12-23,15:00,Matchweek 18,Home,L,0,2,Burnley,66.0,23598.0,4-2-3-1,Rebecca Welch,2023-2024,Fulham
-2023-12-26,15:00,Matchweek 19,Away,L,0,3,Bournemouth,57.0,11099.0,4-2-3-1,Tim Robinson,2023-2024,Fulham
-2023-12-31,14:00,Matchweek 20,Home,W,2,1,Arsenal,40.0,24444.0,4-2-3-1,Joshua Smith,2023-2024,Fulham
-2024-01-13,12:30,Matchweek 21,Away,L,0,1,Chelsea,45.0,39643.0,4-2-3-1,Anthony Taylor,2023-2024,Fulham
-2024-01-30,19:45,Matchweek 22,Home,D,0,0,Everton,70.0,24376.0,4-2-3-1,Thomas Bramall,2023-2024,Fulham
-2024-02-03,15:00,Matchweek 23,Away,D,2,2,Burnley,56.0,20203.0,4-2-3-1,Darren Bond,2023-2024,Fulham
-2024-02-10,15:00,Matchweek 24,Home,W,3,1,Bournemouth,49.0,24271.0,4-2-3-1,Darren England,2023-2024,Fulham
-2024-02-17,15:00,Matchweek 25,Home,L,1,2,Aston Villa,52.0,24401.0,4-2-3-1,Lewis Smith,2023-2024,Fulham
-2024-02-24,15:00,Matchweek 26,Away,W,2,1,Manchester United,43.0,73487.0,4-2-3-1,Michael Oliver,2023-2024,Fulham
-2024-03-02,15:00,Matchweek 27,Home,W,3,0,Brighton and Hove Albion,30.0,24460.0,4-2-3-1,Simon Hooper,2023-2024,Fulham
-2024-03-09,15:00,Matchweek 28,Away,L,1,2,Wolverhampton Wanderers,52.0,30860.0,4-2-3-1,Tony Harrington,2023-2024,Fulham
-2024-03-16,17:30,Matchweek 29,Home,W,3,0,Tottenham Hotspur,43.0,24410.0,4-2-3-1,Robert Jones,2023-2024,Fulham
-2024-03-30,15:00,Matchweek 30,Away,D,3,3,Sheffield United,73.0,30010.0,4-2-3-1,Tim Robinson,2023-2024,Fulham
-2024-04-02,19:30,Matchweek 31,Away,L,1,3,Nottingham Forest,66.0,28997.0,4-2-3-1,Michael Oliver,2023-2024,Fulham
-2024-04-06,15:00,Matchweek 32,Home,L,0,1,Newcastle United,66.0,24418.0,4-2-3-1,Samuel Allison,2023-2024,Fulham
-2024-04-14,14:00,Matchweek 33,Away,W,2,0,West Ham United,42.0,62459.0,4-2-3-1,Stuart Attwell,2023-2024,Fulham
-2024-04-21,16:30,Matchweek 34,Home,L,1,3,Liverpool,40.0,24414.0,4-2-3-1,Craig Pawson,2023-2024,Fulham
-2024-04-27,15:00,Matchweek 35,Home,D,1,1,Crystal Palace,53.0,24142.0,4-2-3-1,Stuart Attwell,2023-2024,Fulham
-2024-05-04,15:00,Matchweek 36,Away,D,0,0,Brentford,46.0,17090.0,4-2-3-1,Graham Scott,2023-2024,Fulham
-2024-05-11,12:30,Matchweek 37,Home,L,0,4,Manchester City,36.0,24418.0,4-2-3-1,Anthony Taylor,2023-2024,Fulham
-2024-05-19,16:00,Matchweek 38,Away,W,4,2,Luton Town,59.0,12027.0,4-2-3-1,Matt Donohue,2023-2024,Fulham
-2023-08-14,20:00,Matchweek 1,Away,L,0,1,Manchester United,49.0,73358.0,4-4-2,Simon Hooper,2023-2024,Wolverhampton Wanderers
-2023-08-19,15:00,Matchweek 2,Home,L,1,4,Brighton and Hove Albion,47.0,31317.0,4-4-1-1,Andy Madley,2023-2024,Wolverhampton Wanderers
-2023-08-26,15:00,Matchweek 3,Away,W,1,0,Everton,53.0,38851.0,4-4-1-1,Craig Pawson,2023-2024,Wolverhampton Wanderers
-2023-09-03,14:00,Matchweek 4,Away,L,2,3,Crystal Palace,57.0,24741.0,4-4-2,Robert Jones,2023-2024,Wolverhampton Wanderers
-2023-09-16,12:30,Matchweek 5,Home,L,1,3,Liverpool,35.0,31257.0,4-2-3-1,Michael Oliver,2023-2024,Wolverhampton Wanderers
-2023-09-23,15:00,Matchweek 6,Away,D,1,1,Luton Town,43.0,10893.0,4-2-3-1,Joshua Smith,2023-2024,Wolverhampton Wanderers
-2023-09-30,15:00,Matchweek 7,Home,W,2,1,Manchester City,32.0,31415.0,3-4-3,Craig Pawson,2023-2024,Wolverhampton Wanderers
-2023-10-08,14:00,Matchweek 8,Home,D,1,1,Aston Villa,47.0,31425.0,3-4-3,Robert Jones,2023-2024,Wolverhampton Wanderers
-2023-10-21,15:00,Matchweek 9,Away,W,2,1,Bournemouth,65.0,11175.0,3-4-3,Paul Tierney,2023-2024,Wolverhampton Wanderers
-2023-10-28,17:30,Matchweek 10,Home,D,2,2,Newcastle United,43.0,31584.0,4-4-2,Anthony Taylor,2023-2024,Wolverhampton Wanderers
-2023-11-04,15:00,Matchweek 11,Away,L,1,2,Sheffield United,61.0,29454.0,4-4-1-1,Robert Jones,2023-2024,Wolverhampton Wanderers
-2023-11-11,12:30,Matchweek 12,Home,W,2,1,Tottenham Hotspur,42.0,31642.0,3-5-2,Tim Robinson,2023-2024,Wolverhampton Wanderers
-2023-11-27,20:00,Matchweek 13,Away,L,2,3,Fulham,40.0,24366.0,3-5-2,Michael Salisbury,2023-2024,Wolverhampton Wanderers
-2023-12-02,15:00,Matchweek 14,Away,L,1,2,Arsenal,43.0,60262.0,3-5-2,Peter Bankes,2023-2024,Wolverhampton Wanderers
-2023-12-05,19:30,Matchweek 15,Home,W,1,0,Burnley,51.0,30439.0,3-4-3,Jarred Gillett,2023-2024,Wolverhampton Wanderers
-2023-12-09,15:00,Matchweek 16,Home,D,1,1,Nottingham Forest,68.0,31543.0,3-4-3,Samuel Barrott,2023-2024,Wolverhampton Wanderers
-2023-12-17,14:00,Matchweek 17,Away,L,0,3,West Ham United,55.0,62455.0,3-4-3,Chris Kavanagh,2023-2024,Wolverhampton Wanderers
-2023-12-24,13:00,Matchweek 18,Home,W,2,1,Chelsea,32.0,31641.0,3-4-3,David Coote,2023-2024,Wolverhampton Wanderers
-2023-12-27,19:30,Matchweek 19,Away,W,4,1,Brentford,40.0,17109.0,3-4-3,Andy Madley,2023-2024,Wolverhampton Wanderers
-2023-12-30,15:00,Matchweek 20,Home,W,3,0,Everton,53.0,31639.0,3-4-3,Thomas Bramall,2023-2024,Wolverhampton Wanderers
-2024-01-22,19:45,Matchweek 21,Away,D,0,0,Brighton and Hove Albion,28.0,41505.0,3-4-3,Craig Pawson,2023-2024,Wolverhampton Wanderers
-2024-02-01,20:15,Matchweek 22,Home,L,3,4,Manchester United,53.0,31641.0,3-4-3,Jarred Gillett,2023-2024,Wolverhampton Wanderers
-2024-02-04,14:00,Matchweek 23,Away,W,4,2,Chelsea,36.0,39628.0,3-4-3,Tim Robinson,2023-2024,Wolverhampton Wanderers
-2024-02-10,15:00,Matchweek 24,Home,L,0,2,Brentford,71.0,30731.0,3-4-3,Simon Hooper,2023-2024,Wolverhampton Wanderers
-2024-02-17,15:00,Matchweek 25,Away,W,2,1,Tottenham Hotspur,29.0,61532.0,3-4-3,Anthony Taylor,2023-2024,Wolverhampton Wanderers
-2024-02-25,13:30,Matchweek 26,Home,W,1,0,Sheffield United,63.0,30789.0,3-4-3,Darren Bond,2023-2024,Wolverhampton Wanderers
-2024-03-02,15:00,Matchweek 27,Away,L,0,3,Newcastle United,56.0,52206.0,3-4-3,Tim Robinson,2023-2024,Wolverhampton Wanderers
-2024-03-09,15:00,Matchweek 28,Home,W,2,1,Fulham,48.0,30860.0,4-2-3-1,Tony Harrington,2023-2024,Wolverhampton Wanderers
-2024-03-30,17:30,Matchweek 30,Away,L,0,2,Aston Villa,52.0,42640.0,3-4-3,Paul Tierney,2023-2024,Wolverhampton Wanderers
-2024-04-02,19:45,Matchweek 31,Away,D,1,1,Burnley,49.0,21528.0,4-4-1-1,Thomas Bramall,2023-2024,Wolverhampton Wanderers
-2024-04-06,15:00,Matchweek 32,Home,L,1,2,West Ham United,58.0,31504.0,3-4-3,Tony Harrington,2023-2024,Wolverhampton Wanderers
-2024-04-13,15:00,Matchweek 33,Away,D,2,2,Nottingham Forest,54.0,29604.0,3-4-1-2,Craig Pawson,2023-2024,Wolverhampton Wanderers
-2024-04-20,19:30,Matchweek 34,Home,L,0,2,Arsenal,46.0,31621.0,4-4-2,Paul Tierney,2023-2024,Wolverhampton Wanderers
-2024-04-24,19:45,Matchweek 29,Home,L,0,1,Bournemouth,63.0,25541.0,4-1-4-1,Stuart Attwell,2023-2024,Wolverhampton Wanderers
-2024-04-27,15:00,Matchweek 35,Home,W,2,1,Luton Town,58.0,31531.0,3-5-1-1,David Coote,2023-2024,Wolverhampton Wanderers
-2024-05-04,17:30,Matchweek 36,Away,L,1,5,Manchester City,42.0,52439.0,3-5-2,Craig Pawson,2023-2024,Wolverhampton Wanderers
-2024-05-11,15:00,Matchweek 37,Home,L,1,3,Crystal Palace,62.0,31424.0,3-5-1-1,Thomas Bramall,2023-2024,Wolverhampton Wanderers
-2024-05-19,16:00,Matchweek 38,Away,L,0,2,Liverpool,33.0,31257.0,3-5-1-1,Chris Kavanagh,2023-2024,Wolverhampton Wanderers
-2023-08-12,15:00,Matchweek 1,Home,L,0,1,Fulham,42.0,39940.0,4-4-1-1,Stuart Attwell,2023-2024,Everton
-2023-08-20,14:00,Matchweek 2,Away,L,0,4,Aston Villa,40.0,41694.0,4-1-4-1,Anthony Taylor,2023-2024,Everton
-2023-08-26,15:00,Matchweek 3,Home,L,0,1,Wolverhampton Wanderers,47.0,38851.0,4-1-4-1,Craig Pawson,2023-2024,Everton
-2023-09-02,12:30,Matchweek 4,Away,D,2,2,Sheffield United,54.0,31124.0,4-4-1-1,Andy Madley,2023-2024,Everton
-2023-09-17,16:30,Matchweek 5,Home,L,0,1,Arsenal,26.0,39217.0,4-5-1,Simon Hooper,2023-2024,Everton
-2023-09-23,17:30,Matchweek 6,Away,W,3,1,Brentford,43.0,16981.0,4-4-1-1,Michael Oliver,2023-2024,Everton
-2023-09-30,15:00,Matchweek 7,Home,L,1,2,Luton Town,67.0,39289.0,4-4-1-1,Anthony Taylor,2023-2024,Everton
-2023-10-07,15:00,Matchweek 8,Home,W,3,0,Bournemouth,48.0,38815.0,4-4-1-1,David Coote,2023-2024,Everton
-2023-10-21,12:30,Matchweek 9,Away,L,0,2,Liverpool,23.0,50201.0,4-4-1-1,Craig Pawson,2023-2024,Everton
-2023-10-29,13:00,Matchweek 10,Away,W,1,0,West Ham United,36.0,62469.0,4-4-1-1,Stuart Attwell,2023-2024,Everton
-2023-11-04,15:00,Matchweek 11,Home,D,1,1,Brighton and Hove Albion,21.0,38683.0,4-4-1-1,Tim Robinson,2023-2024,Everton
-2023-11-11,15:00,Matchweek 12,Away,W,3,2,Crystal Palace,33.0,25103.0,4-4-1-1,Samuel Barrott,2023-2024,Everton
-2023-11-26,16:30,Matchweek 13,Home,L,0,3,Manchester United,51.0,39257.0,4-4-1-1,John Brooks,2023-2024,Everton
-2023-12-02,17:30,Matchweek 14,Away,W,1,0,Nottingham Forest,39.0,29404.0,4-4-1-1,Paul Tierney,2023-2024,Everton
-2023-12-07,19:30,Matchweek 15,Home,W,3,0,Newcastle United,38.0,38198.0,4-4-1-1,Tim Robinson,2023-2024,Everton
-2023-12-10,14:00,Matchweek 16,Home,W,2,0,Chelsea,29.0,39280.0,4-4-1-1,Michael Oliver,2023-2024,Everton
-2023-12-16,17:30,Matchweek 17,Away,W,2,0,Burnley,39.0,21413.0,5-4-1,Anthony Taylor,2023-2024,Everton
-2023-12-23,15:00,Matchweek 18,Away,L,1,2,Tottenham Hotspur,39.0,61808.0,4-2-3-1,Stuart Attwell,2023-2024,Everton
-2023-12-27,20:15,Matchweek 19,Home,L,1,3,Manchester City,28.0,39327.0,4-2-3-1,John Brooks,2023-2024,Everton
-2023-12-30,15:00,Matchweek 20,Away,L,0,3,Wolverhampton Wanderers,47.0,31639.0,5-4-1,Thomas Bramall,2023-2024,Everton
-2024-01-14,14:00,Matchweek 21,Home,D,0,0,Aston Villa,32.0,39284.0,4-2-3-1,David Coote,2023-2024,Everton
-2024-01-30,19:45,Matchweek 22,Away,D,0,0,Fulham,30.0,24376.0,4-4-1-1,Thomas Bramall,2023-2024,Everton
-2024-02-03,12:30,Matchweek 23,Home,D,2,2,Tottenham Hotspur,43.0,39321.0,4-4-1-1,Michael Oliver,2023-2024,Everton
-2024-02-10,12:30,Matchweek 24,Away,L,0,2,Manchester City,28.0,52187.0,4-2-3-1,John Brooks,2023-2024,Everton
-2024-02-19,20:00,Matchweek 25,Home,D,1,1,Crystal Palace,61.0,38164.0,4-4-1-1,Paul Tierney,2023-2024,Everton
-2024-02-24,15:00,Matchweek 26,Away,D,1,1,Brighton and Hove Albion,36.0,41646.0,4-4-1-1,Tony Harrington,2023-2024,Everton
-2024-03-02,15:00,Matchweek 27,Home,L,1,3,West Ham United,55.0,39262.0,4-4-1-1,Craig Pawson,2023-2024,Everton
-2024-03-09,12:30,Matchweek 28,Away,L,0,2,Manchester United,49.0,73601.0,4-4-1-1,Simon Hooper,2023-2024,Everton
-2024-03-30,15:00,Matchweek 30,Away,L,1,2,Bournemouth,52.0,11207.0,4-4-1-1,Samuel Barrott,2023-2024,Everton
-2024-04-02,19:30,Matchweek 31,Away,D,1,1,Newcastle United,43.0,52135.0,4-4-1-1,Tony Harrington,2023-2024,Everton
-2024-04-06,15:00,Matchweek 32,Home,W,1,0,Burnley,38.0,39125.0,4-4-1-1,Michael Oliver,2023-2024,Everton
-2024-04-15,20:00,Matchweek 33,Away,L,0,6,Chelsea,42.0,39392.0,4-4-1-1,Paul Tierney,2023-2024,Everton
-2024-04-21,13:30,Matchweek 34,Home,W,2,0,Nottingham Forest,41.0,39239.0,4-1-4-1,Anthony Taylor,2023-2024,Everton
-2024-04-24,20:00,Matchweek 29,Home,W,2,0,Liverpool,25.0,38222.0,4-4-1-1,Andy Madley,2023-2024,Everton
-2024-04-27,17:30,Matchweek 35,Home,W,1,0,Brentford,48.0,39098.0,4-4-1-1,Darren England,2023-2024,Everton
-2024-05-03,20:00,Matchweek 36,Away,D,1,1,Luton Town,49.0,11873.0,4-4-1-1,Tim Robinson,2023-2024,Everton
-2024-05-11,15:00,Matchweek 37,Home,W,1,0,Sheffield United,58.0,39221.0,4-4-1-1,Stuart Attwell,2023-2024,Everton
-2024-05-19,16:00,Matchweek 38,Away,L,1,2,Arsenal,32.0,60312.0,4-4-1-1,Michael Oliver,2023-2024,Everton
-2023-08-13,14:00,Matchweek 1,Home,D,2,2,Tottenham Hotspur,31.0,17066.0,5-3-2,Robert Jones,2023-2024,Brentford
-2023-08-19,15:00,Matchweek 2,Away,W,3,0,Fulham,45.0,24236.0,4-3-3,Darren Bond,2023-2024,Brentford
-2023-08-26,15:00,Matchweek 3,Home,D,1,1,Crystal Palace,60.0,16997.0,4-3-3,Peter Bankes,2023-2024,Brentford
-2023-09-02,15:00,Matchweek 4,Home,D,2,2,Bournemouth,60.0,16973.0,4-3-3,Robert Madley,2023-2024,Brentford
-2023-09-16,17:30,Matchweek 5,Away,L,0,1,Newcastle United,44.0,51670.0,5-3-2,Craig Pawson,2023-2024,Brentford
-2023-09-23,17:30,Matchweek 6,Home,L,1,3,Everton,57.0,16981.0,4-3-3,Michael Oliver,2023-2024,Brentford
-2023-10-01,14:00,Matchweek 7,Away,D,1,1,Nottingham Forest,59.0,29004.0,4-3-3,Paul Tierney,2023-2024,Brentford
-2023-10-07,15:00,Matchweek 8,Away,L,1,2,Manchester United,36.0,73453.0,3-5-2,Andy Madley,2023-2024,Brentford
-2023-10-21,15:00,Matchweek 9,Home,W,3,0,Burnley,50.0,17029.0,4-3-3,Joshua Smith,2023-2024,Brentford
-2023-10-28,12:30,Matchweek 10,Away,W,2,0,Chelsea,32.0,39575.0,3-5-2,Simon Hooper,2023-2024,Brentford
-2023-11-04,15:00,Matchweek 11,Home,W,3,2,West Ham United,58.0,17103.0,4-3-3,Thomas Bramall,2023-2024,Brentford
-2023-11-12,14:00,Matchweek 12,Away,L,0,3,Liverpool,42.0,50151.0,5-3-2,Paul Tierney,2023-2024,Brentford
-2023-11-25,17:30,Matchweek 13,Home,L,0,1,Arsenal,37.0,17201.0,5-3-2,Tim Robinson,2023-2024,Brentford
-2023-12-02,15:00,Matchweek 14,Home,W,3,1,Luton Town,68.0,17075.0,4-3-3,Anthony Taylor,2023-2024,Brentford
-2023-12-06,19:30,Matchweek 15,Away,L,1,2,Brighton and Hove Albion,39.0,31571.0,4-4-2,Peter Bankes,2023-2024,Brentford
-2023-12-09,15:00,Matchweek 16,Away,L,0,1,Sheffield United,59.0,28509.0,4-3-3,Stuart Attwell,2023-2024,Brentford
-2023-12-17,14:00,Matchweek 17,Home,L,1,2,Aston Villa,34.0,17034.0,3-5-2,David Coote,2023-2024,Brentford
-2023-12-27,19:30,Matchweek 19,Home,L,1,4,Wolverhampton Wanderers,60.0,17109.0,4-3-3,Andy Madley,2023-2024,Brentford
-2023-12-30,15:00,Matchweek 20,Away,L,1,3,Crystal Palace,54.0,25472.0,3-5-2,Robert Jones,2023-2024,Brentford
-2024-01-20,17:30,Matchweek 21,Home,W,3,2,Nottingham Forest,48.0,17077.0,3-5-2,Darren England,2023-2024,Brentford
-2024-01-31,19:30,Matchweek 22,Away,L,2,3,Tottenham Hotspur,33.0,61210.0,3-5-2,David Coote,2023-2024,Brentford
-2024-02-05,20:00,Matchweek 23,Home,L,1,3,Manchester City,28.0,17096.0,3-5-2,Jarred Gillett,2023-2024,Brentford
-2024-02-10,15:00,Matchweek 24,Away,W,2,0,Wolverhampton Wanderers,29.0,30731.0,3-5-2,Simon Hooper,2023-2024,Brentford
-2024-02-17,12:30,Matchweek 25,Home,L,1,4,Liverpool,38.0,17193.0,3-5-2,Michael Oliver,2023-2024,Brentford
-2024-02-20,19:30,Matchweek 18,Away,L,0,1,Manchester City,30.0,52247.0,3-5-2,Darren England,2023-2024,Brentford
-2024-02-26,20:00,Matchweek 26,Away,L,2,4,West Ham United,59.0,62450.0,3-5-2,Simon Hooper,2023-2024,Brentford
-2024-03-02,15:00,Matchweek 27,Home,D,2,2,Chelsea,33.0,17140.0,3-5-2,Jarred Gillett,2023-2024,Brentford
-2024-03-09,17:30,Matchweek 28,Away,L,1,2,Arsenal,29.0,60331.0,3-5-2,Robert Jones,2023-2024,Brentford
-2024-03-16,15:00,Matchweek 29,Away,L,1,2,Burnley,40.0,20431.0,3-5-2,Darren Bond,2023-2024,Brentford
-2024-03-30,20:00,Matchweek 30,Home,D,1,1,Manchester United,47.0,17138.0,3-5-2,Simon Hooper,2023-2024,Brentford
-2024-04-03,19:30,Matchweek 31,Home,D,0,0,Brighton and Hove Albion,34.0,17024.0,3-5-2,Andy Madley,2023-2024,Brentford
-2024-04-06,15:00,Matchweek 32,Away,D,3,3,Aston Villa,31.0,42118.0,3-5-2,Michael Salisbury,2023-2024,Brentford
-2024-04-13,15:00,Matchweek 33,Home,W,2,0,Sheffield United,53.0,17115.0,4-3-3,Samuel Barrott,2023-2024,Brentford
-2024-04-20,15:00,Matchweek 34,Away,W,5,1,Luton Town,47.0,11877.0,4-3-3,Jarred Gillett,2023-2024,Brentford
-2024-04-27,17:30,Matchweek 35,Away,L,0,1,Everton,52.0,39098.0,4-3-3,Darren England,2023-2024,Brentford
-2024-05-04,15:00,Matchweek 36,Home,D,0,0,Fulham,54.0,17090.0,4-3-3,Graham Scott,2023-2024,Brentford
-2024-05-11,15:00,Matchweek 37,Away,W,2,1,Bournemouth,52.0,11154.0,4-3-3,Matt Donohue,2023-2024,Brentford
-2024-05-19,16:00,Matchweek 38,Home,L,2,4,Newcastle United,54.0,17124.0,4-3-3,Simon Hooper,2023-2024,Brentford
-2023-08-12,12:30,Matchweek 1,Away,L,1,2,Arsenal,22.0,59984.0,3-4-3,Michael Oliver,2023-2024,Nottingham Forest
-2023-08-18,19:45,Matchweek 2,Home,W,2,1,Sheffield United,50.0,29432.0,3-4-3,Peter Bankes,2023-2024,Nottingham Forest
-2023-08-26,15:00,Matchweek 3,Away,L,2,3,Manchester United,34.0,73595.0,3-4-3,Stuart Attwell,2023-2024,Nottingham Forest
-2023-09-02,15:00,Matchweek 4,Away,W,1,0,Chelsea,25.0,39820.0,3-4-3,Tim Robinson,2023-2024,Nottingham Forest
-2023-09-18,19:45,Matchweek 5,Home,D,1,1,Burnley,46.0,28958.0,4-2-3-1,Robert Jones,2023-2024,Nottingham Forest
-2023-09-23,15:00,Matchweek 6,Away,L,0,2,Manchester City,43.0,53413.0,5-4-1,Anthony Taylor,2023-2024,Nottingham Forest
-2023-10-01,14:00,Matchweek 7,Home,D,1,1,Brentford,41.0,29004.0,4-3-3,Paul Tierney,2023-2024,Nottingham Forest
-2023-10-07,17:30,Matchweek 8,Away,D,0,0,Crystal Palace,48.0,25017.0,4-3-3,Craig Pawson,2023-2024,Nottingham Forest
-2023-10-21,15:00,Matchweek 9,Home,D,2,2,Luton Town,57.0,29361.0,4-3-3,Samuel Barrott,2023-2024,Nottingham Forest
-2023-10-29,14:00,Matchweek 10,Away,L,0,3,Liverpool,28.0,50143.0,5-4-1,Chris Kavanagh,2023-2024,Nottingham Forest
-2023-11-05,14:00,Matchweek 11,Home,W,2,0,Aston Villa,27.0,29313.0,4-3-3,Jarred Gillett,2023-2024,Nottingham Forest
-2023-11-12,14:00,Matchweek 12,Away,L,2,3,West Ham United,46.0,62470.0,4-3-3,Michael Salisbury,2023-2024,Nottingham Forest
-2023-11-25,15:00,Matchweek 13,Home,L,2,3,Brighton and Hove Albion,47.0,29404.0,4-1-4-1,Anthony Taylor,2023-2024,Nottingham Forest
-2023-12-02,17:30,Matchweek 14,Home,L,0,1,Everton,61.0,29404.0,4-3-3,Paul Tierney,2023-2024,Nottingham Forest
-2023-12-06,19:30,Matchweek 15,Away,L,0,5,Fulham,37.0,24105.0,4-2-3-1,Joshua Smith,2023-2024,Nottingham Forest
-2023-12-09,15:00,Matchweek 16,Away,D,1,1,Wolverhampton Wanderers,32.0,31543.0,3-5-2,Samuel Barrott,2023-2024,Nottingham Forest
-2023-12-15,20:00,Matchweek 17,Home,L,0,2,Tottenham Hotspur,34.0,29296.0,3-5-2,Jarred Gillett,2023-2024,Nottingham Forest
-2023-12-23,15:00,Matchweek 18,Home,L,2,3,Bournemouth,34.0,29188.0,4-2-3-1,Robert Jones,2023-2024,Nottingham Forest
-2023-12-26,12:30,Matchweek 19,Away,W,3,1,Newcastle United,38.0,52207.0,4-2-3-1,Chris Kavanagh,2023-2024,Nottingham Forest
-2023-12-30,17:30,Matchweek 20,Home,W,2,1,Manchester United,44.0,29529.0,4-2-3-1,Tim Robinson,2023-2024,Nottingham Forest
-2024-01-20,17:30,Matchweek 21,Away,L,2,3,Brentford,52.0,17077.0,4-2-3-1,Darren England,2023-2024,Nottingham Forest
-2024-01-30,19:30,Matchweek 22,Home,L,1,2,Arsenal,27.0,29387.0,4-2-3-1,Simon Hooper,2023-2024,Nottingham Forest
-2024-02-04,14:00,Matchweek 23,Away,D,1,1,Bournemouth,55.0,11200.0,4-2-3-1,Rebecca Welch,2023-2024,Nottingham Forest
-2024-02-10,17:30,Matchweek 24,Home,L,2,3,Newcastle United,39.0,29451.0,4-2-3-1,Anthony Taylor,2023-2024,Nottingham Forest
-2024-02-17,15:00,Matchweek 25,Home,W,2,0,West Ham United,49.0,29490.0,4-2-3-1,Thomas Bramall,2023-2024,Nottingham Forest
-2024-02-24,15:00,Matchweek 26,Away,L,2,4,Aston Villa,42.0,42131.0,4-2-3-1,Samuel Barrott,2023-2024,Nottingham Forest
-2024-03-02,15:00,Matchweek 27,Home,L,0,1,Liverpool,31.0,29603.0,4-2-3-1,Paul Tierney,2023-2024,Nottingham Forest
-2024-03-10,14:00,Matchweek 28,Away,L,0,1,Brighton and Hove Albion,37.0,31505.0,4-3-3,Michael Salisbury,2023-2024,Nottingham Forest
-2024-03-16,15:00,Matchweek 29,Away,D,1,1,Luton Town,40.0,11630.0,4-2-3-1,Darren England,2023-2024,Nottingham Forest
-2024-03-30,15:00,Matchweek 30,Home,D,1,1,Crystal Palace,59.0,29520.0,4-2-3-1,Chris Kavanagh,2023-2024,Nottingham Forest
-2024-04-02,19:30,Matchweek 31,Home,W,3,1,Fulham,34.0,28997.0,4-2-3-1,Michael Oliver,2023-2024,Nottingham Forest
-2024-04-07,18:00,Matchweek 32,Away,L,1,3,Tottenham Hotspur,37.0,61098.0,4-2-3-1,Simon Hooper,2023-2024,Nottingham Forest
-2024-04-13,15:00,Matchweek 33,Home,D,2,2,Wolverhampton Wanderers,46.0,29604.0,4-2-3-1,Craig Pawson,2023-2024,Nottingham Forest
-2024-04-21,13:30,Matchweek 34,Away,L,0,2,Everton,59.0,39239.0,4-2-3-1,Anthony Taylor,2023-2024,Nottingham Forest
-2024-04-28,16:30,Matchweek 35,Home,L,0,2,Manchester City,34.0,29677.0,5-4-1,Simon Hooper,2023-2024,Nottingham Forest
-2024-05-04,15:00,Matchweek 36,Away,W,3,1,Sheffield United,46.0,28516.0,4-2-3-1,Chris Kavanagh,2023-2024,Nottingham Forest
-2024-05-11,17:30,Matchweek 37,Home,L,2,3,Chelsea,33.0,29708.0,5-4-1,Tony Harrington,2023-2024,Nottingham Forest
-2024-05-19,16:00,Matchweek 38,Away,W,2,1,Burnley,28.0,21109.0,4-2-3-1,Graham Scott,2023-2024,Nottingham Forest
-2023-08-12,15:00,Matchweek 1,Away,L,1,4,Brighton and Hove Albion,30.0,31872.0,3-5-2,David Coote,2023-2024,Luton Town
-2023-08-25,20:00,Matchweek 3,Away,L,0,3,Chelsea,33.0,39893.0,5-3-2,Robert Jones,2023-2024,Luton Town
-2023-09-01,20:00,Matchweek 4,Home,L,1,2,West Ham United,39.0,10802.0,5-3-2,Paul Tierney,2023-2024,Luton Town
-2023-09-16,15:00,Matchweek 5,Away,L,0,1,Fulham,23.0,24467.0,5-3-2,Michael Salisbury,2023-2024,Luton Town
-2023-09-23,15:00,Matchweek 6,Home,D,1,1,Wolverhampton Wanderers,57.0,10893.0,3-4-3,Joshua Smith,2023-2024,Luton Town
-2023-09-30,15:00,Matchweek 7,Away,W,2,1,Everton,33.0,39289.0,3-4-3,Anthony Taylor,2023-2024,Luton Town
-2023-10-03,19:30,Matchweek 2,Home,L,1,2,Burnley,49.0,10918.0,3-4-3,Peter Bankes,2023-2024,Luton Town
-2023-10-07,12:30,Matchweek 8,Home,L,0,1,Tottenham Hotspur,34.0,10290.0,4-4-2,John Brooks,2023-2024,Luton Town
-2023-10-21,15:00,Matchweek 9,Away,D,2,2,Nottingham Forest,43.0,29361.0,4-4-2,Samuel Barrott,2023-2024,Luton Town
-2023-10-29,14:00,Matchweek 10,Away,L,1,3,Aston Villa,30.0,41785.0,3-4-3,John Brooks,2023-2024,Luton Town
-2023-11-05,16:30,Matchweek 11,Home,D,1,1,Liverpool,27.0,11049.0,3-4-3,Andy Madley,2023-2024,Luton Town
-2023-11-11,15:00,Matchweek 12,Away,L,0,1,Manchester United,36.0,73599.0,3-4-3,Graham Scott,2023-2024,Luton Town
-2023-11-25,15:00,Matchweek 13,Home,W,2,1,Crystal Palace,39.0,11029.0,3-4-3,Jarred Gillett,2023-2024,Luton Town
-2023-12-02,15:00,Matchweek 14,Away,L,1,3,Brentford,32.0,17075.0,3-4-3,Anthony Taylor,2023-2024,Luton Town
-2023-12-05,20:15,Matchweek 15,Home,L,3,4,Arsenal,34.0,11031.0,3-4-3,Samuel Barrott,2023-2024,Luton Town
-2023-12-10,14:00,Matchweek 16,Home,L,1,2,Manchester City,35.0,11047.0,3-4-3,Tim Robinson,2023-2024,Luton Town
-2023-12-23,15:00,Matchweek 18,Home,W,1,0,Newcastle United,35.0,11042.0,3-4-3,Darren England,2023-2024,Luton Town
-2023-12-26,15:00,Matchweek 19,Away,W,3,2,Sheffield United,49.0,31041.0,3-4-3,Samuel Allison,2023-2024,Luton Town
-2023-12-30,12:30,Matchweek 20,Home,L,2,3,Chelsea,52.0,11041.0,3-4-3,Paul Tierney,2023-2024,Luton Town
-2024-01-12,19:45,Matchweek 21,Away,D,1,1,Burnley,61.0,20155.0,3-4-3,Tony Harrington,2023-2024,Luton Town
-2024-01-30,19:45,Matchweek 22,Home,W,4,0,Brighton and Hove Albion,41.0,10994.0,3-4-3,Robert Jones,2023-2024,Luton Town
-2024-02-03,15:00,Matchweek 23,Away,D,4,4,Newcastle United,45.0,52211.0,3-4-3,Thomas Bramall,2023-2024,Luton Town
-2024-02-10,15:00,Matchweek 24,Home,L,1,3,Sheffield United,74.0,11138.0,3-4-3,Chris Kavanagh,2023-2024,Luton Town
-2024-02-18,16:30,Matchweek 25,Home,L,1,2,Manchester United,58.0,11483.0,3-4-3,David Coote,2023-2024,Luton Town
-2024-02-21,19:30,Matchweek 26,Away,L,1,4,Liverpool,40.0,59713.0,3-4-3,Andy Madley,2023-2024,Luton Town
-2024-03-02,17:30,Matchweek 27,Home,L,2,3,Aston Villa,46.0,11594.0,3-4-3,Michael Oliver,2023-2024,Luton Town
-2024-03-09,15:00,Matchweek 28,Away,D,1,1,Crystal Palace,51.0,25103.0,3-4-3,Sunny Singh,2023-2024,Luton Town
-2024-03-13,19:30,Matchweek 17,Away,L,3,4,Bournemouth,41.0,11198.0,3-4-3,Samuel Allison,2023-2024,Luton Town
-2024-03-16,15:00,Matchweek 29,Home,D,1,1,Nottingham Forest,60.0,11630.0,3-4-3,Darren England,2023-2024,Luton Town
-2024-03-30,15:00,Matchweek 30,Away,L,1,2,Tottenham Hotspur,30.0,61534.0,4-3-3,Jarred Gillett,2023-2024,Luton Town
-2024-04-03,19:30,Matchweek 31,Away,L,0,2,Arsenal,42.0,60262.0,3-4-3,Craig Pawson,2023-2024,Luton Town
-2024-04-06,15:00,Matchweek 32,Home,W,2,1,Bournemouth,55.0,11797.0,3-4-3,Andy Madley,2023-2024,Luton Town
-2024-04-13,15:00,Matchweek 33,Away,L,1,5,Manchester City,27.0,52149.0,3-4-3,John Brooks,2023-2024,Luton Town
-2024-04-20,15:00,Matchweek 34,Home,L,1,5,Brentford,53.0,11877.0,3-4-3,Jarred Gillett,2023-2024,Luton Town
-2024-04-27,15:00,Matchweek 35,Away,L,1,2,Wolverhampton Wanderers,42.0,31531.0,3-4-3,David Coote,2023-2024,Luton Town
-2024-05-03,20:00,Matchweek 36,Home,D,1,1,Everton,51.0,11873.0,3-4-3,Tim Robinson,2023-2024,Luton Town
-2024-05-11,15:00,Matchweek 37,Away,L,1,3,West Ham United,42.0,62475.0,3-4-3,Michael Oliver,2023-2024,Luton Town
-2024-05-19,16:00,Matchweek 38,Home,L,2,4,Fulham,41.0,12027.0,3-4-3,Matt Donohue,2023-2024,Luton Town
-2023-08-11,20:00,Matchweek 1,Home,L,0,3,Manchester City,35.0,21572.0,5-4-1,Craig Pawson,2023-2024,Burnley
-2023-08-27,14:00,Matchweek 3,Home,L,1,3,Aston Villa,57.0,21591.0,4-4-2,Michael Salisbury,2023-2024,Burnley
-2023-09-02,15:00,Matchweek 4,Home,L,2,5,Tottenham Hotspur,47.0,21750.0,4-4-2,Darren England,2023-2024,Burnley
-2023-09-18,19:45,Matchweek 5,Away,D,1,1,Nottingham Forest,54.0,28958.0,4-2-3-1,Robert Jones,2023-2024,Burnley
-2023-09-23,20:00,Matchweek 6,Home,L,0,1,Manchester United,61.0,21593.0,4-3-3,Tony Harrington,2023-2024,Burnley
-2023-09-30,15:00,Matchweek 7,Away,L,0,2,Newcastle United,47.0,51687.0,4-2-3-1,Thomas Bramall,2023-2024,Burnley
-2023-10-03,19:30,Matchweek 2,Away,W,2,1,Luton Town,51.0,10918.0,4-3-3,Peter Bankes,2023-2024,Burnley
-2023-10-07,15:00,Matchweek 8,Home,L,1,4,Chelsea,38.0,21654.0,4-3-3,Stuart Attwell,2023-2024,Burnley
-2023-10-21,15:00,Matchweek 9,Away,L,0,3,Brentford,50.0,17029.0,4-2-3-1,Joshua Smith,2023-2024,Burnley
-2023-10-28,15:00,Matchweek 10,Away,L,1,2,Bournemouth,55.0,11152.0,4-3-3,Samuel Barrott,2023-2024,Burnley
-2023-11-04,15:00,Matchweek 11,Home,L,0,2,Crystal Palace,67.0,21578.0,4-4-2,Peter Bankes,2023-2024,Burnley
-2023-11-11,15:00,Matchweek 12,Away,L,1,3,Arsenal,37.0,60232.0,4-4-2,Michael Oliver,2023-2024,Burnley
-2023-11-25,15:00,Matchweek 13,Home,L,1,2,West Ham United,50.0,21319.0,4-4-2,Samuel Barrott,2023-2024,Burnley
-2023-12-02,15:00,Matchweek 14,Home,W,5,0,Sheffield United,63.0,21478.0,4-4-2,Chris Kavanagh,2023-2024,Burnley
-2023-12-05,19:30,Matchweek 15,Away,L,0,1,Wolverhampton Wanderers,49.0,30439.0,4-4-2,Jarred Gillett,2023-2024,Burnley
-2023-12-09,15:00,Matchweek 16,Away,D,1,1,Brighton and Hove Albion,28.0,31511.0,4-4-2,Simon Hooper,2023-2024,Burnley
-2023-12-16,17:30,Matchweek 17,Home,L,0,2,Everton,61.0,21413.0,4-4-2,Anthony Taylor,2023-2024,Burnley
-2023-12-23,15:00,Matchweek 18,Away,W,2,0,Fulham,34.0,23598.0,4-4-2,Rebecca Welch,2023-2024,Burnley
-2023-12-26,17:30,Matchweek 19,Home,L,0,2,Liverpool,32.0,21624.0,4-4-2,Paul Tierney,2023-2024,Burnley
-2023-12-30,15:00,Matchweek 20,Away,L,2,3,Aston Villa,36.0,41613.0,4-4-2,Stuart Attwell,2023-2024,Burnley
-2024-01-12,19:45,Matchweek 21,Home,D,1,1,Luton Town,39.0,20155.0,4-4-2,Tony Harrington,2023-2024,Burnley
-2024-01-31,19:30,Matchweek 22,Away,L,1,3,Manchester City,26.0,52143.0,4-4-2,Samuel Barrott,2023-2024,Burnley
-2024-02-03,15:00,Matchweek 23,Home,D,2,2,Fulham,44.0,20203.0,4-4-2,Darren Bond,2023-2024,Burnley
-2024-02-10,15:00,Matchweek 24,Away,L,1,3,Liverpool,30.0,59896.0,4-4-2,Tim Robinson,2023-2024,Burnley
-2024-02-17,15:00,Matchweek 25,Home,L,0,5,Arsenal,36.0,21311.0,4-4-2,Jarred Gillett,2023-2024,Burnley
-2024-02-24,15:00,Matchweek 26,Away,L,0,3,Crystal Palace,44.0,24042.0,4-4-2,Lewis Smith,2023-2024,Burnley
-2024-03-03,13:00,Matchweek 27,Home,L,0,2,Bournemouth,74.0,19713.0,4-4-2,David Coote,2023-2024,Burnley
-2024-03-10,14:00,Matchweek 28,Away,D,2,2,West Ham United,48.0,62441.0,4-4-2,Darren England,2023-2024,Burnley
-2024-03-16,15:00,Matchweek 29,Home,W,2,1,Brentford,60.0,20431.0,4-4-2,Darren Bond,2023-2024,Burnley
-2024-03-30,15:00,Matchweek 30,Away,D,2,2,Chelsea,31.0,39535.0,4-4-2,Darren England,2023-2024,Burnley
-2024-04-02,19:45,Matchweek 31,Home,D,1,1,Wolverhampton Wanderers,51.0,21528.0,4-4-2,Thomas Bramall,2023-2024,Burnley
-2024-04-06,15:00,Matchweek 32,Away,L,0,1,Everton,62.0,39125.0,4-4-2,Michael Oliver,2023-2024,Burnley
-2024-04-13,15:00,Matchweek 33,Home,D,1,1,Brighton and Hove Albion,45.0,20687.0,4-4-2,Simon Hooper,2023-2024,Burnley
-2024-04-20,15:00,Matchweek 34,Away,W,4,1,Sheffield United,51.0,28964.0,4-4-2,Andy Madley,2023-2024,Burnley
-2024-04-27,15:00,Matchweek 35,Away,D,1,1,Manchester United,52.0,73571.0,4-4-2,John Brooks,2023-2024,Burnley
-2024-05-04,15:00,Matchweek 36,Home,L,1,4,Newcastle United,47.0,21781.0,4-2-3-1,Anthony Taylor,2023-2024,Burnley
-2024-05-11,15:00,Matchweek 37,Away,L,1,2,Tottenham Hotspur,37.0,61148.0,4-4-2,Jarred Gillett,2023-2024,Burnley
-2024-05-19,16:00,Matchweek 38,Home,L,1,2,Nottingham Forest,72.0,21109.0,4-4-2,Graham Scott,2023-2024,Burnley
-2023-08-12,15:00,Matchweek 1,Home,L,0,1,Crystal Palace,32.0,31194.0,3-4-3,John Brooks,2023-2024,Sheffield United
-2023-08-18,19:45,Matchweek 2,Away,L,1,2,Nottingham Forest,50.0,29432.0,3-4-3,Peter Bankes,2023-2024,Sheffield United
-2023-08-27,14:00,Matchweek 3,Home,L,1,2,Manchester City,21.0,31336.0,3-5-2,Jarred Gillett,2023-2024,Sheffield United
-2023-09-02,12:30,Matchweek 4,Home,D,2,2,Everton,46.0,31124.0,3-5-2,Andy Madley,2023-2024,Sheffield United
-2023-09-16,15:00,Matchweek 5,Away,L,1,2,Tottenham Hotspur,30.0,61706.0,3-5-2,Peter Bankes,2023-2024,Sheffield United
-2023-09-24,16:30,Matchweek 6,Home,L,0,8,Newcastle United,42.0,31127.0,3-4-3,Stuart Attwell,2023-2024,Sheffield United
-2023-09-30,15:00,Matchweek 7,Away,L,0,2,West Ham United,48.0,62459.0,3-5-2,Graham Scott,2023-2024,Sheffield United
-2023-10-07,15:00,Matchweek 8,Away,L,1,3,Fulham,40.0,24361.0,3-5-2,Samuel Barrott,2023-2024,Sheffield United
-2023-10-21,20:00,Matchweek 9,Home,L,1,2,Manchester United,38.0,31543.0,4-4-2,Michael Oliver,2023-2024,Sheffield United
-2023-10-28,15:00,Matchweek 10,Away,L,0,5,Arsenal,33.0,60153.0,4-4-2,Tim Robinson,2023-2024,Sheffield United
-2023-11-04,15:00,Matchweek 11,Home,W,2,1,Wolverhampton Wanderers,39.0,29454.0,3-4-1-2,Robert Jones,2023-2024,Sheffield United
-2023-11-12,14:00,Matchweek 12,Away,D,1,1,Brighton and Hove Albion,39.0,31367.0,3-4-3,John Brooks,2023-2024,Sheffield United
-2023-11-25,15:00,Matchweek 13,Home,L,1,3,Bournemouth,46.0,30208.0,3-4-3,Andy Madley,2023-2024,Sheffield United
-2023-12-02,15:00,Matchweek 14,Away,L,0,5,Burnley,37.0,21478.0,3-4-3,Chris Kavanagh,2023-2024,Sheffield United
-2023-12-06,19:30,Matchweek 15,Home,L,0,2,Liverpool,25.0,31406.0,3-4-3,Simon Hooper,2023-2024,Sheffield United
-2023-12-09,15:00,Matchweek 16,Home,W,1,0,Brentford,41.0,28509.0,4-1-4-1,Stuart Attwell,2023-2024,Sheffield United
-2023-12-16,15:00,Matchweek 17,Away,L,0,2,Chelsea,22.0,39599.0,4-1-4-1,Andy Madley,2023-2024,Sheffield United
-2023-12-22,20:00,Matchweek 18,Away,D,1,1,Aston Villa,23.0,41651.0,3-4-3,Anthony Taylor,2023-2024,Sheffield United
-2023-12-26,15:00,Matchweek 19,Home,L,2,3,Luton Town,51.0,31041.0,4-4-2,Samuel Allison,2023-2024,Sheffield United
-2023-12-30,15:00,Matchweek 20,Away,L,0,2,Manchester City,20.0,53108.0,3-4-3,David Coote,2023-2024,Sheffield United
-2024-01-21,14:00,Matchweek 21,Home,D,2,2,West Ham United,57.0,29164.0,4-1-4-1,Michael Salisbury,2023-2024,Sheffield United
-2024-01-30,20:00,Matchweek 22,Away,L,2,3,Crystal Palace,47.0,24781.0,4-1-4-1,Tony Harrington,2023-2024,Sheffield United
-2024-02-03,17:30,Matchweek 23,Home,L,0,5,Aston Villa,37.0,30187.0,5-4-1,Paul Tierney,2023-2024,Sheffield United
-2024-02-10,15:00,Matchweek 24,Away,W,3,1,Luton Town,26.0,11138.0,5-4-1,Chris Kavanagh,2023-2024,Sheffield United
-2024-02-18,14:00,Matchweek 25,Home,L,0,5,Brighton and Hove Albion,21.0,29522.0,3-5-1-1,Stuart Attwell,2023-2024,Sheffield United
-2024-02-25,13:30,Matchweek 26,Away,L,0,1,Wolverhampton Wanderers,37.0,30789.0,3-5-2,Darren Bond,2023-2024,Sheffield United
-2024-03-04,20:00,Matchweek 27,Home,L,0,6,Arsenal,20.0,29157.0,4-5-1,Samuel Barrott,2023-2024,Sheffield United
-2024-03-09,15:00,Matchweek 28,Away,D,2,2,Bournemouth,31.0,11074.0,3-5-2,Anthony Taylor,2023-2024,Sheffield United
-2024-03-30,15:00,Matchweek 30,Home,D,3,3,Fulham,27.0,30010.0,3-5-2,Tim Robinson,2023-2024,Sheffield United
-2024-04-04,19:30,Matchweek 31,Away,L,1,3,Liverpool,18.0,60055.0,3-5-2,Stuart Attwell,2023-2024,Sheffield United
-2024-04-07,17:30,Matchweek 32,Home,D,2,2,Chelsea,32.0,28638.0,3-5-2,Robert Jones,2023-2024,Sheffield United
-2024-04-13,15:00,Matchweek 33,Away,L,0,2,Brentford,47.0,17115.0,3-5-2,Samuel Barrott,2023-2024,Sheffield United
-2024-04-20,15:00,Matchweek 34,Home,L,1,4,Burnley,49.0,28964.0,4-2-3-1,Andy Madley,2023-2024,Sheffield United
-2024-04-24,20:00,Matchweek 29,Away,L,2,4,Manchester United,29.0,73549.0,3-5-2,Michael Salisbury,2023-2024,Sheffield United
-2024-04-27,15:00,Matchweek 35,Away,L,1,5,Newcastle United,40.0,52196.0,3-5-2,Tony Harrington,2023-2024,Sheffield United
-2024-05-04,15:00,Matchweek 36,Home,L,1,3,Nottingham Forest,54.0,28516.0,3-5-2,Chris Kavanagh,2023-2024,Sheffield United
-2024-05-11,15:00,Matchweek 37,Away,L,0,1,Everton,42.0,39221.0,3-5-2,Stuart Attwell,2023-2024,Sheffield United
-2024-05-19,16:00,Matchweek 38,Home,L,0,3,Tottenham Hotspur,25.0,29116.0,5-3-2,Andy Madley,2023-2024,Sheffield United
+date,time,round,venue,result,gf,ga,opponent,attendance,formation,referee,season,team
+2023-08-11,20:00,Matchweek 1,Away,W,3,0,Burnley,21572.0,4-2-3-1,Craig Pawson,2023-2024,Manchester City
+2023-08-19,20:00,Matchweek 2,Home,W,1,0,Newcastle United,53419.0,4-2-3-1,Robert Jones,2023-2024,Manchester City
+2023-08-27,14:00,Matchweek 3,Away,W,2,1,Sheffield United,31336.0,4-2-3-1,Jarred Gillett,2023-2024,Manchester City
+2023-09-02,15:00,Matchweek 4,Home,W,5,1,Fulham,52899.0,4-2-3-1,Michael Oliver,2023-2024,Manchester City
+2023-09-16,15:00,Matchweek 5,Away,W,3,1,West Ham United,62475.0,4-2-3-1,Andy Madley,2023-2024,Manchester City
+2023-09-23,15:00,Matchweek 6,Home,W,2,0,Nottingham Forest,53413.0,4-2-3-1,Anthony Taylor,2023-2024,Manchester City
+2023-09-30,15:00,Matchweek 7,Away,L,1,2,Wolverhampton Wanderers,31415.0,4-2-3-1,Craig Pawson,2023-2024,Manchester City
+2023-10-08,16:30,Matchweek 8,Away,L,0,1,Arsenal,60233.0,4-3-3,Michael Oliver,2023-2024,Manchester City
+2023-10-21,15:00,Matchweek 9,Home,W,2,1,Brighton and Hove Albion,53466.0,3-2-4-1,Robert Jones,2023-2024,Manchester City
+2023-10-29,15:30,Matchweek 10,Away,W,3,0,Manchester United,73502.0,4-2-3-1,Paul Tierney,2023-2024,Manchester City
+2023-11-04,15:00,Matchweek 11,Home,W,6,1,Bournemouth,53358.0,3-4-3,Craig Pawson,2023-2024,Manchester City
+2023-11-12,16:30,Matchweek 12,Away,D,4,4,Chelsea,39532.0,3-2-4-1,Anthony Taylor,2023-2024,Manchester City
+2023-11-25,12:30,Matchweek 13,Home,D,1,1,Liverpool,53289.0,3-2-4-1,Chris Kavanagh,2023-2024,Manchester City
+2023-12-03,16:30,Matchweek 14,Home,D,3,3,Tottenham Hotspur,53473.0,3-2-4-1,Simon Hooper,2023-2024,Manchester City
+2023-12-06,20:15,Matchweek 15,Away,L,0,1,Aston Villa,41421.0,3-2-4-1,John Brooks,2023-2024,Manchester City
+2023-12-10,14:00,Matchweek 16,Away,W,2,1,Luton Town,11047.0,4-2-3-1,Tim Robinson,2023-2024,Manchester City
+2023-12-16,15:00,Matchweek 17,Home,D,2,2,Crystal Palace,53248.0,4-2-3-1,Paul Tierney,2023-2024,Manchester City
+2023-12-27,20:15,Matchweek 19,Away,W,3,1,Everton,39327.0,4-2-3-1,John Brooks,2023-2024,Manchester City
+2023-12-30,15:00,Matchweek 20,Home,W,2,0,Sheffield United,53108.0,4-2-3-1,David Coote,2023-2024,Manchester City
+2024-01-13,17:30,Matchweek 21,Away,W,3,2,Newcastle United,52190.0,4-2-3-1,Chris Kavanagh,2023-2024,Manchester City
+2024-01-31,19:30,Matchweek 22,Home,W,3,1,Burnley,52143.0,4-2-3-1,Samuel Barrott,2023-2024,Manchester City
+2024-02-05,20:00,Matchweek 23,Away,W,3,1,Brentford,17096.0,4-1-4-1,Jarred Gillett,2023-2024,Manchester City
+2024-02-10,12:30,Matchweek 24,Home,W,2,0,Everton,52187.0,4-1-4-1,John Brooks,2023-2024,Manchester City
+2024-02-17,17:30,Matchweek 25,Home,D,1,1,Chelsea,52178.0,4-1-4-1,Andy Madley,2023-2024,Manchester City
+2024-02-20,19:30,Matchweek 18,Home,W,1,0,Brentford,52247.0,4-2-3-1,Darren England,2023-2024,Manchester City
+2024-02-24,17:30,Matchweek 26,Away,W,1,0,Bournemouth,11184.0,3-2-4-1,Jarred Gillett,2023-2024,Manchester City
+2024-03-03,15:30,Matchweek 27,Home,W,3,1,Manchester United,53514.0,3-2-4-1,Andy Madley,2023-2024,Manchester City
+2024-03-10,15:45,Matchweek 28,Away,D,1,1,Liverpool,59947.0,3-2-4-1,Michael Oliver,2023-2024,Manchester City
+2024-03-31,16:30,Matchweek 30,Home,D,0,0,Arsenal,52178.0,4-1-4-1,Anthony Taylor,2023-2024,Manchester City
+2024-04-03,20:15,Matchweek 31,Home,W,4,1,Aston Villa,53422.0,4-2-3-1,Darren England,2023-2024,Manchester City
+2024-04-06,12:30,Matchweek 32,Away,W,4,2,Crystal Palace,25132.0,3-2-4-1,Paul Tierney,2023-2024,Manchester City
+2024-04-13,15:00,Matchweek 33,Home,W,5,1,Luton Town,52149.0,4-2-3-1,John Brooks,2023-2024,Manchester City
+2024-04-25,20:00,Matchweek 29,Away,W,4,0,Brighton and Hove Albion,31596.0,4-1-4-1,Jarred Gillett,2023-2024,Manchester City
+2024-04-28,16:30,Matchweek 35,Away,W,2,0,Nottingham Forest,29677.0,4-1-4-1,Simon Hooper,2023-2024,Manchester City
+2024-05-04,17:30,Matchweek 36,Home,W,5,1,Wolverhampton Wanderers,52439.0,4-2-3-1,Craig Pawson,2023-2024,Manchester City
+2024-05-11,12:30,Matchweek 37,Away,W,4,0,Fulham,24418.0,4-2-3-1,Anthony Taylor,2023-2024,Manchester City
+2024-05-14,20:00,Matchweek 34,Away,W,2,0,Tottenham Hotspur,61065.0,4-2-3-1,Chris Kavanagh,2023-2024,Manchester City
+2024-05-19,16:00,Matchweek 38,Home,W,3,1,West Ham United,62475.0,4-1-4-1,John Brooks,2023-2024,Manchester City
+2023-08-12,12:30,Matchweek 1,Home,W,2,1,Nottingham Forest,59984.0,4-3-3,Michael Oliver,2023-2024,Arsenal
+2023-08-21,20:00,Matchweek 2,Away,W,1,0,Crystal Palace,24189.0,4-3-3,David Coote,2023-2024,Arsenal
+2023-08-26,15:00,Matchweek 3,Home,D,2,2,Fulham,59961.0,4-3-3,Paul Tierney,2023-2024,Arsenal
+2023-09-03,16:30,Matchweek 4,Home,W,3,1,Manchester United,60192.0,4-3-3,Anthony Taylor,2023-2024,Arsenal
+2023-09-17,16:30,Matchweek 5,Away,W,1,0,Everton,39217.0,4-3-3,Simon Hooper,2023-2024,Arsenal
+2023-09-24,14:00,Matchweek 6,Home,D,2,2,Tottenham Hotspur,60156.0,4-3-3,Robert Jones,2023-2024,Arsenal
+2023-09-30,15:00,Matchweek 7,Away,W,4,0,Bournemouth,11193.0,4-3-3,Michael Salisbury,2023-2024,Arsenal
+2023-10-08,16:30,Matchweek 8,Home,W,1,0,Manchester City,60233.0,4-3-3,Michael Oliver,2023-2024,Arsenal
+2023-10-21,17:30,Matchweek 9,Away,D,2,2,Chelsea,39723.0,4-3-3,Chris Kavanagh,2023-2024,Arsenal
+2023-10-28,15:00,Matchweek 10,Home,W,5,0,Sheffield United,60153.0,4-3-3,Tim Robinson,2023-2024,Arsenal
+2023-11-04,17:30,Matchweek 11,Away,L,0,1,Newcastle United,52194.0,4-3-3,Stuart Attwell,2023-2024,Arsenal
+2023-11-11,15:00,Matchweek 12,Home,W,3,1,Burnley,60232.0,4-3-3,Michael Oliver,2023-2024,Arsenal
+2023-11-25,17:30,Matchweek 13,Away,W,1,0,Brentford,17201.0,4-3-3,Tim Robinson,2023-2024,Arsenal
+2023-12-02,15:00,Matchweek 14,Home,W,2,1,Wolverhampton Wanderers,60262.0,4-3-3,Peter Bankes,2023-2024,Arsenal
+2023-12-05,20:15,Matchweek 15,Away,W,4,3,Luton Town,11031.0,4-3-3,Samuel Barrott,2023-2024,Arsenal
+2023-12-09,17:30,Matchweek 16,Away,L,0,1,Aston Villa,42000.0,4-3-3,Jarred Gillett,2023-2024,Arsenal
+2023-12-17,14:00,Matchweek 17,Home,W,2,0,Brighton and Hove Albion,60257.0,4-3-3,Tim Robinson,2023-2024,Arsenal
+2023-12-23,17:30,Matchweek 18,Away,D,1,1,Liverpool,57548.0,4-3-3,Chris Kavanagh,2023-2024,Arsenal
+2023-12-28,20:15,Matchweek 19,Home,L,0,2,West Ham United,60261.0,4-3-3,Michael Oliver,2023-2024,Arsenal
+2023-12-31,14:00,Matchweek 20,Away,L,1,2,Fulham,24444.0,4-3-3,Joshua Smith,2023-2024,Arsenal
+2024-01-20,12:30,Matchweek 21,Home,W,5,0,Crystal Palace,60284.0,4-3-3,Paul Tierney,2023-2024,Arsenal
+2024-01-30,19:30,Matchweek 22,Away,W,2,1,Nottingham Forest,29387.0,4-3-3,Simon Hooper,2023-2024,Arsenal
+2024-02-04,16:30,Matchweek 23,Home,W,3,1,Liverpool,60374.0,4-3-3,Anthony Taylor,2023-2024,Arsenal
+2024-02-11,14:00,Matchweek 24,Away,W,6,0,West Ham United,62475.0,4-3-3,Craig Pawson,2023-2024,Arsenal
+2024-02-17,15:00,Matchweek 25,Away,W,5,0,Burnley,21311.0,4-3-3,Jarred Gillett,2023-2024,Arsenal
+2024-02-24,20:00,Matchweek 26,Home,W,4,1,Newcastle United,60298.0,4-3-3,Paul Tierney,2023-2024,Arsenal
+2024-03-04,20:00,Matchweek 27,Away,W,6,0,Sheffield United,29157.0,4-3-3,Samuel Barrott,2023-2024,Arsenal
+2024-03-09,17:30,Matchweek 28,Home,W,2,1,Brentford,60331.0,4-3-3,Robert Jones,2023-2024,Arsenal
+2024-03-31,16:30,Matchweek 30,Away,D,0,0,Manchester City,52178.0,4-3-3,Anthony Taylor,2023-2024,Arsenal
+2024-04-03,19:30,Matchweek 31,Home,W,2,0,Luton Town,60262.0,4-3-3,Craig Pawson,2023-2024,Arsenal
+2024-04-06,17:30,Matchweek 32,Away,W,3,0,Brighton and Hove Albion,31677.0,4-3-3,John Brooks,2023-2024,Arsenal
+2024-04-14,16:30,Matchweek 33,Home,L,0,2,Aston Villa,60350.0,4-3-3,David Coote,2023-2024,Arsenal
+2024-04-20,19:30,Matchweek 34,Away,W,2,0,Wolverhampton Wanderers,31621.0,4-3-3,Paul Tierney,2023-2024,Arsenal
+2024-04-23,20:00,Matchweek 29,Home,W,5,0,Chelsea,60238.0,4-3-3,Simon Hooper,2023-2024,Arsenal
+2024-04-28,14:00,Matchweek 35,Away,W,3,2,Tottenham Hotspur,61554.0,4-3-3,Michael Oliver,2023-2024,Arsenal
+2024-05-04,12:30,Matchweek 36,Home,W,3,0,Bournemouth,60348.0,4-3-3,David Coote,2023-2024,Arsenal
+2024-05-12,16:30,Matchweek 37,Away,W,1,0,Manchester United,73600.0,4-3-3,Paul Tierney,2023-2024,Arsenal
+2024-05-19,16:00,Matchweek 38,Home,W,2,1,Everton,60312.0,4-3-3,Michael Oliver,2023-2024,Arsenal
+2023-08-13,16:30,Matchweek 1,Away,D,1,1,Chelsea,40096.0,4-3-3,Anthony Taylor,2023-2024,Liverpool
+2023-08-19,15:00,Matchweek 2,Home,W,3,1,Bournemouth,53145.0,4-3-3,Thomas Bramall,2023-2024,Liverpool
+2023-08-27,16:30,Matchweek 3,Away,W,2,1,Newcastle United,52214.0,4-3-3,John Brooks,2023-2024,Liverpool
+2023-09-03,14:00,Matchweek 4,Home,W,3,0,Aston Villa,50109.0,4-3-3,Simon Hooper,2023-2024,Liverpool
+2023-09-16,12:30,Matchweek 5,Away,W,3,1,Wolverhampton Wanderers,31257.0,4-3-3,Michael Oliver,2023-2024,Liverpool
+2023-09-24,14:00,Matchweek 6,Home,W,3,1,West Ham United,50136.0,4-3-3,Chris Kavanagh,2023-2024,Liverpool
+2023-09-30,17:30,Matchweek 7,Away,L,1,2,Tottenham Hotspur,62001.0,4-3-3,Simon Hooper,2023-2024,Liverpool
+2023-10-08,14:00,Matchweek 8,Away,D,2,2,Brighton and Hove Albion,31752.0,4-3-3,Anthony Taylor,2023-2024,Liverpool
+2023-10-21,12:30,Matchweek 9,Home,W,2,0,Everton,50201.0,4-3-3,Craig Pawson,2023-2024,Liverpool
+2023-10-29,14:00,Matchweek 10,Home,W,3,0,Nottingham Forest,50143.0,4-3-3,Chris Kavanagh,2023-2024,Liverpool
+2023-11-05,16:30,Matchweek 11,Away,D,1,1,Luton Town,11049.0,4-3-3,Andy Madley,2023-2024,Liverpool
+2023-11-12,14:00,Matchweek 12,Home,W,3,0,Brentford,50151.0,4-3-3,Paul Tierney,2023-2024,Liverpool
+2023-11-25,12:30,Matchweek 13,Away,D,1,1,Manchester City,53289.0,4-3-3,Chris Kavanagh,2023-2024,Liverpool
+2023-12-03,14:00,Matchweek 14,Home,W,4,3,Fulham,50124.0,4-3-3,Stuart Attwell,2023-2024,Liverpool
+2023-12-06,19:30,Matchweek 15,Away,W,2,0,Sheffield United,31406.0,4-3-3,Simon Hooper,2023-2024,Liverpool
+2023-12-09,12:30,Matchweek 16,Away,W,2,1,Crystal Palace,25103.0,4-3-3,Andy Madley,2023-2024,Liverpool
+2023-12-17,16:30,Matchweek 17,Home,D,0,0,Manchester United,57158.0,4-3-3,Michael Oliver,2023-2024,Liverpool
+2023-12-23,17:30,Matchweek 18,Home,D,1,1,Arsenal,57548.0,4-3-3,Chris Kavanagh,2023-2024,Liverpool
+2023-12-26,17:30,Matchweek 19,Away,W,2,0,Burnley,21624.0,4-3-3,Paul Tierney,2023-2024,Liverpool
+2024-01-01,20:00,Matchweek 20,Home,W,4,2,Newcastle United,57471.0,4-3-3,Anthony Taylor,2023-2024,Liverpool
+2024-01-21,16:30,Matchweek 21,Away,W,4,0,Bournemouth,11228.0,4-3-3,Andy Madley,2023-2024,Liverpool
+2024-01-31,20:15,Matchweek 22,Home,W,4,1,Chelsea,57524.0,4-3-3,Paul Tierney,2023-2024,Liverpool
+2024-02-04,16:30,Matchweek 23,Away,L,1,3,Arsenal,60374.0,4-3-3,Anthony Taylor,2023-2024,Liverpool
+2024-02-10,15:00,Matchweek 24,Home,W,3,1,Burnley,59896.0,4-3-3,Tim Robinson,2023-2024,Liverpool
+2024-02-17,12:30,Matchweek 25,Away,W,4,1,Brentford,17193.0,4-3-3,Michael Oliver,2023-2024,Liverpool
+2024-02-21,19:30,Matchweek 26,Home,W,4,1,Luton Town,59713.0,4-3-3,Andy Madley,2023-2024,Liverpool
+2024-03-02,15:00,Matchweek 27,Away,W,1,0,Nottingham Forest,29603.0,4-3-3,Paul Tierney,2023-2024,Liverpool
+2024-03-10,15:45,Matchweek 28,Home,D,1,1,Manchester City,59947.0,4-3-3,Michael Oliver,2023-2024,Liverpool
+2024-03-31,14:00,Matchweek 30,Home,W,2,1,Brighton and Hove Albion,60061.0,4-3-3,David Coote,2023-2024,Liverpool
+2024-04-04,19:30,Matchweek 31,Home,W,3,1,Sheffield United,60055.0,4-3-3,Stuart Attwell,2023-2024,Liverpool
+2024-04-07,15:30,Matchweek 32,Away,D,2,2,Manchester United,73501.0,4-3-3,Anthony Taylor,2023-2024,Liverpool
+2024-04-14,14:00,Matchweek 33,Home,L,0,1,Crystal Palace,60090.0,4-3-3,Chris Kavanagh,2023-2024,Liverpool
+2024-04-21,16:30,Matchweek 34,Away,W,3,1,Fulham,24414.0,4-3-3,Craig Pawson,2023-2024,Liverpool
+2024-04-24,20:00,Matchweek 29,Away,L,0,2,Everton,38222.0,4-3-3,Andy Madley,2023-2024,Liverpool
+2024-04-27,12:30,Matchweek 35,Away,D,2,2,West Ham United,62474.0,4-3-3,Anthony Taylor,2023-2024,Liverpool
+2024-05-05,16:30,Matchweek 36,Home,W,4,2,Tottenham Hotspur,60075.0,4-3-3,Paul Tierney,2023-2024,Liverpool
+2024-05-13,20:00,Matchweek 37,Away,D,3,3,Aston Villa,42241.0,4-3-3,Simon Hooper,2023-2024,Liverpool
+2024-05-19,16:00,Matchweek 38,Home,W,2,0,Wolverhampton Wanderers,31257.0,4-3-3,Chris Kavanagh,2023-2024,Liverpool
+2023-08-12,17:30,Matchweek 1,Away,L,1,5,Newcastle United,52207.0,4-2-3-1,Andy Madley,2023-2024,Aston Villa
+2023-08-20,14:00,Matchweek 2,Home,W,4,0,Everton,41694.0,4-2-3-1,Anthony Taylor,2023-2024,Aston Villa
+2023-08-27,14:00,Matchweek 3,Away,W,3,1,Burnley,21591.0,3-4-3,Michael Salisbury,2023-2024,Aston Villa
+2023-09-03,14:00,Matchweek 4,Away,L,0,3,Liverpool,50109.0,4-4-2,Simon Hooper,2023-2024,Aston Villa
+2023-09-16,15:00,Matchweek 5,Home,W,3,1,Crystal Palace,40809.0,4-2-3-1,Darren England,2023-2024,Aston Villa
+2023-09-24,14:00,Matchweek 6,Away,W,1,0,Chelsea,39700.0,4-2-3-1,Jarred Gillett,2023-2024,Aston Villa
+2023-09-30,12:30,Matchweek 7,Home,W,6,1,Brighton and Hove Albion,40636.0,4-2-3-1,Andy Madley,2023-2024,Aston Villa
+2023-10-08,14:00,Matchweek 8,Away,D,1,1,Wolverhampton Wanderers,31425.0,4-4-2,Robert Jones,2023-2024,Aston Villa
+2023-10-22,16:30,Matchweek 9,Home,W,4,1,West Ham United,41734.0,4-4-2,David Coote,2023-2024,Aston Villa
+2023-10-29,14:00,Matchweek 10,Home,W,3,1,Luton Town,41785.0,4-4-2,John Brooks,2023-2024,Aston Villa
+2023-11-05,14:00,Matchweek 11,Away,L,0,2,Nottingham Forest,29313.0,4-4-2,Jarred Gillett,2023-2024,Aston Villa
+2023-11-12,14:00,Matchweek 12,Home,W,3,1,Fulham,41608.0,4-2-2-2,Simon Hooper,2023-2024,Aston Villa
+2023-11-26,14:00,Matchweek 13,Away,W,2,1,Tottenham Hotspur,61679.0,4-4-2,Robert Jones,2023-2024,Aston Villa
+2023-12-03,14:00,Matchweek 14,Away,D,2,2,Bournemouth,11191.0,4-4-2,Thomas Bramall,2023-2024,Aston Villa
+2023-12-06,20:15,Matchweek 15,Home,W,1,0,Manchester City,41421.0,4-4-1-1,John Brooks,2023-2024,Aston Villa
+2023-12-09,17:30,Matchweek 16,Home,W,1,0,Arsenal,42000.0,4-4-1-1,Jarred Gillett,2023-2024,Aston Villa
+2023-12-17,14:00,Matchweek 17,Away,W,2,1,Brentford,17034.0,3-5-2,David Coote,2023-2024,Aston Villa
+2023-12-22,20:00,Matchweek 18,Home,D,1,1,Sheffield United,41651.0,4-4-1-1,Anthony Taylor,2023-2024,Aston Villa
+2023-12-26,20:00,Matchweek 19,Away,L,2,3,Manchester United,73574.0,4-2-3-1,Craig Pawson,2023-2024,Aston Villa
+2023-12-30,15:00,Matchweek 20,Home,W,3,2,Burnley,41613.0,4-4-1-1,Stuart Attwell,2023-2024,Aston Villa
+2024-01-14,14:00,Matchweek 21,Away,D,0,0,Everton,39284.0,4-4-2,David Coote,2023-2024,Aston Villa
+2024-01-30,20:15,Matchweek 22,Home,L,1,3,Newcastle United,42191.0,4-4-2,John Brooks,2023-2024,Aston Villa
+2024-02-03,17:30,Matchweek 23,Away,W,5,0,Sheffield United,30187.0,4-2-3-1,Paul Tierney,2023-2024,Aston Villa
+2024-02-11,16:30,Matchweek 24,Home,L,1,2,Manchester United,42185.0,4-2-3-1,Robert Jones,2023-2024,Aston Villa
+2024-02-17,15:00,Matchweek 25,Away,W,2,1,Fulham,24401.0,4-2-3-1,Lewis Smith,2023-2024,Aston Villa
+2024-02-24,15:00,Matchweek 26,Home,W,4,2,Nottingham Forest,42131.0,4-2-3-1,Samuel Barrott,2023-2024,Aston Villa
+2024-03-02,17:30,Matchweek 27,Away,W,3,2,Luton Town,11594.0,4-2-3-1,Michael Oliver,2023-2024,Aston Villa
+2024-03-10,13:00,Matchweek 28,Home,L,0,4,Tottenham Hotspur,42310.0,5-3-2,Chris Kavanagh,2023-2024,Aston Villa
+2024-03-17,14:00,Matchweek 29,Away,D,1,1,West Ham United,62461.0,4-4-2,Jarred Gillett,2023-2024,Aston Villa
+2024-03-30,17:30,Matchweek 30,Home,W,2,0,Wolverhampton Wanderers,42640.0,4-4-2,Paul Tierney,2023-2024,Aston Villa
+2024-04-03,20:15,Matchweek 31,Away,L,1,4,Manchester City,53422.0,4-2-3-1,Darren England,2023-2024,Aston Villa
+2024-04-06,15:00,Matchweek 32,Home,D,3,3,Brentford,42118.0,4-4-1-1,Michael Salisbury,2023-2024,Aston Villa
+2024-04-14,16:30,Matchweek 33,Away,W,2,0,Arsenal,60350.0,4-2-3-1,David Coote,2023-2024,Aston Villa
+2024-04-21,15:00,Matchweek 34,Home,W,3,1,Bournemouth,42189.0,4-2-3-1,Tim Robinson,2023-2024,Aston Villa
+2024-04-27,20:00,Matchweek 35,Home,D,2,2,Chelsea,42354.0,4-4-1-1,Craig Pawson,2023-2024,Aston Villa
+2024-05-05,14:00,Matchweek 36,Away,L,0,1,Brighton and Hove Albion,31596.0,4-2-3-1,Robert Jones,2023-2024,Aston Villa
+2024-05-13,20:00,Matchweek 37,Home,D,3,3,Liverpool,42241.0,4-2-3-1,Simon Hooper,2023-2024,Aston Villa
+2024-05-19,16:00,Matchweek 38,Away,L,0,5,Crystal Palace,25191.0,4-4-2,Darren Bond,2023-2024,Aston Villa
+2023-08-13,14:00,Matchweek 1,Away,D,2,2,Brentford,17066.0,4-2-3-1,Robert Jones,2023-2024,Tottenham Hotspur
+2023-08-19,17:30,Matchweek 2,Home,W,2,0,Manchester United,61910.0,4-2-3-1,Michael Oliver,2023-2024,Tottenham Hotspur
+2023-08-26,12:30,Matchweek 3,Away,W,2,0,Bournemouth,10567.0,4-2-3-1,Tim Robinson,2023-2024,Tottenham Hotspur
+2023-09-02,15:00,Matchweek 4,Away,W,5,2,Burnley,21750.0,4-2-3-1,Darren England,2023-2024,Tottenham Hotspur
+2023-09-16,15:00,Matchweek 5,Home,W,2,1,Sheffield United,61706.0,4-2-3-1,Peter Bankes,2023-2024,Tottenham Hotspur
+2023-09-24,14:00,Matchweek 6,Away,D,2,2,Arsenal,60156.0,4-2-3-1,Robert Jones,2023-2024,Tottenham Hotspur
+2023-09-30,17:30,Matchweek 7,Home,W,2,1,Liverpool,62001.0,4-2-3-1,Simon Hooper,2023-2024,Tottenham Hotspur
+2023-10-07,12:30,Matchweek 8,Away,W,1,0,Luton Town,10290.0,4-2-3-1,John Brooks,2023-2024,Tottenham Hotspur
+2023-10-23,20:00,Matchweek 9,Home,W,2,0,Fulham,61286.0,4-2-3-1,Anthony Taylor,2023-2024,Tottenham Hotspur
+2023-10-27,20:00,Matchweek 10,Away,W,2,1,Crystal Palace,25074.0,4-2-3-1,Andy Madley,2023-2024,Tottenham Hotspur
+2023-11-06,20:00,Matchweek 11,Home,L,1,4,Chelsea,61726.0,4-2-3-1,Michael Oliver,2023-2024,Tottenham Hotspur
+2023-11-11,12:30,Matchweek 12,Away,L,1,2,Wolverhampton Wanderers,31642.0,4-3-3,Tim Robinson,2023-2024,Tottenham Hotspur
+2023-11-26,14:00,Matchweek 13,Home,L,1,2,Aston Villa,61679.0,4-2-3-1,Robert Jones,2023-2024,Tottenham Hotspur
+2023-12-03,16:30,Matchweek 14,Away,D,3,3,Manchester City,53473.0,4-2-3-1,Simon Hooper,2023-2024,Tottenham Hotspur
+2023-12-07,20:15,Matchweek 15,Home,L,1,2,West Ham United,61171.0,4-2-3-1,Michael Salisbury,2023-2024,Tottenham Hotspur
+2023-12-10,16:30,Matchweek 16,Home,W,4,1,Newcastle United,61171.0,4-2-3-1,Chris Kavanagh,2023-2024,Tottenham Hotspur
+2023-12-15,20:00,Matchweek 17,Away,W,2,0,Nottingham Forest,29296.0,4-2-3-1,Jarred Gillett,2023-2024,Tottenham Hotspur
+2023-12-23,15:00,Matchweek 18,Home,W,2,1,Everton,61808.0,4-2-3-1,Stuart Attwell,2023-2024,Tottenham Hotspur
+2023-12-28,19:30,Matchweek 19,Away,L,2,4,Brighton and Hove Albion,31675.0,4-2-3-1,Jarred Gillett,2023-2024,Tottenham Hotspur
+2023-12-31,14:00,Matchweek 20,Home,W,3,1,Bournemouth,61780.0,4-3-3,Simon Hooper,2023-2024,Tottenham Hotspur
+2024-01-14,16:30,Matchweek 21,Away,D,2,2,Manchester United,73489.0,4-3-3,John Brooks,2023-2024,Tottenham Hotspur
+2024-01-31,19:30,Matchweek 22,Home,W,3,2,Brentford,61210.0,4-2-3-1,David Coote,2023-2024,Tottenham Hotspur
+2024-02-03,12:30,Matchweek 23,Away,D,2,2,Everton,39321.0,4-2-3-1,Michael Oliver,2023-2024,Tottenham Hotspur
+2024-02-10,15:00,Matchweek 24,Home,W,2,1,Brighton and Hove Albion,61445.0,4-2-3-1,Samuel Barrott,2023-2024,Tottenham Hotspur
+2024-02-17,15:00,Matchweek 25,Home,L,1,2,Wolverhampton Wanderers,61532.0,4-2-3-1,Anthony Taylor,2023-2024,Tottenham Hotspur
+2024-03-02,15:00,Matchweek 27,Home,W,3,1,Crystal Palace,61339.0,4-2-3-1,John Brooks,2023-2024,Tottenham Hotspur
+2024-03-10,13:00,Matchweek 28,Away,W,4,0,Aston Villa,42310.0,4-2-3-1,Chris Kavanagh,2023-2024,Tottenham Hotspur
+2024-03-16,17:30,Matchweek 29,Away,L,0,3,Fulham,24410.0,4-2-3-1,Robert Jones,2023-2024,Tottenham Hotspur
+2024-03-30,15:00,Matchweek 30,Home,W,2,1,Luton Town,61534.0,4-2-3-1,Jarred Gillett,2023-2024,Tottenham Hotspur
+2024-04-02,20:15,Matchweek 31,Away,D,1,1,West Ham United,62469.0,4-2-3-1,John Brooks,2023-2024,Tottenham Hotspur
+2024-04-07,18:00,Matchweek 32,Home,W,3,1,Nottingham Forest,61098.0,4-2-3-1,Simon Hooper,2023-2024,Tottenham Hotspur
+2024-04-13,12:30,Matchweek 33,Away,L,0,4,Newcastle United,52147.0,4-2-3-1,Tim Robinson,2023-2024,Tottenham Hotspur
+2024-04-28,14:00,Matchweek 35,Home,L,2,3,Arsenal,61554.0,4-2-3-1,Michael Oliver,2023-2024,Tottenham Hotspur
+2024-05-02,19:30,Matchweek 26,Away,L,0,2,Chelsea,39086.0,4-2-3-1,Robert Jones,2023-2024,Tottenham Hotspur
+2024-05-05,16:30,Matchweek 36,Away,L,2,4,Liverpool,60075.0,4-3-3,Paul Tierney,2023-2024,Tottenham Hotspur
+2024-05-11,15:00,Matchweek 37,Home,W,2,1,Burnley,61148.0,4-3-3,Jarred Gillett,2023-2024,Tottenham Hotspur
+2024-05-14,20:00,Matchweek 34,Home,L,0,2,Manchester City,61065.0,4-3-1-2,Chris Kavanagh,2023-2024,Tottenham Hotspur
+2024-05-19,16:00,Matchweek 38,Away,W,3,0,Sheffield United,29116.0,4-2-3-1,Andy Madley,2023-2024,Tottenham Hotspur
+2023-08-13,16:30,Matchweek 1,Home,D,1,1,Liverpool,40096.0,3-4-3,Anthony Taylor,2023-2024,Chelsea
+2023-08-20,16:30,Matchweek 2,Away,L,1,3,West Ham United,62451.0,3-4-3,John Brooks,2023-2024,Chelsea
+2023-08-25,20:00,Matchweek 3,Home,W,3,0,Luton Town,39893.0,3-4-3,Robert Jones,2023-2024,Chelsea
+2023-09-02,15:00,Matchweek 4,Home,L,0,1,Nottingham Forest,39820.0,3-4-3,Tim Robinson,2023-2024,Chelsea
+2023-09-17,14:00,Matchweek 5,Away,D,0,0,Bournemouth,10421.0,4-2-3-1,David Coote,2023-2024,Chelsea
+2023-09-24,14:00,Matchweek 6,Home,L,0,1,Aston Villa,39700.0,4-2-3-1,Jarred Gillett,2023-2024,Chelsea
+2023-10-02,20:00,Matchweek 7,Away,W,2,0,Fulham,24445.0,4-3-3,Tim Robinson,2023-2024,Chelsea
+2023-10-07,15:00,Matchweek 8,Away,W,4,1,Burnley,21654.0,4-3-3,Stuart Attwell,2023-2024,Chelsea
+2023-10-21,17:30,Matchweek 9,Home,D,2,2,Arsenal,39723.0,4-2-3-1,Chris Kavanagh,2023-2024,Chelsea
+2023-10-28,12:30,Matchweek 10,Home,L,0,2,Brentford,39575.0,4-2-3-1,Simon Hooper,2023-2024,Chelsea
+2023-11-06,20:00,Matchweek 11,Away,W,4,1,Tottenham Hotspur,61726.0,4-2-3-1,Michael Oliver,2023-2024,Chelsea
+2023-11-12,16:30,Matchweek 12,Home,D,4,4,Manchester City,39532.0,4-2-3-1,Anthony Taylor,2023-2024,Chelsea
+2023-11-25,15:00,Matchweek 13,Away,L,1,4,Newcastle United,52227.0,4-2-3-1,Simon Hooper,2023-2024,Chelsea
+2023-12-03,14:00,Matchweek 14,Home,W,3,2,Brighton and Hove Albion,39647.0,4-2-3-1,Craig Pawson,2023-2024,Chelsea
+2023-12-06,20:15,Matchweek 15,Away,L,1,2,Manchester United,73607.0,4-2-3-1,Chris Kavanagh,2023-2024,Chelsea
+2023-12-10,14:00,Matchweek 16,Away,L,0,2,Everton,39280.0,4-2-3-1,Michael Oliver,2023-2024,Chelsea
+2023-12-16,15:00,Matchweek 17,Home,W,2,0,Sheffield United,39599.0,4-2-3-1,Andy Madley,2023-2024,Chelsea
+2023-12-24,13:00,Matchweek 18,Away,L,1,2,Wolverhampton Wanderers,31641.0,4-2-3-1,David Coote,2023-2024,Chelsea
+2023-12-27,19:30,Matchweek 19,Home,W,2,1,Crystal Palace,39618.0,4-2-3-1,Michael Salisbury,2023-2024,Chelsea
+2023-12-30,12:30,Matchweek 20,Away,W,3,2,Luton Town,11041.0,4-2-3-1,Paul Tierney,2023-2024,Chelsea
+2024-01-13,12:30,Matchweek 21,Home,W,1,0,Fulham,39643.0,4-2-3-1,Anthony Taylor,2023-2024,Chelsea
+2024-01-31,20:15,Matchweek 22,Away,L,1,4,Liverpool,57524.0,4-2-3-1,Paul Tierney,2023-2024,Chelsea
+2024-02-04,14:00,Matchweek 23,Home,L,2,4,Wolverhampton Wanderers,39628.0,4-2-3-1,Tim Robinson,2023-2024,Chelsea
+2024-02-12,20:00,Matchweek 24,Away,W,3,1,Crystal Palace,25110.0,4-2-3-1,Michael Oliver,2023-2024,Chelsea
+2024-02-17,17:30,Matchweek 25,Away,D,1,1,Manchester City,52178.0,4-2-3-1,Andy Madley,2023-2024,Chelsea
+2024-03-02,15:00,Matchweek 27,Away,D,2,2,Brentford,17140.0,3-5-2,Jarred Gillett,2023-2024,Chelsea
+2024-03-11,20:00,Matchweek 28,Home,W,3,2,Newcastle United,37753.0,4-2-3-1,John Brooks,2023-2024,Chelsea
+2024-03-30,15:00,Matchweek 30,Home,D,2,2,Burnley,39535.0,4-2-3-1,Darren England,2023-2024,Chelsea
+2024-04-04,20:15,Matchweek 31,Home,W,4,3,Manchester United,39694.0,4-2-3-1,Jarred Gillett,2023-2024,Chelsea
+2024-04-07,17:30,Matchweek 32,Away,D,2,2,Sheffield United,28638.0,4-2-3-1,Robert Jones,2023-2024,Chelsea
+2024-04-15,20:00,Matchweek 33,Home,W,6,0,Everton,39392.0,4-2-3-1,Paul Tierney,2023-2024,Chelsea
+2024-04-23,20:00,Matchweek 29,Away,L,0,5,Arsenal,60238.0,4-2-3-1,Simon Hooper,2023-2024,Chelsea
+2024-04-27,20:00,Matchweek 35,Away,D,2,2,Aston Villa,42354.0,4-2-3-1,Craig Pawson,2023-2024,Chelsea
+2024-05-02,19:30,Matchweek 26,Home,W,2,0,Tottenham Hotspur,39086.0,4-2-3-1,Robert Jones,2023-2024,Chelsea
+2024-05-05,14:00,Matchweek 36,Home,W,5,0,West Ham United,39295.0,4-2-3-1,Andy Madley,2023-2024,Chelsea
+2024-05-11,17:30,Matchweek 37,Away,W,3,2,Nottingham Forest,29708.0,4-2-3-1,Tony Harrington,2023-2024,Chelsea
+2024-05-15,19:45,Matchweek 34,Away,W,2,1,Brighton and Hove Albion,31555.0,4-2-3-1,Michael Salisbury,2023-2024,Chelsea
+2024-05-19,16:00,Matchweek 38,Home,W,2,1,Bournemouth,39724.0,4-2-3-1,Anthony Taylor,2023-2024,Chelsea
+2023-08-12,17:30,Matchweek 1,Home,W,5,1,Aston Villa,52207.0,4-3-3,Andy Madley,2023-2024,Newcastle United
+2023-08-19,20:00,Matchweek 2,Away,L,0,1,Manchester City,53419.0,4-3-3,Robert Jones,2023-2024,Newcastle United
+2023-08-27,16:30,Matchweek 3,Home,L,1,2,Liverpool,52214.0,4-3-3,John Brooks,2023-2024,Newcastle United
+2023-09-02,17:30,Matchweek 4,Away,L,1,3,Brighton and Hove Albion,31620.0,4-3-3,Stuart Attwell,2023-2024,Newcastle United
+2023-09-16,17:30,Matchweek 5,Home,W,1,0,Brentford,51670.0,4-3-3,Craig Pawson,2023-2024,Newcastle United
+2023-09-24,16:30,Matchweek 6,Away,W,8,0,Sheffield United,31127.0,4-3-3,Stuart Attwell,2023-2024,Newcastle United
+2023-09-30,15:00,Matchweek 7,Home,W,2,0,Burnley,51687.0,4-3-3,Thomas Bramall,2023-2024,Newcastle United
+2023-10-08,14:00,Matchweek 8,Away,D,2,2,West Ham United,62473.0,4-3-3,Peter Bankes,2023-2024,Newcastle United
+2023-10-21,15:00,Matchweek 9,Home,W,4,0,Crystal Palace,52189.0,4-3-3,Tim Robinson,2023-2024,Newcastle United
+2023-10-28,17:30,Matchweek 10,Away,D,2,2,Wolverhampton Wanderers,31584.0,4-3-3,Anthony Taylor,2023-2024,Newcastle United
+2023-11-04,17:30,Matchweek 11,Home,W,1,0,Arsenal,52194.0,4-3-3,Stuart Attwell,2023-2024,Newcastle United
+2023-11-11,17:30,Matchweek 12,Away,L,0,2,Bournemouth,11201.0,4-3-3,Chris Kavanagh,2023-2024,Newcastle United
+2023-11-25,15:00,Matchweek 13,Home,W,4,1,Chelsea,52227.0,4-3-3,Simon Hooper,2023-2024,Newcastle United
+2023-12-02,20:00,Matchweek 14,Home,W,1,0,Manchester United,52214.0,4-3-3,Robert Jones,2023-2024,Newcastle United
+2023-12-07,19:30,Matchweek 15,Away,L,0,3,Everton,38198.0,4-3-3,Tim Robinson,2023-2024,Newcastle United
+2023-12-10,16:30,Matchweek 16,Away,L,1,4,Tottenham Hotspur,61171.0,4-3-3,Chris Kavanagh,2023-2024,Newcastle United
+2023-12-16,15:00,Matchweek 17,Home,W,3,0,Fulham,52055.0,4-3-3,Samuel Barrott,2023-2024,Newcastle United
+2023-12-23,15:00,Matchweek 18,Away,L,0,1,Luton Town,11042.0,4-3-3,Darren England,2023-2024,Newcastle United
+2023-12-26,12:30,Matchweek 19,Home,L,1,3,Nottingham Forest,52207.0,4-3-3,Chris Kavanagh,2023-2024,Newcastle United
+2024-01-01,20:00,Matchweek 20,Away,L,2,4,Liverpool,57471.0,4-3-3,Anthony Taylor,2023-2024,Newcastle United
+2024-01-13,17:30,Matchweek 21,Home,L,2,3,Manchester City,52190.0,4-3-3,Chris Kavanagh,2023-2024,Newcastle United
+2024-01-30,20:15,Matchweek 22,Away,W,3,1,Aston Villa,42191.0,4-3-3,John Brooks,2023-2024,Newcastle United
+2024-02-03,15:00,Matchweek 23,Home,D,4,4,Luton Town,52211.0,4-3-3,Thomas Bramall,2023-2024,Newcastle United
+2024-02-10,17:30,Matchweek 24,Away,W,3,2,Nottingham Forest,29451.0,4-3-3,Anthony Taylor,2023-2024,Newcastle United
+2024-02-17,15:00,Matchweek 25,Home,D,2,2,Bournemouth,52224.0,4-3-3,Michael Salisbury,2023-2024,Newcastle United
+2024-02-24,20:00,Matchweek 26,Away,L,1,4,Arsenal,60298.0,4-3-3,Paul Tierney,2023-2024,Newcastle United
+2024-03-02,15:00,Matchweek 27,Home,W,3,0,Wolverhampton Wanderers,52206.0,4-3-3,Tim Robinson,2023-2024,Newcastle United
+2024-03-11,20:00,Matchweek 28,Away,L,2,3,Chelsea,37753.0,4-3-3,John Brooks,2023-2024,Newcastle United
+2024-03-30,12:30,Matchweek 30,Home,W,4,3,West Ham United,52199.0,4-3-3,Robert Jones,2023-2024,Newcastle United
+2024-04-02,19:30,Matchweek 31,Home,D,1,1,Everton,52135.0,4-3-3,Tony Harrington,2023-2024,Newcastle United
+2024-04-06,15:00,Matchweek 32,Away,W,1,0,Fulham,24418.0,4-3-3,Samuel Allison,2023-2024,Newcastle United
+2024-04-13,12:30,Matchweek 33,Home,W,4,0,Tottenham Hotspur,52147.0,4-3-3,Tim Robinson,2023-2024,Newcastle United
+2024-04-24,20:00,Matchweek 29,Away,L,0,2,Crystal Palace,25002.0,3-4-3,Thomas Bramall,2023-2024,Newcastle United
+2024-04-27,15:00,Matchweek 35,Home,W,5,1,Sheffield United,52196.0,4-3-3,Tony Harrington,2023-2024,Newcastle United
+2024-05-04,15:00,Matchweek 36,Away,W,4,1,Burnley,21781.0,4-4-2,Anthony Taylor,2023-2024,Newcastle United
+2024-05-11,15:00,Matchweek 37,Home,D,1,1,Brighton and Hove Albion,51997.0,4-3-3,Darren England,2023-2024,Newcastle United
+2024-05-15,20:00,Matchweek 34,Away,L,2,3,Manchester United,52214.0,4-3-3,Robert Jones,2023-2024,Newcastle United
+2024-05-19,16:00,Matchweek 38,Away,W,4,2,Brentford,17124.0,4-3-3,Simon Hooper,2023-2024,Newcastle United
+2023-08-14,20:00,Matchweek 1,Home,W,1,0,Wolverhampton Wanderers,73358.0,4-1-4-1,Simon Hooper,2023-2024,Manchester United
+2023-08-19,17:30,Matchweek 2,Away,L,0,2,Tottenham Hotspur,61910.0,4-2-3-1,Michael Oliver,2023-2024,Manchester United
+2023-08-26,15:00,Matchweek 3,Home,W,3,2,Nottingham Forest,73595.0,4-2-3-1,Stuart Attwell,2023-2024,Manchester United
+2023-09-03,16:30,Matchweek 4,Away,L,1,3,Arsenal,60192.0,4-2-3-1,Anthony Taylor,2023-2024,Manchester United
+2023-09-16,15:00,Matchweek 5,Home,L,1,3,Brighton and Hove Albion,73592.0,4-1-2-1-2,Jarred Gillett,2023-2024,Manchester United
+2023-09-23,20:00,Matchweek 6,Away,W,1,0,Burnley,21593.0,4-2-3-1,Tony Harrington,2023-2024,Manchester United
+2023-09-30,15:00,Matchweek 7,Home,L,0,1,Crystal Palace,73428.0,4-2-3-1,Chris Kavanagh,2023-2024,Manchester United
+2023-10-07,15:00,Matchweek 8,Home,W,2,1,Brentford,73453.0,4-2-3-1,Andy Madley,2023-2024,Manchester United
+2023-10-21,20:00,Matchweek 9,Away,W,2,1,Sheffield United,31543.0,4-2-3-1,Michael Oliver,2023-2024,Manchester United
+2023-10-29,15:30,Matchweek 10,Home,L,0,3,Manchester City,73502.0,4-2-3-1,Paul Tierney,2023-2024,Manchester United
+2023-11-04,12:30,Matchweek 11,Away,W,1,0,Fulham,24415.0,4-2-3-1,John Brooks,2023-2024,Manchester United
+2023-11-11,15:00,Matchweek 12,Home,W,1,0,Luton Town,73599.0,4-2-3-1,Graham Scott,2023-2024,Manchester United
+2023-11-26,16:30,Matchweek 13,Away,W,3,0,Everton,39257.0,4-2-3-1,John Brooks,2023-2024,Manchester United
+2023-12-02,20:00,Matchweek 14,Away,L,0,1,Newcastle United,52214.0,4-2-3-1,Robert Jones,2023-2024,Manchester United
+2023-12-06,20:15,Matchweek 15,Home,W,2,1,Chelsea,73607.0,4-2-3-1,Chris Kavanagh,2023-2024,Manchester United
+2023-12-09,15:00,Matchweek 16,Home,L,0,3,Bournemouth,73427.0,4-2-3-1,Peter Bankes,2023-2024,Manchester United
+2023-12-17,16:30,Matchweek 17,Away,D,0,0,Liverpool,57158.0,4-2-3-1,Michael Oliver,2023-2024,Manchester United
+2023-12-23,12:30,Matchweek 18,Away,L,0,2,West Ham United,64472.0,4-2-3-1,Simon Hooper,2023-2024,Manchester United
+2023-12-26,20:00,Matchweek 19,Home,W,3,2,Aston Villa,73574.0,4-2-3-1,Craig Pawson,2023-2024,Manchester United
+2023-12-30,17:30,Matchweek 20,Away,L,1,2,Nottingham Forest,29529.0,4-2-3-1,Tim Robinson,2023-2024,Manchester United
+2024-01-14,16:30,Matchweek 21,Home,D,2,2,Tottenham Hotspur,73489.0,4-2-3-1,John Brooks,2023-2024,Manchester United
+2024-02-01,20:15,Matchweek 22,Away,W,4,3,Wolverhampton Wanderers,31641.0,4-2-3-1,Jarred Gillett,2023-2024,Manchester United
+2024-02-04,14:00,Matchweek 23,Home,W,3,0,West Ham United,73612.0,4-2-3-1,Andy Madley,2023-2024,Manchester United
+2024-02-11,16:30,Matchweek 24,Away,W,2,1,Aston Villa,42185.0,4-2-3-1,Robert Jones,2023-2024,Manchester United
+2024-02-18,16:30,Matchweek 25,Away,W,2,1,Luton Town,11483.0,4-2-3-1,David Coote,2023-2024,Manchester United
+2024-02-24,15:00,Matchweek 26,Home,L,1,2,Fulham,73487.0,4-2-3-1,Michael Oliver,2023-2024,Manchester United
+2024-03-03,15:30,Matchweek 27,Away,L,1,3,Manchester City,53514.0,4-2-4,Andy Madley,2023-2024,Manchester United
+2024-03-09,12:30,Matchweek 28,Home,W,2,0,Everton,73601.0,4-2-4,Simon Hooper,2023-2024,Manchester United
+2024-03-30,20:00,Matchweek 30,Away,D,1,1,Brentford,17138.0,4-2-3-1,Simon Hooper,2023-2024,Manchester United
+2024-04-04,20:15,Matchweek 31,Away,L,3,4,Chelsea,39694.0,4-2-3-1,Jarred Gillett,2023-2024,Manchester United
+2024-04-07,15:30,Matchweek 32,Home,D,2,2,Liverpool,73501.0,4-2-3-1,Anthony Taylor,2023-2024,Manchester United
+2024-04-13,17:30,Matchweek 33,Away,D,2,2,Bournemouth,11229.0,4-2-3-1,Tony Harrington,2023-2024,Manchester United
+2024-04-24,20:00,Matchweek 29,Home,W,4,2,Sheffield United,73549.0,4-2-3-1,Michael Salisbury,2023-2024,Manchester United
+2024-04-27,15:00,Matchweek 35,Home,D,1,1,Burnley,73571.0,4-2-3-1,John Brooks,2023-2024,Manchester United
+2024-05-06,20:00,Matchweek 36,Away,L,0,4,Crystal Palace,25190.0,4-2-3-1,Jarred Gillett,2023-2024,Manchester United
+2024-05-12,16:30,Matchweek 37,Home,L,0,1,Arsenal,73600.0,4-2-3-1,Paul Tierney,2023-2024,Manchester United
+2024-05-15,20:00,Matchweek 34,Home,W,3,2,Newcastle United,52214.0,4-2-2-2,Robert Jones,2023-2024,Manchester United
+2024-05-19,16:00,Matchweek 38,Away,W,2,0,Brighton and Hove Albion,31662.0,4-2-2-2,Craig Pawson,2023-2024,Manchester United
+2023-08-12,15:00,Matchweek 1,Away,D,1,1,Bournemouth,11245.0,4-2-3-1,Peter Bankes,2023-2024,West Ham United
+2023-08-20,16:30,Matchweek 2,Home,W,3,1,Chelsea,62451.0,4-2-3-1,John Brooks,2023-2024,West Ham United
+2023-08-26,17:30,Matchweek 3,Away,W,3,1,Brighton and Hove Albion,31508.0,4-1-4-1,Anthony Taylor,2023-2024,West Ham United
+2023-09-01,20:00,Matchweek 4,Away,W,2,1,Luton Town,10802.0,4-2-3-1,Paul Tierney,2023-2024,West Ham United
+2023-09-16,15:00,Matchweek 5,Home,L,1,3,Manchester City,62475.0,4-2-3-1,Andy Madley,2023-2024,West Ham United
+2023-09-24,14:00,Matchweek 6,Away,L,1,3,Liverpool,50136.0,4-2-3-1,Chris Kavanagh,2023-2024,West Ham United
+2023-09-30,15:00,Matchweek 7,Home,W,2,0,Sheffield United,62459.0,4-2-3-1,Graham Scott,2023-2024,West Ham United
+2023-10-08,14:00,Matchweek 8,Home,D,2,2,Newcastle United,62473.0,4-2-3-1,Peter Bankes,2023-2024,West Ham United
+2023-10-22,16:30,Matchweek 9,Away,L,1,4,Aston Villa,41734.0,4-2-3-1,David Coote,2023-2024,West Ham United
+2023-10-29,13:00,Matchweek 10,Home,L,0,1,Everton,62469.0,4-2-3-1,Stuart Attwell,2023-2024,West Ham United
+2023-11-04,15:00,Matchweek 11,Away,L,2,3,Brentford,17103.0,4-4-2,Thomas Bramall,2023-2024,West Ham United
+2023-11-12,14:00,Matchweek 12,Home,W,3,2,Nottingham Forest,62470.0,4-2-3-1,Michael Salisbury,2023-2024,West Ham United
+2023-11-25,15:00,Matchweek 13,Away,W,2,1,Burnley,21319.0,4-2-3-1,Samuel Barrott,2023-2024,West Ham United
+2023-12-03,14:00,Matchweek 14,Home,D,1,1,Crystal Palace,62414.0,4-2-3-1,Michael Oliver,2023-2024,West Ham United
+2023-12-07,20:15,Matchweek 15,Away,W,2,1,Tottenham Hotspur,61171.0,4-3-3,Michael Salisbury,2023-2024,West Ham United
+2023-12-10,14:00,Matchweek 16,Away,L,0,5,Fulham,23988.0,4-4-1-1,Paul Tierney,2023-2024,West Ham United
+2023-12-17,14:00,Matchweek 17,Home,W,3,0,Wolverhampton Wanderers,62455.0,4-2-3-1,Chris Kavanagh,2023-2024,West Ham United
+2023-12-23,12:30,Matchweek 18,Home,W,2,0,Manchester United,64472.0,4-2-3-1,Simon Hooper,2023-2024,West Ham United
+2023-12-28,20:15,Matchweek 19,Away,W,2,0,Arsenal,60261.0,4-2-3-1,Michael Oliver,2023-2024,West Ham United
+2024-01-02,19:30,Matchweek 20,Home,D,0,0,Brighton and Hove Albion,62462.0,4-2-3-1,Samuel Barrott,2023-2024,West Ham United
+2024-01-21,14:00,Matchweek 21,Away,D,2,2,Sheffield United,29164.0,4-4-1-1,Michael Salisbury,2023-2024,West Ham United
+2024-02-01,19:30,Matchweek 22,Home,D,1,1,Bournemouth,62478.0,4-3-2-1,Tim Robinson,2023-2024,West Ham United
+2024-02-04,14:00,Matchweek 23,Away,L,0,3,Manchester United,73612.0,4-2-3-1,Andy Madley,2023-2024,West Ham United
+2024-02-11,14:00,Matchweek 24,Home,L,0,6,Arsenal,62475.0,4-2-3-1,Craig Pawson,2023-2024,West Ham United
+2024-02-17,15:00,Matchweek 25,Away,L,0,2,Nottingham Forest,29490.0,4-2-3-1,Thomas Bramall,2023-2024,West Ham United
+2024-02-26,20:00,Matchweek 26,Home,W,4,2,Brentford,62450.0,4-2-3-1,Simon Hooper,2023-2024,West Ham United
+2024-03-02,15:00,Matchweek 27,Away,W,3,1,Everton,39262.0,4-2-3-1,Craig Pawson,2023-2024,West Ham United
+2024-03-10,14:00,Matchweek 28,Home,D,2,2,Burnley,62441.0,4-2-3-1,Darren England,2023-2024,West Ham United
+2024-03-17,14:00,Matchweek 29,Home,D,1,1,Aston Villa,62461.0,4-2-3-1,Jarred Gillett,2023-2024,West Ham United
+2024-03-30,12:30,Matchweek 30,Away,L,3,4,Newcastle United,52199.0,4-2-3-1,Robert Jones,2023-2024,West Ham United
+2024-04-02,20:15,Matchweek 31,Home,D,1,1,Tottenham Hotspur,62469.0,4-5-1,John Brooks,2023-2024,West Ham United
+2024-04-06,15:00,Matchweek 32,Away,W,2,1,Wolverhampton Wanderers,31504.0,4-2-3-1,Tony Harrington,2023-2024,West Ham United
+2024-04-14,14:00,Matchweek 33,Home,L,0,2,Fulham,62459.0,4-2-3-1,Stuart Attwell,2023-2024,West Ham United
+2024-04-21,15:00,Matchweek 34,Away,L,2,5,Crystal Palace,25145.0,4-2-3-1,Graham Scott,2023-2024,West Ham United
+2024-04-27,12:30,Matchweek 35,Home,D,2,2,Liverpool,62474.0,4-2-3-1,Anthony Taylor,2023-2024,West Ham United
+2024-05-05,14:00,Matchweek 36,Away,L,0,5,Chelsea,39295.0,4-2-3-1,Andy Madley,2023-2024,West Ham United
+2024-05-11,15:00,Matchweek 37,Home,W,3,1,Luton Town,62475.0,4-2-3-1,Michael Oliver,2023-2024,West Ham United
+2024-05-19,16:00,Matchweek 38,Away,L,1,3,Manchester City,62475.0,3-4-3,John Brooks,2023-2024,West Ham United
+2023-08-12,15:00,Matchweek 1,Away,W,1,0,Sheffield United,31194.0,4-2-3-1,John Brooks,2023-2024,Crystal Palace
+2023-08-21,20:00,Matchweek 2,Home,L,0,1,Arsenal,24189.0,4-2-3-1,David Coote,2023-2024,Crystal Palace
+2023-08-26,15:00,Matchweek 3,Away,D,1,1,Brentford,16997.0,4-2-3-1,Peter Bankes,2023-2024,Crystal Palace
+2023-09-03,14:00,Matchweek 4,Home,W,3,2,Wolverhampton Wanderers,24741.0,4-3-3,Robert Jones,2023-2024,Crystal Palace
+2023-09-16,15:00,Matchweek 5,Away,L,1,3,Aston Villa,40809.0,4-4-1-1,Darren England,2023-2024,Crystal Palace
+2023-09-23,15:00,Matchweek 6,Home,D,0,0,Fulham,25072.0,4-2-3-1,Paul Tierney,2023-2024,Crystal Palace
+2023-09-30,15:00,Matchweek 7,Away,W,1,0,Manchester United,73428.0,4-3-3,Chris Kavanagh,2023-2024,Crystal Palace
+2023-10-07,17:30,Matchweek 8,Home,D,0,0,Nottingham Forest,25017.0,4-3-3,Craig Pawson,2023-2024,Crystal Palace
+2023-10-21,15:00,Matchweek 9,Away,L,0,4,Newcastle United,52189.0,4-3-3,Tim Robinson,2023-2024,Crystal Palace
+2023-10-27,20:00,Matchweek 10,Home,L,1,2,Tottenham Hotspur,25074.0,4-2-3-1,Andy Madley,2023-2024,Crystal Palace
+2023-11-04,15:00,Matchweek 11,Away,W,2,0,Burnley,21578.0,4-2-3-1,Peter Bankes,2023-2024,Crystal Palace
+2023-11-11,15:00,Matchweek 12,Home,L,2,3,Everton,25103.0,4-2-3-1,Samuel Barrott,2023-2024,Crystal Palace
+2023-11-25,15:00,Matchweek 13,Away,L,1,2,Luton Town,11029.0,4-2-3-1,Jarred Gillett,2023-2024,Crystal Palace
+2023-12-03,14:00,Matchweek 14,Away,D,1,1,West Ham United,62414.0,4-3-3,Michael Oliver,2023-2024,Crystal Palace
+2023-12-06,19:30,Matchweek 15,Home,L,0,2,Bournemouth,25078.0,4-2-3-1,Craig Pawson,2023-2024,Crystal Palace
+2023-12-09,12:30,Matchweek 16,Home,L,1,2,Liverpool,25103.0,4-3-3,Andy Madley,2023-2024,Crystal Palace
+2023-12-16,15:00,Matchweek 17,Away,D,2,2,Manchester City,53248.0,5-4-1,Paul Tierney,2023-2024,Crystal Palace
+2023-12-21,20:00,Matchweek 18,Home,D,1,1,Brighton and Hove Albion,24171.0,4-3-3,John Brooks,2023-2024,Crystal Palace
+2023-12-27,19:30,Matchweek 19,Away,L,1,2,Chelsea,39618.0,4-3-3,Michael Salisbury,2023-2024,Crystal Palace
+2023-12-30,15:00,Matchweek 20,Home,W,3,1,Brentford,25472.0,4-3-3,Robert Jones,2023-2024,Crystal Palace
+2024-01-20,12:30,Matchweek 21,Away,L,0,5,Arsenal,60284.0,3-4-3,Paul Tierney,2023-2024,Crystal Palace
+2024-01-30,20:00,Matchweek 22,Home,W,3,2,Sheffield United,24781.0,4-3-3,Tony Harrington,2023-2024,Crystal Palace
+2024-02-03,15:00,Matchweek 23,Away,L,1,4,Brighton and Hove Albion,31345.0,4-3-3,Simon Hooper,2023-2024,Crystal Palace
+2024-02-12,20:00,Matchweek 24,Home,L,1,3,Chelsea,25110.0,4-1-4-1,Michael Oliver,2023-2024,Crystal Palace
+2024-02-19,20:00,Matchweek 25,Away,D,1,1,Everton,38164.0,3-4-3,Paul Tierney,2023-2024,Crystal Palace
+2024-02-24,15:00,Matchweek 26,Home,W,3,0,Burnley,24042.0,3-4-3,Lewis Smith,2023-2024,Crystal Palace
+2024-03-02,15:00,Matchweek 27,Away,L,1,3,Tottenham Hotspur,61339.0,3-4-3,John Brooks,2023-2024,Crystal Palace
+2024-03-09,15:00,Matchweek 28,Home,D,1,1,Luton Town,25103.0,3-4-3,Sunny Singh,2023-2024,Crystal Palace
+2024-03-30,15:00,Matchweek 30,Away,D,1,1,Nottingham Forest,29520.0,3-4-3,Chris Kavanagh,2023-2024,Crystal Palace
+2024-04-02,19:45,Matchweek 31,Away,L,0,1,Bournemouth,11058.0,3-4-3,Graham Scott,2023-2024,Crystal Palace
+2024-04-06,12:30,Matchweek 32,Home,L,2,4,Manchester City,25132.0,3-4-3,Paul Tierney,2023-2024,Crystal Palace
+2024-04-14,14:00,Matchweek 33,Away,W,1,0,Liverpool,60090.0,3-4-3,Chris Kavanagh,2023-2024,Crystal Palace
+2024-04-21,15:00,Matchweek 34,Home,W,5,2,West Ham United,25145.0,3-4-3,Graham Scott,2023-2024,Crystal Palace
+2024-04-24,20:00,Matchweek 29,Home,W,2,0,Newcastle United,25002.0,3-4-3,Thomas Bramall,2023-2024,Crystal Palace
+2024-04-27,15:00,Matchweek 35,Away,D,1,1,Fulham,24142.0,3-4-3,Stuart Attwell,2023-2024,Crystal Palace
+2024-05-06,20:00,Matchweek 36,Home,W,4,0,Manchester United,25190.0,3-4-3,Jarred Gillett,2023-2024,Crystal Palace
+2024-05-11,15:00,Matchweek 37,Away,W,3,1,Wolverhampton Wanderers,31424.0,3-4-3,Thomas Bramall,2023-2024,Crystal Palace
+2024-05-19,16:00,Matchweek 38,Home,W,5,0,Aston Villa,25191.0,3-4-3,Darren Bond,2023-2024,Crystal Palace
+2023-08-12,15:00,Matchweek 1,Home,W,4,1,Luton Town,31872.0,4-2-3-1,David Coote,2023-2024,Brighton and Hove Albion
+2023-08-19,15:00,Matchweek 2,Away,W,4,1,Wolverhampton Wanderers,31317.0,4-2-3-1,Andy Madley,2023-2024,Brighton and Hove Albion
+2023-08-26,17:30,Matchweek 3,Home,L,1,3,West Ham United,31508.0,4-2-3-1,Anthony Taylor,2023-2024,Brighton and Hove Albion
+2023-09-02,17:30,Matchweek 4,Home,W,3,1,Newcastle United,31620.0,4-2-3-1,Stuart Attwell,2023-2024,Brighton and Hove Albion
+2023-09-16,15:00,Matchweek 5,Away,W,3,1,Manchester United,73592.0,4-2-3-1,Jarred Gillett,2023-2024,Brighton and Hove Albion
+2023-09-24,14:00,Matchweek 6,Home,W,3,1,Bournemouth,31617.0,4-2-3-1,John Brooks,2023-2024,Brighton and Hove Albion
+2023-09-30,12:30,Matchweek 7,Away,L,1,6,Aston Villa,40636.0,4-2-3-1,Andy Madley,2023-2024,Brighton and Hove Albion
+2023-10-08,14:00,Matchweek 8,Home,D,2,2,Liverpool,31752.0,4-2-3-1,Anthony Taylor,2023-2024,Brighton and Hove Albion
+2023-10-21,15:00,Matchweek 9,Away,L,1,2,Manchester City,53466.0,4-2-3-1,Robert Jones,2023-2024,Brighton and Hove Albion
+2023-10-29,14:00,Matchweek 10,Home,D,1,1,Fulham,31550.0,3-4-3,Michael Salisbury,2023-2024,Brighton and Hove Albion
+2023-11-04,15:00,Matchweek 11,Away,D,1,1,Everton,38683.0,4-3-3,Tim Robinson,2023-2024,Brighton and Hove Albion
+2023-11-12,14:00,Matchweek 12,Home,D,1,1,Sheffield United,31367.0,4-2-3-1,John Brooks,2023-2024,Brighton and Hove Albion
+2023-11-25,15:00,Matchweek 13,Away,W,3,2,Nottingham Forest,29404.0,4-2-3-1,Anthony Taylor,2023-2024,Brighton and Hove Albion
+2023-12-03,14:00,Matchweek 14,Away,L,2,3,Chelsea,39647.0,4-2-3-1,Craig Pawson,2023-2024,Brighton and Hove Albion
+2023-12-06,19:30,Matchweek 15,Home,W,2,1,Brentford,31571.0,4-2-3-1,Peter Bankes,2023-2024,Brighton and Hove Albion
+2023-12-09,15:00,Matchweek 16,Home,D,1,1,Burnley,31511.0,4-2-3-1,Simon Hooper,2023-2024,Brighton and Hove Albion
+2023-12-17,14:00,Matchweek 17,Away,L,0,2,Arsenal,60257.0,4-2-3-1,Tim Robinson,2023-2024,Brighton and Hove Albion
+2023-12-21,20:00,Matchweek 18,Away,D,1,1,Crystal Palace,24171.0,4-2-3-1,John Brooks,2023-2024,Brighton and Hove Albion
+2023-12-28,19:30,Matchweek 19,Home,W,4,2,Tottenham Hotspur,31675.0,4-1-2-1-2,Jarred Gillett,2023-2024,Brighton and Hove Albion
+2024-01-02,19:30,Matchweek 20,Away,D,0,0,West Ham United,62462.0,4-3-1-2,Samuel Barrott,2023-2024,Brighton and Hove Albion
+2024-01-22,19:45,Matchweek 21,Home,D,0,0,Wolverhampton Wanderers,41505.0,4-3-3,Craig Pawson,2023-2024,Brighton and Hove Albion
+2024-01-30,19:45,Matchweek 22,Away,L,0,4,Luton Town,10994.0,3-4-3,Robert Jones,2023-2024,Brighton and Hove Albion
+2024-02-03,15:00,Matchweek 23,Home,W,4,1,Crystal Palace,31345.0,3-4-3,Simon Hooper,2023-2024,Brighton and Hove Albion
+2024-02-10,15:00,Matchweek 24,Away,L,1,2,Tottenham Hotspur,61445.0,4-2-3-1,Samuel Barrott,2023-2024,Brighton and Hove Albion
+2024-02-18,14:00,Matchweek 25,Away,W,5,0,Sheffield United,29522.0,4-2-3-1,Stuart Attwell,2023-2024,Brighton and Hove Albion
+2024-02-24,15:00,Matchweek 26,Home,D,1,1,Everton,41646.0,4-2-3-1,Tony Harrington,2023-2024,Brighton and Hove Albion
+2024-03-02,15:00,Matchweek 27,Away,L,0,3,Fulham,24460.0,3-4-3,Simon Hooper,2023-2024,Brighton and Hove Albion
+2024-03-10,14:00,Matchweek 28,Home,W,1,0,Nottingham Forest,31505.0,4-2-3-1,Michael Salisbury,2023-2024,Brighton and Hove Albion
+2024-03-31,14:00,Matchweek 30,Away,L,1,2,Liverpool,60061.0,4-2-3-1,David Coote,2023-2024,Brighton and Hove Albion
+2024-04-03,19:30,Matchweek 31,Away,D,0,0,Brentford,17024.0,4-2-3-1,Andy Madley,2023-2024,Brighton and Hove Albion
+2024-04-06,17:30,Matchweek 32,Home,L,0,3,Arsenal,31677.0,4-2-3-1,John Brooks,2023-2024,Brighton and Hove Albion
+2024-04-13,15:00,Matchweek 33,Away,D,1,1,Burnley,20687.0,4-2-3-1,Simon Hooper,2023-2024,Brighton and Hove Albion
+2024-04-25,20:00,Matchweek 29,Home,L,0,4,Manchester City,31596.0,4-2-3-1,Jarred Gillett,2023-2024,Brighton and Hove Albion
+2024-04-28,14:00,Matchweek 35,Away,L,0,3,Bournemouth,11188.0,4-2-3-1,Paul Tierney,2023-2024,Brighton and Hove Albion
+2024-05-05,14:00,Matchweek 36,Home,W,1,0,Aston Villa,31596.0,4-2-3-1,Robert Jones,2023-2024,Brighton and Hove Albion
+2024-05-11,15:00,Matchweek 37,Away,D,1,1,Newcastle United,51997.0,4-2-3-1,Darren England,2023-2024,Brighton and Hove Albion
+2024-05-15,19:45,Matchweek 34,Home,L,1,2,Chelsea,31555.0,4-2-3-1,Michael Salisbury,2023-2024,Brighton and Hove Albion
+2024-05-19,16:00,Matchweek 38,Home,L,0,2,Manchester United,31662.0,4-2-3-1,Craig Pawson,2023-2024,Brighton and Hove Albion
+2023-08-12,15:00,Matchweek 1,Home,D,1,1,West Ham United,11245.0,4-2-3-1,Peter Bankes,2023-2024,Bournemouth
+2023-08-19,15:00,Matchweek 2,Away,L,1,3,Liverpool,53145.0,4-2-3-1,Thomas Bramall,2023-2024,Bournemouth
+2023-08-26,12:30,Matchweek 3,Home,L,0,2,Tottenham Hotspur,10567.0,4-2-3-1,Tim Robinson,2023-2024,Bournemouth
+2023-09-02,15:00,Matchweek 4,Away,D,2,2,Brentford,16973.0,4-2-3-1,Robert Madley,2023-2024,Bournemouth
+2023-09-17,14:00,Matchweek 5,Home,D,0,0,Chelsea,10421.0,4-2-3-1,David Coote,2023-2024,Bournemouth
+2023-09-24,14:00,Matchweek 6,Away,L,1,3,Brighton and Hove Albion,31617.0,4-2-3-1,John Brooks,2023-2024,Bournemouth
+2023-09-30,15:00,Matchweek 7,Home,L,0,4,Arsenal,11193.0,4-2-3-1,Michael Salisbury,2023-2024,Bournemouth
+2023-10-07,15:00,Matchweek 8,Away,L,0,3,Everton,38815.0,4-2-3-1,David Coote,2023-2024,Bournemouth
+2023-10-21,15:00,Matchweek 9,Home,L,1,2,Wolverhampton Wanderers,11175.0,4-2-3-1,Paul Tierney,2023-2024,Bournemouth
+2023-10-28,15:00,Matchweek 10,Home,W,2,1,Burnley,11152.0,4-2-3-1,Samuel Barrott,2023-2024,Bournemouth
+2023-11-04,15:00,Matchweek 11,Away,L,1,6,Manchester City,53358.0,5-4-1,Craig Pawson,2023-2024,Bournemouth
+2023-11-11,17:30,Matchweek 12,Home,W,2,0,Newcastle United,11201.0,4-2-3-1,Chris Kavanagh,2023-2024,Bournemouth
+2023-11-25,15:00,Matchweek 13,Away,W,3,1,Sheffield United,30208.0,4-2-3-1,Andy Madley,2023-2024,Bournemouth
+2023-12-03,14:00,Matchweek 14,Home,D,2,2,Aston Villa,11191.0,4-2-3-1,Thomas Bramall,2023-2024,Bournemouth
+2023-12-06,19:30,Matchweek 15,Away,W,2,0,Crystal Palace,25078.0,4-2-3-1,Craig Pawson,2023-2024,Bournemouth
+2023-12-09,15:00,Matchweek 16,Away,W,3,0,Manchester United,73427.0,4-2-3-1,Peter Bankes,2023-2024,Bournemouth
+2023-12-23,15:00,Matchweek 18,Away,W,3,2,Nottingham Forest,29188.0,4-2-3-1,Robert Jones,2023-2024,Bournemouth
+2023-12-26,15:00,Matchweek 19,Home,W,3,0,Fulham,11099.0,4-2-3-1,Tim Robinson,2023-2024,Bournemouth
+2023-12-31,14:00,Matchweek 20,Away,L,1,3,Tottenham Hotspur,61780.0,4-2-3-1,Simon Hooper,2023-2024,Bournemouth
+2024-01-21,16:30,Matchweek 21,Home,L,0,4,Liverpool,11228.0,4-2-3-1,Andy Madley,2023-2024,Bournemouth
+2024-02-01,19:30,Matchweek 22,Away,D,1,1,West Ham United,62478.0,4-2-3-1,Tim Robinson,2023-2024,Bournemouth
+2024-02-04,14:00,Matchweek 23,Home,D,1,1,Nottingham Forest,11200.0,4-2-3-1,Rebecca Welch,2023-2024,Bournemouth
+2024-02-10,15:00,Matchweek 24,Away,L,1,3,Fulham,24271.0,4-2-3-1,Darren England,2023-2024,Bournemouth
+2024-02-17,15:00,Matchweek 25,Away,D,2,2,Newcastle United,52224.0,4-2-3-1,Michael Salisbury,2023-2024,Bournemouth
+2024-02-24,17:30,Matchweek 26,Home,L,0,1,Manchester City,11184.0,4-2-3-1,Jarred Gillett,2023-2024,Bournemouth
+2024-03-03,13:00,Matchweek 27,Away,W,2,0,Burnley,19713.0,4-2-3-1,David Coote,2023-2024,Bournemouth
+2024-03-09,15:00,Matchweek 28,Home,D,2,2,Sheffield United,11074.0,4-2-3-1,Anthony Taylor,2023-2024,Bournemouth
+2024-03-13,19:30,Matchweek 17,Home,W,4,3,Luton Town,11198.0,4-2-3-1,Samuel Allison,2023-2024,Bournemouth
+2024-03-30,15:00,Matchweek 30,Home,W,2,1,Everton,11207.0,4-2-3-1,Samuel Barrott,2023-2024,Bournemouth
+2024-04-02,19:45,Matchweek 31,Home,W,1,0,Crystal Palace,11058.0,4-3-3,Graham Scott,2023-2024,Bournemouth
+2024-04-06,15:00,Matchweek 32,Away,L,1,2,Luton Town,11797.0,4-2-3-1,Andy Madley,2023-2024,Bournemouth
+2024-04-13,17:30,Matchweek 33,Home,D,2,2,Manchester United,11229.0,4-2-3-1,Tony Harrington,2023-2024,Bournemouth
+2024-04-21,15:00,Matchweek 34,Away,L,1,3,Aston Villa,42189.0,4-2-3-1,Tim Robinson,2023-2024,Bournemouth
+2024-04-24,19:45,Matchweek 29,Away,W,1,0,Wolverhampton Wanderers,25541.0,4-2-3-1,Stuart Attwell,2023-2024,Bournemouth
+2024-04-28,14:00,Matchweek 35,Home,W,3,0,Brighton and Hove Albion,11188.0,4-4-2,Paul Tierney,2023-2024,Bournemouth
+2024-05-04,12:30,Matchweek 36,Away,L,0,3,Arsenal,60348.0,4-3-3,David Coote,2023-2024,Bournemouth
+2024-05-11,15:00,Matchweek 37,Home,L,1,2,Brentford,11154.0,4-2-3-1,Matt Donohue,2023-2024,Bournemouth
+2024-05-19,16:00,Matchweek 38,Away,L,1,2,Chelsea,39724.0,4-2-3-1,Anthony Taylor,2023-2024,Bournemouth
+2023-08-12,15:00,Matchweek 1,Away,W,1,0,Everton,39940.0,4-3-3,Stuart Attwell,2023-2024,Fulham
+2023-08-19,15:00,Matchweek 2,Home,L,0,3,Brentford,24236.0,4-3-3,Darren Bond,2023-2024,Fulham
+2023-08-26,15:00,Matchweek 3,Away,D,2,2,Arsenal,59961.0,4-3-3,Paul Tierney,2023-2024,Fulham
+2023-09-02,15:00,Matchweek 4,Away,L,1,5,Manchester City,52899.0,4-3-3,Michael Oliver,2023-2024,Fulham
+2023-09-16,15:00,Matchweek 5,Home,W,1,0,Luton Town,24467.0,4-3-3,Michael Salisbury,2023-2024,Fulham
+2023-09-23,15:00,Matchweek 6,Away,D,0,0,Crystal Palace,25072.0,4-3-3,Paul Tierney,2023-2024,Fulham
+2023-10-02,20:00,Matchweek 7,Home,L,0,2,Chelsea,24445.0,4-3-3,Tim Robinson,2023-2024,Fulham
+2023-10-07,15:00,Matchweek 8,Home,W,3,1,Sheffield United,24361.0,4-3-3,Samuel Barrott,2023-2024,Fulham
+2023-10-23,20:00,Matchweek 9,Away,L,0,2,Tottenham Hotspur,61286.0,4-2-3-1,Anthony Taylor,2023-2024,Fulham
+2023-10-29,14:00,Matchweek 10,Away,D,1,1,Brighton and Hove Albion,31550.0,4-2-3-1,Michael Salisbury,2023-2024,Fulham
+2023-11-04,12:30,Matchweek 11,Home,L,0,1,Manchester United,24415.0,4-2-3-1,John Brooks,2023-2024,Fulham
+2023-11-12,14:00,Matchweek 12,Away,L,1,3,Aston Villa,41608.0,4-2-3-1,Simon Hooper,2023-2024,Fulham
+2023-11-27,20:00,Matchweek 13,Home,W,3,2,Wolverhampton Wanderers,24366.0,4-2-3-1,Michael Salisbury,2023-2024,Fulham
+2023-12-03,14:00,Matchweek 14,Away,L,3,4,Liverpool,50124.0,4-2-3-1,Stuart Attwell,2023-2024,Fulham
+2023-12-06,19:30,Matchweek 15,Home,W,5,0,Nottingham Forest,24105.0,4-2-3-1,Joshua Smith,2023-2024,Fulham
+2023-12-10,14:00,Matchweek 16,Home,W,5,0,West Ham United,23988.0,4-2-3-1,Paul Tierney,2023-2024,Fulham
+2023-12-16,15:00,Matchweek 17,Away,L,0,3,Newcastle United,52055.0,4-2-3-1,Samuel Barrott,2023-2024,Fulham
+2023-12-23,15:00,Matchweek 18,Home,L,0,2,Burnley,23598.0,4-2-3-1,Rebecca Welch,2023-2024,Fulham
+2023-12-26,15:00,Matchweek 19,Away,L,0,3,Bournemouth,11099.0,4-2-3-1,Tim Robinson,2023-2024,Fulham
+2023-12-31,14:00,Matchweek 20,Home,W,2,1,Arsenal,24444.0,4-2-3-1,Joshua Smith,2023-2024,Fulham
+2024-01-13,12:30,Matchweek 21,Away,L,0,1,Chelsea,39643.0,4-2-3-1,Anthony Taylor,2023-2024,Fulham
+2024-01-30,19:45,Matchweek 22,Home,D,0,0,Everton,24376.0,4-2-3-1,Thomas Bramall,2023-2024,Fulham
+2024-02-03,15:00,Matchweek 23,Away,D,2,2,Burnley,20203.0,4-2-3-1,Darren Bond,2023-2024,Fulham
+2024-02-10,15:00,Matchweek 24,Home,W,3,1,Bournemouth,24271.0,4-2-3-1,Darren England,2023-2024,Fulham
+2024-02-17,15:00,Matchweek 25,Home,L,1,2,Aston Villa,24401.0,4-2-3-1,Lewis Smith,2023-2024,Fulham
+2024-02-24,15:00,Matchweek 26,Away,W,2,1,Manchester United,73487.0,4-2-3-1,Michael Oliver,2023-2024,Fulham
+2024-03-02,15:00,Matchweek 27,Home,W,3,0,Brighton and Hove Albion,24460.0,4-2-3-1,Simon Hooper,2023-2024,Fulham
+2024-03-09,15:00,Matchweek 28,Away,L,1,2,Wolverhampton Wanderers,30860.0,4-2-3-1,Tony Harrington,2023-2024,Fulham
+2024-03-16,17:30,Matchweek 29,Home,W,3,0,Tottenham Hotspur,24410.0,4-2-3-1,Robert Jones,2023-2024,Fulham
+2024-03-30,15:00,Matchweek 30,Away,D,3,3,Sheffield United,30010.0,4-2-3-1,Tim Robinson,2023-2024,Fulham
+2024-04-02,19:30,Matchweek 31,Away,L,1,3,Nottingham Forest,28997.0,4-2-3-1,Michael Oliver,2023-2024,Fulham
+2024-04-06,15:00,Matchweek 32,Home,L,0,1,Newcastle United,24418.0,4-2-3-1,Samuel Allison,2023-2024,Fulham
+2024-04-14,14:00,Matchweek 33,Away,W,2,0,West Ham United,62459.0,4-2-3-1,Stuart Attwell,2023-2024,Fulham
+2024-04-21,16:30,Matchweek 34,Home,L,1,3,Liverpool,24414.0,4-2-3-1,Craig Pawson,2023-2024,Fulham
+2024-04-27,15:00,Matchweek 35,Home,D,1,1,Crystal Palace,24142.0,4-2-3-1,Stuart Attwell,2023-2024,Fulham
+2024-05-04,15:00,Matchweek 36,Away,D,0,0,Brentford,17090.0,4-2-3-1,Graham Scott,2023-2024,Fulham
+2024-05-11,12:30,Matchweek 37,Home,L,0,4,Manchester City,24418.0,4-2-3-1,Anthony Taylor,2023-2024,Fulham
+2024-05-19,16:00,Matchweek 38,Away,W,4,2,Luton Town,12027.0,4-2-3-1,Matt Donohue,2023-2024,Fulham
+2023-08-14,20:00,Matchweek 1,Away,L,0,1,Manchester United,73358.0,4-4-2,Simon Hooper,2023-2024,Wolverhampton Wanderers
+2023-08-19,15:00,Matchweek 2,Home,L,1,4,Brighton and Hove Albion,31317.0,4-4-1-1,Andy Madley,2023-2024,Wolverhampton Wanderers
+2023-08-26,15:00,Matchweek 3,Away,W,1,0,Everton,38851.0,4-4-1-1,Craig Pawson,2023-2024,Wolverhampton Wanderers
+2023-09-03,14:00,Matchweek 4,Away,L,2,3,Crystal Palace,24741.0,4-4-2,Robert Jones,2023-2024,Wolverhampton Wanderers
+2023-09-16,12:30,Matchweek 5,Home,L,1,3,Liverpool,31257.0,4-2-3-1,Michael Oliver,2023-2024,Wolverhampton Wanderers
+2023-09-23,15:00,Matchweek 6,Away,D,1,1,Luton Town,10893.0,4-2-3-1,Joshua Smith,2023-2024,Wolverhampton Wanderers
+2023-09-30,15:00,Matchweek 7,Home,W,2,1,Manchester City,31415.0,3-4-3,Craig Pawson,2023-2024,Wolverhampton Wanderers
+2023-10-08,14:00,Matchweek 8,Home,D,1,1,Aston Villa,31425.0,3-4-3,Robert Jones,2023-2024,Wolverhampton Wanderers
+2023-10-21,15:00,Matchweek 9,Away,W,2,1,Bournemouth,11175.0,3-4-3,Paul Tierney,2023-2024,Wolverhampton Wanderers
+2023-10-28,17:30,Matchweek 10,Home,D,2,2,Newcastle United,31584.0,4-4-2,Anthony Taylor,2023-2024,Wolverhampton Wanderers
+2023-11-04,15:00,Matchweek 11,Away,L,1,2,Sheffield United,29454.0,4-4-1-1,Robert Jones,2023-2024,Wolverhampton Wanderers
+2023-11-11,12:30,Matchweek 12,Home,W,2,1,Tottenham Hotspur,31642.0,3-5-2,Tim Robinson,2023-2024,Wolverhampton Wanderers
+2023-11-27,20:00,Matchweek 13,Away,L,2,3,Fulham,24366.0,3-5-2,Michael Salisbury,2023-2024,Wolverhampton Wanderers
+2023-12-02,15:00,Matchweek 14,Away,L,1,2,Arsenal,60262.0,3-5-2,Peter Bankes,2023-2024,Wolverhampton Wanderers
+2023-12-05,19:30,Matchweek 15,Home,W,1,0,Burnley,30439.0,3-4-3,Jarred Gillett,2023-2024,Wolverhampton Wanderers
+2023-12-09,15:00,Matchweek 16,Home,D,1,1,Nottingham Forest,31543.0,3-4-3,Samuel Barrott,2023-2024,Wolverhampton Wanderers
+2023-12-17,14:00,Matchweek 17,Away,L,0,3,West Ham United,62455.0,3-4-3,Chris Kavanagh,2023-2024,Wolverhampton Wanderers
+2023-12-24,13:00,Matchweek 18,Home,W,2,1,Chelsea,31641.0,3-4-3,David Coote,2023-2024,Wolverhampton Wanderers
+2023-12-27,19:30,Matchweek 19,Away,W,4,1,Brentford,17109.0,3-4-3,Andy Madley,2023-2024,Wolverhampton Wanderers
+2023-12-30,15:00,Matchweek 20,Home,W,3,0,Everton,31639.0,3-4-3,Thomas Bramall,2023-2024,Wolverhampton Wanderers
+2024-01-22,19:45,Matchweek 21,Away,D,0,0,Brighton and Hove Albion,41505.0,3-4-3,Craig Pawson,2023-2024,Wolverhampton Wanderers
+2024-02-01,20:15,Matchweek 22,Home,L,3,4,Manchester United,31641.0,3-4-3,Jarred Gillett,2023-2024,Wolverhampton Wanderers
+2024-02-04,14:00,Matchweek 23,Away,W,4,2,Chelsea,39628.0,3-4-3,Tim Robinson,2023-2024,Wolverhampton Wanderers
+2024-02-10,15:00,Matchweek 24,Home,L,0,2,Brentford,30731.0,3-4-3,Simon Hooper,2023-2024,Wolverhampton Wanderers
+2024-02-17,15:00,Matchweek 25,Away,W,2,1,Tottenham Hotspur,61532.0,3-4-3,Anthony Taylor,2023-2024,Wolverhampton Wanderers
+2024-02-25,13:30,Matchweek 26,Home,W,1,0,Sheffield United,30789.0,3-4-3,Darren Bond,2023-2024,Wolverhampton Wanderers
+2024-03-02,15:00,Matchweek 27,Away,L,0,3,Newcastle United,52206.0,3-4-3,Tim Robinson,2023-2024,Wolverhampton Wanderers
+2024-03-09,15:00,Matchweek 28,Home,W,2,1,Fulham,30860.0,4-2-3-1,Tony Harrington,2023-2024,Wolverhampton Wanderers
+2024-03-30,17:30,Matchweek 30,Away,L,0,2,Aston Villa,42640.0,3-4-3,Paul Tierney,2023-2024,Wolverhampton Wanderers
+2024-04-02,19:45,Matchweek 31,Away,D,1,1,Burnley,21528.0,4-4-1-1,Thomas Bramall,2023-2024,Wolverhampton Wanderers
+2024-04-06,15:00,Matchweek 32,Home,L,1,2,West Ham United,31504.0,3-4-3,Tony Harrington,2023-2024,Wolverhampton Wanderers
+2024-04-13,15:00,Matchweek 33,Away,D,2,2,Nottingham Forest,29604.0,3-4-1-2,Craig Pawson,2023-2024,Wolverhampton Wanderers
+2024-04-20,19:30,Matchweek 34,Home,L,0,2,Arsenal,31621.0,4-4-2,Paul Tierney,2023-2024,Wolverhampton Wanderers
+2024-04-24,19:45,Matchweek 29,Home,L,0,1,Bournemouth,25541.0,4-1-4-1,Stuart Attwell,2023-2024,Wolverhampton Wanderers
+2024-04-27,15:00,Matchweek 35,Home,W,2,1,Luton Town,31531.0,3-5-1-1,David Coote,2023-2024,Wolverhampton Wanderers
+2024-05-04,17:30,Matchweek 36,Away,L,1,5,Manchester City,52439.0,3-5-2,Craig Pawson,2023-2024,Wolverhampton Wanderers
+2024-05-11,15:00,Matchweek 37,Home,L,1,3,Crystal Palace,31424.0,3-5-1-1,Thomas Bramall,2023-2024,Wolverhampton Wanderers
+2024-05-19,16:00,Matchweek 38,Away,L,0,2,Liverpool,31257.0,3-5-1-1,Chris Kavanagh,2023-2024,Wolverhampton Wanderers
+2023-08-12,15:00,Matchweek 1,Home,L,0,1,Fulham,39940.0,4-4-1-1,Stuart Attwell,2023-2024,Everton
+2023-08-20,14:00,Matchweek 2,Away,L,0,4,Aston Villa,41694.0,4-1-4-1,Anthony Taylor,2023-2024,Everton
+2023-08-26,15:00,Matchweek 3,Home,L,0,1,Wolverhampton Wanderers,38851.0,4-1-4-1,Craig Pawson,2023-2024,Everton
+2023-09-02,12:30,Matchweek 4,Away,D,2,2,Sheffield United,31124.0,4-4-1-1,Andy Madley,2023-2024,Everton
+2023-09-17,16:30,Matchweek 5,Home,L,0,1,Arsenal,39217.0,4-5-1,Simon Hooper,2023-2024,Everton
+2023-09-23,17:30,Matchweek 6,Away,W,3,1,Brentford,16981.0,4-4-1-1,Michael Oliver,2023-2024,Everton
+2023-09-30,15:00,Matchweek 7,Home,L,1,2,Luton Town,39289.0,4-4-1-1,Anthony Taylor,2023-2024,Everton
+2023-10-07,15:00,Matchweek 8,Home,W,3,0,Bournemouth,38815.0,4-4-1-1,David Coote,2023-2024,Everton
+2023-10-21,12:30,Matchweek 9,Away,L,0,2,Liverpool,50201.0,4-4-1-1,Craig Pawson,2023-2024,Everton
+2023-10-29,13:00,Matchweek 10,Away,W,1,0,West Ham United,62469.0,4-4-1-1,Stuart Attwell,2023-2024,Everton
+2023-11-04,15:00,Matchweek 11,Home,D,1,1,Brighton and Hove Albion,38683.0,4-4-1-1,Tim Robinson,2023-2024,Everton
+2023-11-11,15:00,Matchweek 12,Away,W,3,2,Crystal Palace,25103.0,4-4-1-1,Samuel Barrott,2023-2024,Everton
+2023-11-26,16:30,Matchweek 13,Home,L,0,3,Manchester United,39257.0,4-4-1-1,John Brooks,2023-2024,Everton
+2023-12-02,17:30,Matchweek 14,Away,W,1,0,Nottingham Forest,29404.0,4-4-1-1,Paul Tierney,2023-2024,Everton
+2023-12-07,19:30,Matchweek 15,Home,W,3,0,Newcastle United,38198.0,4-4-1-1,Tim Robinson,2023-2024,Everton
+2023-12-10,14:00,Matchweek 16,Home,W,2,0,Chelsea,39280.0,4-4-1-1,Michael Oliver,2023-2024,Everton
+2023-12-16,17:30,Matchweek 17,Away,W,2,0,Burnley,21413.0,5-4-1,Anthony Taylor,2023-2024,Everton
+2023-12-23,15:00,Matchweek 18,Away,L,1,2,Tottenham Hotspur,61808.0,4-2-3-1,Stuart Attwell,2023-2024,Everton
+2023-12-27,20:15,Matchweek 19,Home,L,1,3,Manchester City,39327.0,4-2-3-1,John Brooks,2023-2024,Everton
+2023-12-30,15:00,Matchweek 20,Away,L,0,3,Wolverhampton Wanderers,31639.0,5-4-1,Thomas Bramall,2023-2024,Everton
+2024-01-14,14:00,Matchweek 21,Home,D,0,0,Aston Villa,39284.0,4-2-3-1,David Coote,2023-2024,Everton
+2024-01-30,19:45,Matchweek 22,Away,D,0,0,Fulham,24376.0,4-4-1-1,Thomas Bramall,2023-2024,Everton
+2024-02-03,12:30,Matchweek 23,Home,D,2,2,Tottenham Hotspur,39321.0,4-4-1-1,Michael Oliver,2023-2024,Everton
+2024-02-10,12:30,Matchweek 24,Away,L,0,2,Manchester City,52187.0,4-2-3-1,John Brooks,2023-2024,Everton
+2024-02-19,20:00,Matchweek 25,Home,D,1,1,Crystal Palace,38164.0,4-4-1-1,Paul Tierney,2023-2024,Everton
+2024-02-24,15:00,Matchweek 26,Away,D,1,1,Brighton and Hove Albion,41646.0,4-4-1-1,Tony Harrington,2023-2024,Everton
+2024-03-02,15:00,Matchweek 27,Home,L,1,3,West Ham United,39262.0,4-4-1-1,Craig Pawson,2023-2024,Everton
+2024-03-09,12:30,Matchweek 28,Away,L,0,2,Manchester United,73601.0,4-4-1-1,Simon Hooper,2023-2024,Everton
+2024-03-30,15:00,Matchweek 30,Away,L,1,2,Bournemouth,11207.0,4-4-1-1,Samuel Barrott,2023-2024,Everton
+2024-04-02,19:30,Matchweek 31,Away,D,1,1,Newcastle United,52135.0,4-4-1-1,Tony Harrington,2023-2024,Everton
+2024-04-06,15:00,Matchweek 32,Home,W,1,0,Burnley,39125.0,4-4-1-1,Michael Oliver,2023-2024,Everton
+2024-04-15,20:00,Matchweek 33,Away,L,0,6,Chelsea,39392.0,4-4-1-1,Paul Tierney,2023-2024,Everton
+2024-04-21,13:30,Matchweek 34,Home,W,2,0,Nottingham Forest,39239.0,4-1-4-1,Anthony Taylor,2023-2024,Everton
+2024-04-24,20:00,Matchweek 29,Home,W,2,0,Liverpool,38222.0,4-4-1-1,Andy Madley,2023-2024,Everton
+2024-04-27,17:30,Matchweek 35,Home,W,1,0,Brentford,39098.0,4-4-1-1,Darren England,2023-2024,Everton
+2024-05-03,20:00,Matchweek 36,Away,D,1,1,Luton Town,11873.0,4-4-1-1,Tim Robinson,2023-2024,Everton
+2024-05-11,15:00,Matchweek 37,Home,W,1,0,Sheffield United,39221.0,4-4-1-1,Stuart Attwell,2023-2024,Everton
+2024-05-19,16:00,Matchweek 38,Away,L,1,2,Arsenal,60312.0,4-4-1-1,Michael Oliver,2023-2024,Everton
+2023-08-13,14:00,Matchweek 1,Home,D,2,2,Tottenham Hotspur,17066.0,5-3-2,Robert Jones,2023-2024,Brentford
+2023-08-19,15:00,Matchweek 2,Away,W,3,0,Fulham,24236.0,4-3-3,Darren Bond,2023-2024,Brentford
+2023-08-26,15:00,Matchweek 3,Home,D,1,1,Crystal Palace,16997.0,4-3-3,Peter Bankes,2023-2024,Brentford
+2023-09-02,15:00,Matchweek 4,Home,D,2,2,Bournemouth,16973.0,4-3-3,Robert Madley,2023-2024,Brentford
+2023-09-16,17:30,Matchweek 5,Away,L,0,1,Newcastle United,51670.0,5-3-2,Craig Pawson,2023-2024,Brentford
+2023-09-23,17:30,Matchweek 6,Home,L,1,3,Everton,16981.0,4-3-3,Michael Oliver,2023-2024,Brentford
+2023-10-01,14:00,Matchweek 7,Away,D,1,1,Nottingham Forest,29004.0,4-3-3,Paul Tierney,2023-2024,Brentford
+2023-10-07,15:00,Matchweek 8,Away,L,1,2,Manchester United,73453.0,3-5-2,Andy Madley,2023-2024,Brentford
+2023-10-21,15:00,Matchweek 9,Home,W,3,0,Burnley,17029.0,4-3-3,Joshua Smith,2023-2024,Brentford
+2023-10-28,12:30,Matchweek 10,Away,W,2,0,Chelsea,39575.0,3-5-2,Simon Hooper,2023-2024,Brentford
+2023-11-04,15:00,Matchweek 11,Home,W,3,2,West Ham United,17103.0,4-3-3,Thomas Bramall,2023-2024,Brentford
+2023-11-12,14:00,Matchweek 12,Away,L,0,3,Liverpool,50151.0,5-3-2,Paul Tierney,2023-2024,Brentford
+2023-11-25,17:30,Matchweek 13,Home,L,0,1,Arsenal,17201.0,5-3-2,Tim Robinson,2023-2024,Brentford
+2023-12-02,15:00,Matchweek 14,Home,W,3,1,Luton Town,17075.0,4-3-3,Anthony Taylor,2023-2024,Brentford
+2023-12-06,19:30,Matchweek 15,Away,L,1,2,Brighton and Hove Albion,31571.0,4-4-2,Peter Bankes,2023-2024,Brentford
+2023-12-09,15:00,Matchweek 16,Away,L,0,1,Sheffield United,28509.0,4-3-3,Stuart Attwell,2023-2024,Brentford
+2023-12-17,14:00,Matchweek 17,Home,L,1,2,Aston Villa,17034.0,3-5-2,David Coote,2023-2024,Brentford
+2023-12-27,19:30,Matchweek 19,Home,L,1,4,Wolverhampton Wanderers,17109.0,4-3-3,Andy Madley,2023-2024,Brentford
+2023-12-30,15:00,Matchweek 20,Away,L,1,3,Crystal Palace,25472.0,3-5-2,Robert Jones,2023-2024,Brentford
+2024-01-20,17:30,Matchweek 21,Home,W,3,2,Nottingham Forest,17077.0,3-5-2,Darren England,2023-2024,Brentford
+2024-01-31,19:30,Matchweek 22,Away,L,2,3,Tottenham Hotspur,61210.0,3-5-2,David Coote,2023-2024,Brentford
+2024-02-05,20:00,Matchweek 23,Home,L,1,3,Manchester City,17096.0,3-5-2,Jarred Gillett,2023-2024,Brentford
+2024-02-10,15:00,Matchweek 24,Away,W,2,0,Wolverhampton Wanderers,30731.0,3-5-2,Simon Hooper,2023-2024,Brentford
+2024-02-17,12:30,Matchweek 25,Home,L,1,4,Liverpool,17193.0,3-5-2,Michael Oliver,2023-2024,Brentford
+2024-02-20,19:30,Matchweek 18,Away,L,0,1,Manchester City,52247.0,3-5-2,Darren England,2023-2024,Brentford
+2024-02-26,20:00,Matchweek 26,Away,L,2,4,West Ham United,62450.0,3-5-2,Simon Hooper,2023-2024,Brentford
+2024-03-02,15:00,Matchweek 27,Home,D,2,2,Chelsea,17140.0,3-5-2,Jarred Gillett,2023-2024,Brentford
+2024-03-09,17:30,Matchweek 28,Away,L,1,2,Arsenal,60331.0,3-5-2,Robert Jones,2023-2024,Brentford
+2024-03-16,15:00,Matchweek 29,Away,L,1,2,Burnley,20431.0,3-5-2,Darren Bond,2023-2024,Brentford
+2024-03-30,20:00,Matchweek 30,Home,D,1,1,Manchester United,17138.0,3-5-2,Simon Hooper,2023-2024,Brentford
+2024-04-03,19:30,Matchweek 31,Home,D,0,0,Brighton and Hove Albion,17024.0,3-5-2,Andy Madley,2023-2024,Brentford
+2024-04-06,15:00,Matchweek 32,Away,D,3,3,Aston Villa,42118.0,3-5-2,Michael Salisbury,2023-2024,Brentford
+2024-04-13,15:00,Matchweek 33,Home,W,2,0,Sheffield United,17115.0,4-3-3,Samuel Barrott,2023-2024,Brentford
+2024-04-20,15:00,Matchweek 34,Away,W,5,1,Luton Town,11877.0,4-3-3,Jarred Gillett,2023-2024,Brentford
+2024-04-27,17:30,Matchweek 35,Away,L,0,1,Everton,39098.0,4-3-3,Darren England,2023-2024,Brentford
+2024-05-04,15:00,Matchweek 36,Home,D,0,0,Fulham,17090.0,4-3-3,Graham Scott,2023-2024,Brentford
+2024-05-11,15:00,Matchweek 37,Away,W,2,1,Bournemouth,11154.0,4-3-3,Matt Donohue,2023-2024,Brentford
+2024-05-19,16:00,Matchweek 38,Home,L,2,4,Newcastle United,17124.0,4-3-3,Simon Hooper,2023-2024,Brentford
+2023-08-12,12:30,Matchweek 1,Away,L,1,2,Arsenal,59984.0,3-4-3,Michael Oliver,2023-2024,Nottingham Forest
+2023-08-18,19:45,Matchweek 2,Home,W,2,1,Sheffield United,29432.0,3-4-3,Peter Bankes,2023-2024,Nottingham Forest
+2023-08-26,15:00,Matchweek 3,Away,L,2,3,Manchester United,73595.0,3-4-3,Stuart Attwell,2023-2024,Nottingham Forest
+2023-09-02,15:00,Matchweek 4,Away,W,1,0,Chelsea,39820.0,3-4-3,Tim Robinson,2023-2024,Nottingham Forest
+2023-09-18,19:45,Matchweek 5,Home,D,1,1,Burnley,28958.0,4-2-3-1,Robert Jones,2023-2024,Nottingham Forest
+2023-09-23,15:00,Matchweek 6,Away,L,0,2,Manchester City,53413.0,5-4-1,Anthony Taylor,2023-2024,Nottingham Forest
+2023-10-01,14:00,Matchweek 7,Home,D,1,1,Brentford,29004.0,4-3-3,Paul Tierney,2023-2024,Nottingham Forest
+2023-10-07,17:30,Matchweek 8,Away,D,0,0,Crystal Palace,25017.0,4-3-3,Craig Pawson,2023-2024,Nottingham Forest
+2023-10-21,15:00,Matchweek 9,Home,D,2,2,Luton Town,29361.0,4-3-3,Samuel Barrott,2023-2024,Nottingham Forest
+2023-10-29,14:00,Matchweek 10,Away,L,0,3,Liverpool,50143.0,5-4-1,Chris Kavanagh,2023-2024,Nottingham Forest
+2023-11-05,14:00,Matchweek 11,Home,W,2,0,Aston Villa,29313.0,4-3-3,Jarred Gillett,2023-2024,Nottingham Forest
+2023-11-12,14:00,Matchweek 12,Away,L,2,3,West Ham United,62470.0,4-3-3,Michael Salisbury,2023-2024,Nottingham Forest
+2023-11-25,15:00,Matchweek 13,Home,L,2,3,Brighton and Hove Albion,29404.0,4-1-4-1,Anthony Taylor,2023-2024,Nottingham Forest
+2023-12-02,17:30,Matchweek 14,Home,L,0,1,Everton,29404.0,4-3-3,Paul Tierney,2023-2024,Nottingham Forest
+2023-12-06,19:30,Matchweek 15,Away,L,0,5,Fulham,24105.0,4-2-3-1,Joshua Smith,2023-2024,Nottingham Forest
+2023-12-09,15:00,Matchweek 16,Away,D,1,1,Wolverhampton Wanderers,31543.0,3-5-2,Samuel Barrott,2023-2024,Nottingham Forest
+2023-12-15,20:00,Matchweek 17,Home,L,0,2,Tottenham Hotspur,29296.0,3-5-2,Jarred Gillett,2023-2024,Nottingham Forest
+2023-12-23,15:00,Matchweek 18,Home,L,2,3,Bournemouth,29188.0,4-2-3-1,Robert Jones,2023-2024,Nottingham Forest
+2023-12-26,12:30,Matchweek 19,Away,W,3,1,Newcastle United,52207.0,4-2-3-1,Chris Kavanagh,2023-2024,Nottingham Forest
+2023-12-30,17:30,Matchweek 20,Home,W,2,1,Manchester United,29529.0,4-2-3-1,Tim Robinson,2023-2024,Nottingham Forest
+2024-01-20,17:30,Matchweek 21,Away,L,2,3,Brentford,17077.0,4-2-3-1,Darren England,2023-2024,Nottingham Forest
+2024-01-30,19:30,Matchweek 22,Home,L,1,2,Arsenal,29387.0,4-2-3-1,Simon Hooper,2023-2024,Nottingham Forest
+2024-02-04,14:00,Matchweek 23,Away,D,1,1,Bournemouth,11200.0,4-2-3-1,Rebecca Welch,2023-2024,Nottingham Forest
+2024-02-10,17:30,Matchweek 24,Home,L,2,3,Newcastle United,29451.0,4-2-3-1,Anthony Taylor,2023-2024,Nottingham Forest
+2024-02-17,15:00,Matchweek 25,Home,W,2,0,West Ham United,29490.0,4-2-3-1,Thomas Bramall,2023-2024,Nottingham Forest
+2024-02-24,15:00,Matchweek 26,Away,L,2,4,Aston Villa,42131.0,4-2-3-1,Samuel Barrott,2023-2024,Nottingham Forest
+2024-03-02,15:00,Matchweek 27,Home,L,0,1,Liverpool,29603.0,4-2-3-1,Paul Tierney,2023-2024,Nottingham Forest
+2024-03-10,14:00,Matchweek 28,Away,L,0,1,Brighton and Hove Albion,31505.0,4-3-3,Michael Salisbury,2023-2024,Nottingham Forest
+2024-03-16,15:00,Matchweek 29,Away,D,1,1,Luton Town,11630.0,4-2-3-1,Darren England,2023-2024,Nottingham Forest
+2024-03-30,15:00,Matchweek 30,Home,D,1,1,Crystal Palace,29520.0,4-2-3-1,Chris Kavanagh,2023-2024,Nottingham Forest
+2024-04-02,19:30,Matchweek 31,Home,W,3,1,Fulham,28997.0,4-2-3-1,Michael Oliver,2023-2024,Nottingham Forest
+2024-04-07,18:00,Matchweek 32,Away,L,1,3,Tottenham Hotspur,61098.0,4-2-3-1,Simon Hooper,2023-2024,Nottingham Forest
+2024-04-13,15:00,Matchweek 33,Home,D,2,2,Wolverhampton Wanderers,29604.0,4-2-3-1,Craig Pawson,2023-2024,Nottingham Forest
+2024-04-21,13:30,Matchweek 34,Away,L,0,2,Everton,39239.0,4-2-3-1,Anthony Taylor,2023-2024,Nottingham Forest
+2024-04-28,16:30,Matchweek 35,Home,L,0,2,Manchester City,29677.0,5-4-1,Simon Hooper,2023-2024,Nottingham Forest
+2024-05-04,15:00,Matchweek 36,Away,W,3,1,Sheffield United,28516.0,4-2-3-1,Chris Kavanagh,2023-2024,Nottingham Forest
+2024-05-11,17:30,Matchweek 37,Home,L,2,3,Chelsea,29708.0,5-4-1,Tony Harrington,2023-2024,Nottingham Forest
+2024-05-19,16:00,Matchweek 38,Away,W,2,1,Burnley,21109.0,4-2-3-1,Graham Scott,2023-2024,Nottingham Forest
+2023-08-12,15:00,Matchweek 1,Away,L,1,4,Brighton and Hove Albion,31872.0,3-5-2,David Coote,2023-2024,Luton Town
+2023-08-25,20:00,Matchweek 3,Away,L,0,3,Chelsea,39893.0,5-3-2,Robert Jones,2023-2024,Luton Town
+2023-09-01,20:00,Matchweek 4,Home,L,1,2,West Ham United,10802.0,5-3-2,Paul Tierney,2023-2024,Luton Town
+2023-09-16,15:00,Matchweek 5,Away,L,0,1,Fulham,24467.0,5-3-2,Michael Salisbury,2023-2024,Luton Town
+2023-09-23,15:00,Matchweek 6,Home,D,1,1,Wolverhampton Wanderers,10893.0,3-4-3,Joshua Smith,2023-2024,Luton Town
+2023-09-30,15:00,Matchweek 7,Away,W,2,1,Everton,39289.0,3-4-3,Anthony Taylor,2023-2024,Luton Town
+2023-10-03,19:30,Matchweek 2,Home,L,1,2,Burnley,10918.0,3-4-3,Peter Bankes,2023-2024,Luton Town
+2023-10-07,12:30,Matchweek 8,Home,L,0,1,Tottenham Hotspur,10290.0,4-4-2,John Brooks,2023-2024,Luton Town
+2023-10-21,15:00,Matchweek 9,Away,D,2,2,Nottingham Forest,29361.0,4-4-2,Samuel Barrott,2023-2024,Luton Town
+2023-10-29,14:00,Matchweek 10,Away,L,1,3,Aston Villa,41785.0,3-4-3,John Brooks,2023-2024,Luton Town
+2023-11-05,16:30,Matchweek 11,Home,D,1,1,Liverpool,11049.0,3-4-3,Andy Madley,2023-2024,Luton Town
+2023-11-11,15:00,Matchweek 12,Away,L,0,1,Manchester United,73599.0,3-4-3,Graham Scott,2023-2024,Luton Town
+2023-11-25,15:00,Matchweek 13,Home,W,2,1,Crystal Palace,11029.0,3-4-3,Jarred Gillett,2023-2024,Luton Town
+2023-12-02,15:00,Matchweek 14,Away,L,1,3,Brentford,17075.0,3-4-3,Anthony Taylor,2023-2024,Luton Town
+2023-12-05,20:15,Matchweek 15,Home,L,3,4,Arsenal,11031.0,3-4-3,Samuel Barrott,2023-2024,Luton Town
+2023-12-10,14:00,Matchweek 16,Home,L,1,2,Manchester City,11047.0,3-4-3,Tim Robinson,2023-2024,Luton Town
+2023-12-23,15:00,Matchweek 18,Home,W,1,0,Newcastle United,11042.0,3-4-3,Darren England,2023-2024,Luton Town
+2023-12-26,15:00,Matchweek 19,Away,W,3,2,Sheffield United,31041.0,3-4-3,Samuel Allison,2023-2024,Luton Town
+2023-12-30,12:30,Matchweek 20,Home,L,2,3,Chelsea,11041.0,3-4-3,Paul Tierney,2023-2024,Luton Town
+2024-01-12,19:45,Matchweek 21,Away,D,1,1,Burnley,20155.0,3-4-3,Tony Harrington,2023-2024,Luton Town
+2024-01-30,19:45,Matchweek 22,Home,W,4,0,Brighton and Hove Albion,10994.0,3-4-3,Robert Jones,2023-2024,Luton Town
+2024-02-03,15:00,Matchweek 23,Away,D,4,4,Newcastle United,52211.0,3-4-3,Thomas Bramall,2023-2024,Luton Town
+2024-02-10,15:00,Matchweek 24,Home,L,1,3,Sheffield United,11138.0,3-4-3,Chris Kavanagh,2023-2024,Luton Town
+2024-02-18,16:30,Matchweek 25,Home,L,1,2,Manchester United,11483.0,3-4-3,David Coote,2023-2024,Luton Town
+2024-02-21,19:30,Matchweek 26,Away,L,1,4,Liverpool,59713.0,3-4-3,Andy Madley,2023-2024,Luton Town
+2024-03-02,17:30,Matchweek 27,Home,L,2,3,Aston Villa,11594.0,3-4-3,Michael Oliver,2023-2024,Luton Town
+2024-03-09,15:00,Matchweek 28,Away,D,1,1,Crystal Palace,25103.0,3-4-3,Sunny Singh,2023-2024,Luton Town
+2024-03-13,19:30,Matchweek 17,Away,L,3,4,Bournemouth,11198.0,3-4-3,Samuel Allison,2023-2024,Luton Town
+2024-03-16,15:00,Matchweek 29,Home,D,1,1,Nottingham Forest,11630.0,3-4-3,Darren England,2023-2024,Luton Town
+2024-03-30,15:00,Matchweek 30,Away,L,1,2,Tottenham Hotspur,61534.0,4-3-3,Jarred Gillett,2023-2024,Luton Town
+2024-04-03,19:30,Matchweek 31,Away,L,0,2,Arsenal,60262.0,3-4-3,Craig Pawson,2023-2024,Luton Town
+2024-04-06,15:00,Matchweek 32,Home,W,2,1,Bournemouth,11797.0,3-4-3,Andy Madley,2023-2024,Luton Town
+2024-04-13,15:00,Matchweek 33,Away,L,1,5,Manchester City,52149.0,3-4-3,John Brooks,2023-2024,Luton Town
+2024-04-20,15:00,Matchweek 34,Home,L,1,5,Brentford,11877.0,3-4-3,Jarred Gillett,2023-2024,Luton Town
+2024-04-27,15:00,Matchweek 35,Away,L,1,2,Wolverhampton Wanderers,31531.0,3-4-3,David Coote,2023-2024,Luton Town
+2024-05-03,20:00,Matchweek 36,Home,D,1,1,Everton,11873.0,3-4-3,Tim Robinson,2023-2024,Luton Town
+2024-05-11,15:00,Matchweek 37,Away,L,1,3,West Ham United,62475.0,3-4-3,Michael Oliver,2023-2024,Luton Town
+2024-05-19,16:00,Matchweek 38,Home,L,2,4,Fulham,12027.0,3-4-3,Matt Donohue,2023-2024,Luton Town
+2023-08-11,20:00,Matchweek 1,Home,L,0,3,Manchester City,21572.0,5-4-1,Craig Pawson,2023-2024,Burnley
+2023-08-27,14:00,Matchweek 3,Home,L,1,3,Aston Villa,21591.0,4-4-2,Michael Salisbury,2023-2024,Burnley
+2023-09-02,15:00,Matchweek 4,Home,L,2,5,Tottenham Hotspur,21750.0,4-4-2,Darren England,2023-2024,Burnley
+2023-09-18,19:45,Matchweek 5,Away,D,1,1,Nottingham Forest,28958.0,4-2-3-1,Robert Jones,2023-2024,Burnley
+2023-09-23,20:00,Matchweek 6,Home,L,0,1,Manchester United,21593.0,4-3-3,Tony Harrington,2023-2024,Burnley
+2023-09-30,15:00,Matchweek 7,Away,L,0,2,Newcastle United,51687.0,4-2-3-1,Thomas Bramall,2023-2024,Burnley
+2023-10-03,19:30,Matchweek 2,Away,W,2,1,Luton Town,10918.0,4-3-3,Peter Bankes,2023-2024,Burnley
+2023-10-07,15:00,Matchweek 8,Home,L,1,4,Chelsea,21654.0,4-3-3,Stuart Attwell,2023-2024,Burnley
+2023-10-21,15:00,Matchweek 9,Away,L,0,3,Brentford,17029.0,4-2-3-1,Joshua Smith,2023-2024,Burnley
+2023-10-28,15:00,Matchweek 10,Away,L,1,2,Bournemouth,11152.0,4-3-3,Samuel Barrott,2023-2024,Burnley
+2023-11-04,15:00,Matchweek 11,Home,L,0,2,Crystal Palace,21578.0,4-4-2,Peter Bankes,2023-2024,Burnley
+2023-11-11,15:00,Matchweek 12,Away,L,1,3,Arsenal,60232.0,4-4-2,Michael Oliver,2023-2024,Burnley
+2023-11-25,15:00,Matchweek 13,Home,L,1,2,West Ham United,21319.0,4-4-2,Samuel Barrott,2023-2024,Burnley
+2023-12-02,15:00,Matchweek 14,Home,W,5,0,Sheffield United,21478.0,4-4-2,Chris Kavanagh,2023-2024,Burnley
+2023-12-05,19:30,Matchweek 15,Away,L,0,1,Wolverhampton Wanderers,30439.0,4-4-2,Jarred Gillett,2023-2024,Burnley
+2023-12-09,15:00,Matchweek 16,Away,D,1,1,Brighton and Hove Albion,31511.0,4-4-2,Simon Hooper,2023-2024,Burnley
+2023-12-16,17:30,Matchweek 17,Home,L,0,2,Everton,21413.0,4-4-2,Anthony Taylor,2023-2024,Burnley
+2023-12-23,15:00,Matchweek 18,Away,W,2,0,Fulham,23598.0,4-4-2,Rebecca Welch,2023-2024,Burnley
+2023-12-26,17:30,Matchweek 19,Home,L,0,2,Liverpool,21624.0,4-4-2,Paul Tierney,2023-2024,Burnley
+2023-12-30,15:00,Matchweek 20,Away,L,2,3,Aston Villa,41613.0,4-4-2,Stuart Attwell,2023-2024,Burnley
+2024-01-12,19:45,Matchweek 21,Home,D,1,1,Luton Town,20155.0,4-4-2,Tony Harrington,2023-2024,Burnley
+2024-01-31,19:30,Matchweek 22,Away,L,1,3,Manchester City,52143.0,4-4-2,Samuel Barrott,2023-2024,Burnley
+2024-02-03,15:00,Matchweek 23,Home,D,2,2,Fulham,20203.0,4-4-2,Darren Bond,2023-2024,Burnley
+2024-02-10,15:00,Matchweek 24,Away,L,1,3,Liverpool,59896.0,4-4-2,Tim Robinson,2023-2024,Burnley
+2024-02-17,15:00,Matchweek 25,Home,L,0,5,Arsenal,21311.0,4-4-2,Jarred Gillett,2023-2024,Burnley
+2024-02-24,15:00,Matchweek 26,Away,L,0,3,Crystal Palace,24042.0,4-4-2,Lewis Smith,2023-2024,Burnley
+2024-03-03,13:00,Matchweek 27,Home,L,0,2,Bournemouth,19713.0,4-4-2,David Coote,2023-2024,Burnley
+2024-03-10,14:00,Matchweek 28,Away,D,2,2,West Ham United,62441.0,4-4-2,Darren England,2023-2024,Burnley
+2024-03-16,15:00,Matchweek 29,Home,W,2,1,Brentford,20431.0,4-4-2,Darren Bond,2023-2024,Burnley
+2024-03-30,15:00,Matchweek 30,Away,D,2,2,Chelsea,39535.0,4-4-2,Darren England,2023-2024,Burnley
+2024-04-02,19:45,Matchweek 31,Home,D,1,1,Wolverhampton Wanderers,21528.0,4-4-2,Thomas Bramall,2023-2024,Burnley
+2024-04-06,15:00,Matchweek 32,Away,L,0,1,Everton,39125.0,4-4-2,Michael Oliver,2023-2024,Burnley
+2024-04-13,15:00,Matchweek 33,Home,D,1,1,Brighton and Hove Albion,20687.0,4-4-2,Simon Hooper,2023-2024,Burnley
+2024-04-20,15:00,Matchweek 34,Away,W,4,1,Sheffield United,28964.0,4-4-2,Andy Madley,2023-2024,Burnley
+2024-04-27,15:00,Matchweek 35,Away,D,1,1,Manchester United,73571.0,4-4-2,John Brooks,2023-2024,Burnley
+2024-05-04,15:00,Matchweek 36,Home,L,1,4,Newcastle United,21781.0,4-2-3-1,Anthony Taylor,2023-2024,Burnley
+2024-05-11,15:00,Matchweek 37,Away,L,1,2,Tottenham Hotspur,61148.0,4-4-2,Jarred Gillett,2023-2024,Burnley
+2024-05-19,16:00,Matchweek 38,Home,L,1,2,Nottingham Forest,21109.0,4-4-2,Graham Scott,2023-2024,Burnley
+2023-08-12,15:00,Matchweek 1,Home,L,0,1,Crystal Palace,31194.0,3-4-3,John Brooks,2023-2024,Sheffield United
+2023-08-18,19:45,Matchweek 2,Away,L,1,2,Nottingham Forest,29432.0,3-4-3,Peter Bankes,2023-2024,Sheffield United
+2023-08-27,14:00,Matchweek 3,Home,L,1,2,Manchester City,31336.0,3-5-2,Jarred Gillett,2023-2024,Sheffield United
+2023-09-02,12:30,Matchweek 4,Home,D,2,2,Everton,31124.0,3-5-2,Andy Madley,2023-2024,Sheffield United
+2023-09-16,15:00,Matchweek 5,Away,L,1,2,Tottenham Hotspur,61706.0,3-5-2,Peter Bankes,2023-2024,Sheffield United
+2023-09-24,16:30,Matchweek 6,Home,L,0,8,Newcastle United,31127.0,3-4-3,Stuart Attwell,2023-2024,Sheffield United
+2023-09-30,15:00,Matchweek 7,Away,L,0,2,West Ham United,62459.0,3-5-2,Graham Scott,2023-2024,Sheffield United
+2023-10-07,15:00,Matchweek 8,Away,L,1,3,Fulham,24361.0,3-5-2,Samuel Barrott,2023-2024,Sheffield United
+2023-10-21,20:00,Matchweek 9,Home,L,1,2,Manchester United,31543.0,4-4-2,Michael Oliver,2023-2024,Sheffield United
+2023-10-28,15:00,Matchweek 10,Away,L,0,5,Arsenal,60153.0,4-4-2,Tim Robinson,2023-2024,Sheffield United
+2023-11-04,15:00,Matchweek 11,Home,W,2,1,Wolverhampton Wanderers,29454.0,3-4-1-2,Robert Jones,2023-2024,Sheffield United
+2023-11-12,14:00,Matchweek 12,Away,D,1,1,Brighton and Hove Albion,31367.0,3-4-3,John Brooks,2023-2024,Sheffield United
+2023-11-25,15:00,Matchweek 13,Home,L,1,3,Bournemouth,30208.0,3-4-3,Andy Madley,2023-2024,Sheffield United
+2023-12-02,15:00,Matchweek 14,Away,L,0,5,Burnley,21478.0,3-4-3,Chris Kavanagh,2023-2024,Sheffield United
+2023-12-06,19:30,Matchweek 15,Home,L,0,2,Liverpool,31406.0,3-4-3,Simon Hooper,2023-2024,Sheffield United
+2023-12-09,15:00,Matchweek 16,Home,W,1,0,Brentford,28509.0,4-1-4-1,Stuart Attwell,2023-2024,Sheffield United
+2023-12-16,15:00,Matchweek 17,Away,L,0,2,Chelsea,39599.0,4-1-4-1,Andy Madley,2023-2024,Sheffield United
+2023-12-22,20:00,Matchweek 18,Away,D,1,1,Aston Villa,41651.0,3-4-3,Anthony Taylor,2023-2024,Sheffield United
+2023-12-26,15:00,Matchweek 19,Home,L,2,3,Luton Town,31041.0,4-4-2,Samuel Allison,2023-2024,Sheffield United
+2023-12-30,15:00,Matchweek 20,Away,L,0,2,Manchester City,53108.0,3-4-3,David Coote,2023-2024,Sheffield United
+2024-01-21,14:00,Matchweek 21,Home,D,2,2,West Ham United,29164.0,4-1-4-1,Michael Salisbury,2023-2024,Sheffield United
+2024-01-30,20:00,Matchweek 22,Away,L,2,3,Crystal Palace,24781.0,4-1-4-1,Tony Harrington,2023-2024,Sheffield United
+2024-02-03,17:30,Matchweek 23,Home,L,0,5,Aston Villa,30187.0,5-4-1,Paul Tierney,2023-2024,Sheffield United
+2024-02-10,15:00,Matchweek 24,Away,W,3,1,Luton Town,11138.0,5-4-1,Chris Kavanagh,2023-2024,Sheffield United
+2024-02-18,14:00,Matchweek 25,Home,L,0,5,Brighton and Hove Albion,29522.0,3-5-1-1,Stuart Attwell,2023-2024,Sheffield United
+2024-02-25,13:30,Matchweek 26,Away,L,0,1,Wolverhampton Wanderers,30789.0,3-5-2,Darren Bond,2023-2024,Sheffield United
+2024-03-04,20:00,Matchweek 27,Home,L,0,6,Arsenal,29157.0,4-5-1,Samuel Barrott,2023-2024,Sheffield United
+2024-03-09,15:00,Matchweek 28,Away,D,2,2,Bournemouth,11074.0,3-5-2,Anthony Taylor,2023-2024,Sheffield United
+2024-03-30,15:00,Matchweek 30,Home,D,3,3,Fulham,30010.0,3-5-2,Tim Robinson,2023-2024,Sheffield United
+2024-04-04,19:30,Matchweek 31,Away,L,1,3,Liverpool,60055.0,3-5-2,Stuart Attwell,2023-2024,Sheffield United
+2024-04-07,17:30,Matchweek 32,Home,D,2,2,Chelsea,28638.0,3-5-2,Robert Jones,2023-2024,Sheffield United
+2024-04-13,15:00,Matchweek 33,Away,L,0,2,Brentford,17115.0,3-5-2,Samuel Barrott,2023-2024,Sheffield United
+2024-04-20,15:00,Matchweek 34,Home,L,1,4,Burnley,28964.0,4-2-3-1,Andy Madley,2023-2024,Sheffield United
+2024-04-24,20:00,Matchweek 29,Away,L,2,4,Manchester United,73549.0,3-5-2,Michael Salisbury,2023-2024,Sheffield United
+2024-04-27,15:00,Matchweek 35,Away,L,1,5,Newcastle United,52196.0,3-5-2,Tony Harrington,2023-2024,Sheffield United
+2024-05-04,15:00,Matchweek 36,Home,L,1,3,Nottingham Forest,28516.0,3-5-2,Chris Kavanagh,2023-2024,Sheffield United
+2024-05-11,15:00,Matchweek 37,Away,L,0,1,Everton,39221.0,3-5-2,Stuart Attwell,2023-2024,Sheffield United
+2024-05-19,16:00,Matchweek 38,Home,L,0,3,Tottenham Hotspur,29116.0,5-3-2,Andy Madley,2023-2024,Sheffield United
