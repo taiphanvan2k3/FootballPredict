@@ -1,0 +1,8 @@
+{
+    "LR": {
+        "solver": "saga",
+        "penalty": "l2",
+        "class_weight": null,
+        "C": 0.23357214690901212
+    }
+}
